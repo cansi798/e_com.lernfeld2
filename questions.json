@@ -1,0 +1,5735 @@
+[
+ {
+  "id": "t01a-01",
+  "tag": 1,
+  "thema": "Sortiment im Onlinehandel",
+  "frage": "Nischenprodukte",
+  "optionen": [
+   "decken nur einen kleinen Teil des Gesamtbedarfs ab",
+   "werden immer in Massenproduktion hergestellt",
+   "sind online grundsätzlich unwirtschaftlich",
+   "gehören immer zum Kernsortiment"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t01a-02",
+  "tag": 1,
+  "thema": "Sortiment im Onlinehandel",
+  "frage": "Welche Kundendienstleistung ist nicht warenbezogen?",
+  "optionen": [
+   "Reparaturservice",
+   "Ersatzteilversorgung",
+   "Ratenzahlung",
+   "Beratung zum Produkt"
+  ],
+  "richtig": 2
+ },
+ {
+  "id": "t01a-03",
+  "tag": 1,
+  "thema": "Sortiment im Onlinehandel",
+  "frage": "Die Sortimentskontrolle soll vor allem Informationen liefern über",
+  "optionen": [
+   "die Zahlungsmoral der Kunden",
+   "Sortimentslücken und schwer verkäufliche Waren",
+   "die Höhe der Versandkosten",
+   "die Lieferzeiten der Lieferanten"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t01a-04",
+  "tag": 1,
+  "thema": "Sortiment im Onlinehandel",
+  "frage": "NOS-Artikel sind",
+  "optionen": [
+   "Artikel, die nur kurzfristig angeboten werden",
+   "Standardartikel, die dauerhaft im Sortiment und immer auf Lager sein sollen",
+   "Artikel ohne Lagerhaltung",
+   "Nischenprodukte mit hoher Marge"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t01a-05",
+  "tag": 1,
+  "thema": "Sortiment im Onlinehandel",
+  "frage": "Die Rennerliste enthält",
+  "optionen": [
+   "Artikel, die gut verkauft wurden",
+   "Artikel, die schlecht verkauft wurden",
+   "Artikel ohne Lagerbestand",
+   "neue Lieferanten"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t01a-06",
+  "tag": 1,
+  "thema": "Sortiment im Onlinehandel",
+  "frage": "Wofür steht die Abkürzung NOS?",
+  "optionen": [
+   "new online sale",
+   "never out of stock",
+   "number of sorts",
+   "net order system"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t01a-07",
+  "tag": 1,
+  "thema": "Sortiment im Onlinehandel",
+  "frage": "Sortimentserweiterung wird auch bezeichnet als",
+  "optionen": [
+   "Produktelimination",
+   "Produktdifferenzierung",
+   "Sortimentskontrolle",
+   "Fehlverkaufskontrolle"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t01a-08",
+  "tag": 1,
+  "thema": "Sortiment im Onlinehandel",
+  "frage": "Ein Discounter mit vielen Warengruppen, aber nur einem Artikel je Warenart hat ein Sortiment, das",
+  "optionen": [
+   "schmal und tief ist",
+   "breit und flach ist",
+   "breit und tief ist",
+   "schmal und flach ist"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t01a-09",
+  "tag": 1,
+  "thema": "Sortiment im Onlinehandel",
+  "frage": "Welche Kundendienstleistung ist warenbezogen?",
+  "optionen": [
+   "Geschenkverpackung",
+   "Parkplatz vor dem Geschäft",
+   "Montage eines Möbelstücks",
+   "Kinderbetreuung"
+  ],
+  "richtig": 2
+ },
+ {
+  "id": "t01a-10",
+  "tag": 1,
+  "thema": "Sortiment im Onlinehandel",
+  "frage": "Welche Bestimmungsgröße der Sortimentspolitik ist genannt?",
+  "optionen": [
+   "Wetterlage",
+   "Konkurrenzsituation",
+   "Farbe des Logos",
+   "Größe des Firmenparkplatzes"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t01a-11",
+  "tag": 1,
+  "thema": "Sortiment im Onlinehandel",
+  "frage": "Welche Reihenfolge der Gliederung ist richtig (von grob nach fein)?",
+  "optionen": [
+   "Artikel, Warenart, Warengruppe, Sorte",
+   "Warengruppe, Warenart, Artikel, Sorte",
+   "Sorte, Artikel, Warenart, Warengruppe",
+   "Warenart, Warengruppe, Sorte, Artikel"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t01a-12",
+  "tag": 1,
+  "thema": "Sortiment im Onlinehandel",
+  "frage": "Ein Onlinehändler nimmt umweltverträgliche Waren ins Sortiment auf und streicht belastende Waren. Er reagiert damit auf",
+  "optionen": [
+   "die Konkurrenz",
+   "das gestiegene Umweltbewusstsein der Kunden",
+   "gesunkene Lagerkosten",
+   "die Rennerliste"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t01a-13",
+  "tag": 1,
+  "thema": "Sortiment im Onlinehandel",
+  "frage": "Ein Webshop verkauft ausschließlich Laufschuhe, davon aber 300 Modelle in vielen Größen. Das Sortiment ist",
+  "optionen": [
+   "breit und flach",
+   "breit und tief",
+   "schmal und tief",
+   "schmal und flach"
+  ],
+  "richtig": 2
+ },
+ {
+  "id": "t01a-14",
+  "tag": 1,
+  "thema": "Sortiment im Onlinehandel",
+  "frage": "Die Sortimentsbreite wird bestimmt durch",
+  "optionen": [
+   "die Zahl der Artikel und Sorten je Warenart",
+   "die Zahl der Warengruppen und Warenarten",
+   "die Höhe des Lagerbestands",
+   "die Zahl der Lieferanten"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t01a-15",
+  "tag": 1,
+  "thema": "Sortiment im Onlinehandel",
+  "frage": "Eine Baumwollcordhose in Schwarz, Größe 40 ist ein Beispiel für",
+  "optionen": [
+   "eine Warengruppe",
+   "eine Warenart",
+   "einen Artikel",
+   "eine Sorte"
+  ],
+  "richtig": 3
+ },
+ {
+  "id": "t01a-16",
+  "tag": 1,
+  "thema": "Sortiment im Onlinehandel",
+  "frage": "Was versteht man unter dem Sortiment eines Handelsunternehmens?",
+  "optionen": [
+   "Nur die Waren des Kernbereichs",
+   "Die Gesamtheit aller angebotenen Waren und Dienstleistungen",
+   "Alle Waren, die im Lager vorrätig sind",
+   "Die Liste der Lieferanten"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t01a-17",
+  "tag": 1,
+  "thema": "Sortiment im Onlinehandel",
+  "frage": "Von einem Nichtverkauf spricht man, wenn",
+  "optionen": [
+   "eine geführte Ware nicht auf Lager ist",
+   "eine Ware nachgefragt wird, die nicht im Sortiment geführt wird",
+   "ein Kunde den Warenkorb abbricht",
+   "ein Artikel auf der Pennerliste steht"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t01a-18",
+  "tag": 1,
+  "thema": "Sortiment im Onlinehandel",
+  "frage": "Warum gewinnt der Kundendienst zunehmend an Bedeutung?",
+  "optionen": [
+   "Weil Produkte immer austauschbarer werden und Service zur Abgrenzung dient",
+   "Weil Kunden keine Beratung mehr wünschen",
+   "Weil Dienstleistungen kostenlos sind",
+   "Weil das Sortiment dadurch schmaler wird"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t01a-19",
+  "tag": 1,
+  "thema": "Sortiment im Onlinehandel",
+  "frage": "Die kurzfristige Erfolgsrechnung (KER)",
+  "optionen": [
+   "ist ein Teilgebiet des Rechnungswesens und liefert artikelgenaue Ergebnisse",
+   "ist eine Methode der Bezugsquellenermittlung",
+   "ersetzt die Inventur",
+   "wird nur einmal jährlich durchgeführt"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t01a-20",
+  "tag": 1,
+  "thema": "Sortiment im Onlinehandel",
+  "frage": "Welche Aussage über Massenprodukte ist richtig?",
+  "optionen": [
+   "Sie werden in großen Stückzahlen hergestellt",
+   "Sie decken nur einen kleinen Bedarf",
+   "Sie sind online nicht verkäuflich",
+   "Sie gehören immer zum Randsortiment"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t01a-21",
+  "tag": 1,
+  "thema": "Sortiment im Onlinehandel",
+  "frage": "Die Aufnahme zusätzlicher Warengruppen führt zu",
+  "optionen": [
+   "einer Sortimentsvertiefung",
+   "einer Sortimentsverbreiterung",
+   "einer Sortimentsbereinigung",
+   "einem Fehlverkauf"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t01a-22",
+  "tag": 1,
+  "thema": "Sortiment im Onlinehandel",
+  "frage": "Von einem Fehlverkauf spricht man, wenn",
+  "optionen": [
+   "ein Kunde eine Ware nachfragt, die nicht im Sortiment ist",
+   "eine im Sortiment geführte Ware bei Nachfrage nicht auf Lager ist",
+   "ein Artikel zu billig verkauft wird",
+   "ein Artikel zurückgeschickt wird"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t01a-23",
+  "tag": 1,
+  "thema": "Sortiment im Onlinehandel",
+  "frage": "Die Pennerliste enthält",
+  "optionen": [
+   "die umsatzstärksten Artikel",
+   "Artikel, die wenig verkauft wurden",
+   "Artikel des Randsortiments",
+   "Artikel mit den höchsten Preisen"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t01a-24",
+  "tag": 1,
+  "thema": "Sortiment im Onlinehandel",
+  "frage": "Welches Instrument im Webshop liefert Hinweise auf Nichtverkäufe?",
+  "optionen": [
+   "Die Auswertung von Suchanfragen ohne Treffer",
+   "Die Lagerinventur",
+   "Das Impressum",
+   "Der Footer"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t01a-25",
+  "tag": 1,
+  "thema": "Sortiment im Onlinehandel",
+  "frage": "Die Aufnahme zusätzlicher Artikel und Sorten in bestehende Warenarten führt zu",
+  "optionen": [
+   "einer Sortimentsverbreiterung",
+   "einer Sortimentsvertiefung",
+   "einer Produktelimination",
+   "einer Verringerung der Breite"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t01a-26",
+  "tag": 1,
+  "thema": "Sortiment im Onlinehandel",
+  "frage": "Das Kernsortiment",
+  "optionen": [
+   "bringt in der Regel den geringeren Umsatzanteil",
+   "ist der Sortimentsteil, auf den sich die Haupttätigkeit erstreckt",
+   "besteht nur aus Nischenprodukten",
+   "wird nur saisonal geführt"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t01a-27",
+  "tag": 1,
+  "thema": "Sortiment im Onlinehandel",
+  "frage": "Sortimentsbereinigung wird auch bezeichnet als",
+  "optionen": [
+   "Produktdifferenzierung",
+   "Produktelimination",
+   "Diversifikation",
+   "Produktinnovation"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t01a-28",
+  "tag": 1,
+  "thema": "Sortiment im Onlinehandel",
+  "frage": "Das Randsortiment dient dazu,",
+  "optionen": [
+   "das Kernsortiment abzurunden",
+   "den Hauptumsatz zu erzielen",
+   "Lieferanten zu binden",
+   "die Sortimentstiefe zu verringern"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t01b-01",
+  "tag": 1,
+  "thema": "Layout und Seiten des Webshops",
+  "frage": "Die Buy-Box auf der Produktdetailseite enthält",
+  "optionen": [
+   "die Datenschutzerklärung",
+   "Preis, Verfügbarkeit und den Button zum Warenkorb",
+   "die Kategorieübersicht",
+   "das Impressum"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t01b-02",
+  "tag": 1,
+  "thema": "Layout und Seiten des Webshops",
+  "frage": "Welche Angabe muss auf der Produktdetailseite beim Preis stehen?",
+  "optionen": [
+   "Der Hinweis, dass der Preis die Mehrwertsteuer enthält, und ein Hinweis zu den Versandkosten",
+   "Der Einkaufspreis des Händlers",
+   "Der Name des Lieferanten",
+   "Die Lagernummer"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t01b-03",
+  "tag": 1,
+  "thema": "Layout und Seiten des Webshops",
+  "frage": "Auf welcher Seite fällt in der Regel die Kaufentscheidung?",
+  "optionen": [
+   "Startseite",
+   "Produktdetailseite",
+   "Impressum",
+   "Kontaktseite"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t01b-04",
+  "tag": 1,
+  "thema": "Layout und Seiten des Webshops",
+  "frage": "Welche Funktion gehört zu den Filtern auf einer Kategorieseite?",
+  "optionen": [
+   "Eingrenzen nach Größe und Farbe",
+   "Bezahlen per Kreditkarte",
+   "Anzeige der AGB",
+   "Anlegen eines Kundenkontos"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t01b-05",
+  "tag": 1,
+  "thema": "Layout und Seiten des Webshops",
+  "frage": "Die dritte Spalte einer Webshopseite dient häufig für",
+  "optionen": [
+   "Rechtstexte",
+   "Empfehlungen, Aktionen und Gütesiegel",
+   "das Logo",
+   "die Hauptnavigation"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t01b-06",
+  "tag": 1,
+  "thema": "Layout und Seiten des Webshops",
+  "frage": "Teaser auf der Startseite sind",
+  "optionen": [
+   "kurze Anreißer für Aktionen, Neuheiten oder Kategorien",
+   "gesetzliche Pflichttexte",
+   "Filteroptionen",
+   "Versandoptionen"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t01b-07",
+  "tag": 1,
+  "thema": "Layout und Seiten des Webshops",
+  "frage": "Was bedeutet Call to Action?",
+  "optionen": [
+   "Eine Beschwerde des Kunden",
+   "Eine klare Handlungsaufforderung, z. B. Jetzt kaufen",
+   "Ein Telefonanruf im Kundenservice",
+   "Eine Lieferantenanfrage"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t01b-08",
+  "tag": 1,
+  "thema": "Layout und Seiten des Webshops",
+  "frage": "Die Produktkategorienseite zeigt",
+  "optionen": [
+   "genau ein Produkt mit allen Details",
+   "alle Artikel einer Warengruppe oder Warenart",
+   "nur die Rechtstexte",
+   "den Bestellabschluss"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t01b-09",
+  "tag": 1,
+  "thema": "Layout und Seiten des Webshops",
+  "frage": "Welche Aussage über den Footer ist richtig?",
+  "optionen": [
+   "Er enthält die Hauptnavigation",
+   "Er enthält Pflichtangaben und Serviceinformationen",
+   "Er ist auf Kategorieseiten nicht vorhanden",
+   "Er dient nur der Dekoration"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t01b-10",
+  "tag": 1,
+  "thema": "Layout und Seiten des Webshops",
+  "frage": "Was ist eine Breadcrumb-Navigation?",
+  "optionen": [
+   "Eine Anzeige des Navigationspfads, z. B. Startseite, Mode, Mäntel",
+   "Ein Newsletter",
+   "Eine Filterfunktion für Preise",
+   "Ein Gütesiegel"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t01b-11",
+  "tag": 1,
+  "thema": "Layout und Seiten des Webshops",
+  "frage": "Trust-Elemente auf der Startseite sind zum Beispiel",
+  "optionen": [
+   "Gütesiegel und Kundenbewertungen",
+   "Warengruppen",
+   "Filter",
+   "Sortieroptionen"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t01b-12",
+  "tag": 1,
+  "thema": "Layout und Seiten des Webshops",
+  "frage": "Impressum, AGB und Datenschutzerklärung werden üblicherweise verlinkt im",
+  "optionen": [
+   "Header",
+   "Body",
+   "Footer",
+   "Warenkorb"
+  ],
+  "richtig": 2
+ },
+ {
+  "id": "t01b-13",
+  "tag": 1,
+  "thema": "Layout und Seiten des Webshops",
+  "frage": "Cross-Selling-Empfehlungen auf der Produktdetailseite bieten",
+  "optionen": [
+   "ergänzende Artikel zum gewählten Produkt an",
+   "die AGB an",
+   "Filter an",
+   "den Lieferanten an"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t01b-14",
+  "tag": 1,
+  "thema": "Layout und Seiten des Webshops",
+  "frage": "Die Conversion Rate gibt an,",
+  "optionen": [
+   "wie viele Artikel im Sortiment sind",
+   "welcher Anteil der Besucher die gewünschte Handlung ausführt",
+   "wie hoch der durchschnittliche Warenkorb ist",
+   "wie lange ein Artikel auf Lager liegt"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t01b-15",
+  "tag": 1,
+  "thema": "Layout und Seiten des Webshops",
+  "frage": "Eine Landing Page ist",
+  "optionen": [
+   "die Startseite des Shops",
+   "die Zielseite einer bestimmten Werbemaßnahme",
+   "die Seite mit den AGB",
+   "die Warenkorbseite"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t01b-16",
+  "tag": 1,
+  "thema": "Layout und Seiten des Webshops",
+  "frage": "Die zweite Navigation im Body enthält meist",
+  "optionen": [
+   "das Impressum",
+   "Filter und Unterkategorien",
+   "die Zahlungsarten",
+   "den Newsletter"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t01b-17",
+  "tag": 1,
+  "thema": "Layout und Seiten des Webshops",
+  "frage": "Typisch für eine Landing Page ist",
+  "optionen": [
+   "eine vollständige Hauptnavigation mit allen Kategorien",
+   "ein Thema, ein Ziel und ein Call to Action",
+   "eine Vielzahl unterschiedlicher Angebote",
+   "das Fehlen einer Handlungsaufforderung"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t01b-18",
+  "tag": 1,
+  "thema": "Layout und Seiten des Webshops",
+  "frage": "Ein Kategorietext ist wichtig, weil er",
+  "optionen": [
+   "gesetzlich vorgeschrieben ist",
+   "die Auffindbarkeit in Suchmaschinen unterstützt",
+   "den Preis festlegt",
+   "das Impressum ersetzt"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t01b-19",
+  "tag": 1,
+  "thema": "Layout und Seiten des Webshops",
+  "frage": "Welcher Bereich einer Webshopseite enthält typischerweise Logo, Suchfeld und Warenkorb-Symbol?",
+  "optionen": [
+   "Footer",
+   "Header",
+   "Dritte Spalte",
+   "Breadcrumb"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t01b-20",
+  "tag": 1,
+  "thema": "Layout und Seiten des Webshops",
+  "frage": "Welche Funktion gehört zur Sortierung auf einer Kategorieseite?",
+  "optionen": [
+   "Nach Preis aufsteigend",
+   "Impressum anzeigen",
+   "Zum Warenkorb hinzufügen",
+   "Newsletter abonnieren"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t01b-21",
+  "tag": 1,
+  "thema": "Layout und Seiten des Webshops",
+  "frage": "Welche Seite hat eine bewusst reduzierte Navigation?",
+  "optionen": [
+   "Startseite",
+   "Landing Page",
+   "Kategorieseite",
+   "Warenkorb"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t01b-22",
+  "tag": 1,
+  "thema": "Layout und Seiten des Webshops",
+  "frage": "Paginierung bedeutet auf einer Kategorieseite",
+  "optionen": [
+   "Aufteilung der Treffer auf mehrere Seiten",
+   "Anzeige des Preises",
+   "Anzeige der Lieferzeit",
+   "Sortierung nach Beliebtheit"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t01b-23",
+  "tag": 1,
+  "thema": "Layout und Seiten des Webshops",
+  "frage": "Ein einheitliches Layout auf allen Seiten dient vor allem",
+  "optionen": [
+   "der Orientierung der Kunden",
+   "der Senkung der Versandkosten",
+   "der Lagerhaltung",
+   "der Preisfindung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t01b-24",
+  "tag": 1,
+  "thema": "Layout und Seiten des Webshops",
+  "frage": "Responsive Design bedeutet, dass",
+  "optionen": [
+   "die Seite nur am Desktop funktioniert",
+   "sich die Darstellung dem Endgerät anpasst",
+   "die Seite schneller lädt",
+   "der Shop automatisch übersetzt wird"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t01b-25",
+  "tag": 1,
+  "thema": "Layout und Seiten des Webshops",
+  "frage": "Der Erfolg einer Landing Page wird gemessen mit der",
+  "optionen": [
+   "Lagerumschlagshäufigkeit",
+   "Conversion Rate",
+   "Sortimentstiefe",
+   "Bruttomarge"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t01b-26",
+  "tag": 1,
+  "thema": "Layout und Seiten des Webshops",
+  "frage": "Welches Element gehört auf eine Produktdetailseite?",
+  "optionen": [
+   "Variantenauswahl und Verfügbarkeit",
+   "Liste aller Lieferanten",
+   "Bilanz des Unternehmens",
+   "Dienstplan des Lagers"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t01b-27",
+  "tag": 1,
+  "thema": "Layout und Seiten des Webshops",
+  "frage": "Welche Aufgabe hat die Startseite vor allem?",
+  "optionen": [
+   "Rechnungen zu erstellen",
+   "Besucher schnell zu Kategorien und Produkten zu führen",
+   "Lieferanten zu informieren",
+   "Retouren abzuwickeln"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t01b-28",
+  "tag": 1,
+  "thema": "Layout und Seiten des Webshops",
+  "frage": "Die Absprungrate (Bounce Rate) beschreibt",
+  "optionen": [
+   "den Anteil der Besucher, die den Shop nach einer Seite wieder verlassen",
+   "den Anteil der retournierten Waren",
+   "die Zahl der Filter",
+   "die Zahl der Warengruppen"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t02a-01",
+  "tag": 2,
+  "thema": "Impressum und Haftung",
+  "frage": "Ein Kunde meldet dem Shop eine beleidigende Bewertung. Der Shop reagiert vier Wochen nicht. Rechtlich",
+  "optionen": [
+   "haftet der Shop, weil er nach Kenntnis nicht unverzüglich handelte",
+   "ist das unproblematisch",
+   "haftet nur der Kunde",
+   "haftet der Hoster"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t02a-02",
+  "tag": 2,
+  "thema": "Impressum und Haftung",
+  "frage": "Ein Postfach als Anschrift im Impressum ist",
+  "optionen": [
+   "ausreichend",
+   "nicht ausreichend, es muss eine ladungsfähige Anschrift sein",
+   "nur bei Kleinunternehmern erlaubt",
+   "nur im Ausland erlaubt"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t02a-03",
+  "tag": 2,
+  "thema": "Impressum und Haftung",
+  "frage": "Was bedeutet Notice and Take Down?",
+  "optionen": [
+   "Nach Hinweis auf einen Rechtsverstoß muss der Inhalt unverzüglich entfernt oder gesperrt werden",
+   "Der Shop wird vom Netz genommen",
+   "Der Kunde erhält eine Gutschrift",
+   "Die Bestellung wird storniert"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t02a-04",
+  "tag": 2,
+  "thema": "Impressum und Haftung",
+  "frage": "Wer kann bei einem fehlerhaften Impressum abmahnen?",
+  "optionen": [
+   "Nur die Polizei",
+   "Mitbewerber und Verbände",
+   "Nur Kunden",
+   "Nur das Finanzamt"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t02a-06",
+  "tag": 2,
+  "thema": "Impressum und Haftung",
+  "frage": "Das Kopieren fremder Produktbeschreibungen ist",
+  "optionen": [
+   "erlaubt, wenn die Quelle genannt wird",
+   "eine Urheberrechtsverletzung",
+   "bei kurzen Texten immer erlaubt",
+   "nur bei Konkurrenten verboten"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t02a-07",
+  "tag": 2,
+  "thema": "Impressum und Haftung",
+  "frage": "Folgen einer Urheberrechtsverletzung können sein",
+  "optionen": [
+   "Abmahnung, Unterlassung und Schadensersatz",
+   "nur eine Verwarnung",
+   "Verlust der Umsatzsteuer-ID",
+   "Sperrung des Handelsregisters"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t02a-08",
+  "tag": 2,
+  "thema": "Impressum und Haftung",
+  "frage": "Die Umsatzsteuer-Identifikationsnummer muss im Impressum stehen,",
+  "optionen": [
+   "immer",
+   "sofern eine vorhanden ist",
+   "nur bei Aktiengesellschaften",
+   "nie"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t02a-09",
+  "tag": 2,
+  "thema": "Impressum und Haftung",
+  "frage": "Für Kundenbewertungen im Shop haftet der Betreiber",
+  "optionen": [
+   "immer sofort",
+   "ab Kenntnis eines Rechtsverstoßes, wenn er nicht unverzüglich handelt",
+   "nie",
+   "nur wenn er die Bewertung selbst geschrieben hat"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t02a-10",
+  "tag": 2,
+  "thema": "Impressum und Haftung",
+  "frage": "Das Impressum muss",
+  "optionen": [
+   "nur auf der Startseite stehen",
+   "leicht erkennbar, unmittelbar erreichbar und ständig verfügbar sein",
+   "nur auf Anfrage zugesendet werden",
+   "im Warenkorb versteckt werden"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t02a-11",
+  "tag": 2,
+  "thema": "Impressum und Haftung",
+  "frage": "Lizenzfreie Bilder",
+  "optionen": [
+   "dürfen ohne jede Bedingung genutzt werden",
+   "unterliegen Lizenzbedingungen, z. B. Namensnennung",
+   "sind immer kostenpflichtig",
+   "dürfen nicht kommerziell genutzt werden"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t02a-12",
+  "tag": 2,
+  "thema": "Impressum und Haftung",
+  "frage": "Welche Angabe gehört nicht zwingend ins Impressum?",
+  "optionen": [
+   "Ladungsfähige Anschrift",
+   "Vertretungsberechtigter Geschäftsführer",
+   "Private Handynummer des Geschäftsführers",
+   "E-Mail-Adresse"
+  ],
+  "richtig": 2
+ },
+ {
+  "id": "t02a-13",
+  "tag": 2,
+  "thema": "Impressum und Haftung",
+  "frage": "Herstellerfotos dürfen im eigenen Shop verwendet werden,",
+  "optionen": [
+   "immer, da sie öffentlich sind",
+   "nur mit Lizenz oder Zustimmung des Rechteinhabers",
+   "nur in schwarz-weiß",
+   "nur bei Preisen über 100 Euro"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t02a-14",
+  "tag": 2,
+  "thema": "Impressum und Haftung",
+  "frage": "Aufsichtsbehörde und Berufskammer müssen genannt werden",
+  "optionen": [
+   "bei allen Shops",
+   "bei erlaubnispflichtigen Tätigkeiten und reglementierten Berufen",
+   "nur bei Apotheken",
+   "nie"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t02a-15",
+  "tag": 2,
+  "thema": "Impressum und Haftung",
+  "frage": "Welche Bezeichnung für das Impressum ist zulässig?",
+  "optionen": [
+   "Sonstiges",
+   "Anbieterkennzeichnung",
+   "Downloads",
+   "Karriere"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t02a-16",
+  "tag": 2,
+  "thema": "Impressum und Haftung",
+  "frage": "Eine Unterlassungserklärung enthält in der Regel",
+  "optionen": [
+   "eine Vertragsstrafe für den Wiederholungsfall",
+   "einen Rabatt für den Mitbewerber",
+   "eine Preisbindung",
+   "eine Lieferfrist"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t02a-17",
+  "tag": 2,
+  "thema": "Impressum und Haftung",
+  "frage": "Eine Abmahnung ist",
+  "optionen": [
+   "eine Aufforderung, einen Rechtsverstoß zu beenden und eine Unterlassungserklärung abzugeben",
+   "eine Kündigung des Kundenvertrags",
+   "ein behördliches Bußgeld",
+   "eine Mahnung wegen offener Rechnung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t02a-18",
+  "tag": 2,
+  "thema": "Impressum und Haftung",
+  "frage": "Für eigene Inhalte auf der Webseite haftet der Anbieter",
+  "optionen": [
+   "nie",
+   "erst nach einer Abmahnung",
+   "voll und unmittelbar",
+   "nur bei Vorsatz"
+  ],
+  "richtig": 2
+ },
+ {
+  "id": "t02a-20",
+  "tag": 2,
+  "thema": "Impressum und Haftung",
+  "frage": "Die Kosten einer berechtigten Abmahnung trägt",
+  "optionen": [
+   "der Abmahnende",
+   "der Abgemahnte",
+   "der Staat",
+   "die IHK"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t02a-22",
+  "tag": 2,
+  "thema": "Impressum und Haftung",
+  "frage": "Muss ein Unternehmensprofil auf Instagram ein Impressum haben?",
+  "optionen": [
+   "Nein, nur Webshops",
+   "Ja, ein Link zum Impressum genügt",
+   "Nur ab 1.000 Followern",
+   "Nur bei bezahlter Werbung"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t02a-25",
+  "tag": 2,
+  "thema": "Impressum und Haftung",
+  "frage": "Handelsregisterangaben umfassen",
+  "optionen": [
+   "Registergericht und Registernummer",
+   "Bilanzsumme",
+   "Anzahl der Mitarbeiter",
+   "Gründungsjahr"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t02a-26",
+  "tag": 2,
+  "thema": "Impressum und Haftung",
+  "frage": "Personen auf Produktfotos",
+  "optionen": [
+   "müssen der Veröffentlichung zustimmen",
+   "haben keine Rechte",
+   "müssen bezahlt werden",
+   "müssen im Impressum genannt werden"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t02a-27",
+  "tag": 2,
+  "thema": "Impressum und Haftung",
+  "frage": "Ein fehlendes Impressum ist",
+  "optionen": [
+   "eine Straftat mit Freiheitsstrafe",
+   "eine Ordnungswidrigkeit, die mit Bußgeld geahndet werden kann",
+   "folgenlos",
+   "nur ein Verstoß gegen die AGB"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t02a-28",
+  "tag": 2,
+  "thema": "Impressum und Haftung",
+  "frage": "Bei einer GmbH muss im Impressum genannt werden",
+  "optionen": [
+   "der Betriebsrat",
+   "der oder die Geschäftsführer",
+   "alle Gesellschafter",
+   "der Steuerberater"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t02a-29",
+  "tag": 2,
+  "thema": "Impressum und Haftung",
+  "frage": "Die Impressumspflicht dient vor allem",
+  "optionen": [
+   "der Preisgestaltung",
+   "dem Verbraucherschutz und dem fairen Wettbewerb",
+   "der Lagerhaltung",
+   "der Suchmaschinenoptimierung"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t02a-30",
+  "tag": 2,
+  "thema": "Impressum und Haftung",
+  "frage": "Ein Disclaimer wie Für verlinkte Seiten übernehmen wir keine Haftung",
+  "optionen": [
+   "schließt jede Haftung aus",
+   "schützt nicht automatisch vor Haftung",
+   "ist gesetzlich vorgeschrieben",
+   "ersetzt das Impressum"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t02b-01",
+  "tag": 2,
+  "thema": "Produktinformationen und Kennzeichnungen",
+  "frage": "Warnhinweise wie Nicht für Kinder unter 3 Jahren geeignet gehören",
+  "optionen": [
+   "ins Impressum",
+   "auf die Produktdetailseite und Verpackung",
+   "nur in die AGB",
+   "nur in den Newsletter"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t02b-02",
+  "tag": 2,
+  "thema": "Produktinformationen und Kennzeichnungen",
+  "frage": "Die Abgrenzung von ERP und PIM ist",
+  "optionen": [
+   "ERP verwaltet Bestände und Preise, PIM die beschreibenden Produktdaten",
+   "beide sind identisch",
+   "PIM verwaltet die Buchhaltung",
+   "ERP verwaltet nur Bilder"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t02b-03",
+  "tag": 2,
+  "thema": "Produktinformationen und Kennzeichnungen",
+  "frage": "Die CE-Kennzeichnung bedeutet",
+  "optionen": [
+   "ein unabhängiges Prüfinstitut hat das Produkt geprüft",
+   "der Hersteller erklärt die Einhaltung der EU-Vorschriften",
+   "das Produkt ist in China hergestellt",
+   "das Produkt ist energiesparend"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t02b-07",
+  "tag": 2,
+  "thema": "Produktinformationen und Kennzeichnungen",
+  "frage": "Der Hinweis auf das Widerrufsrecht",
+  "optionen": [
+   "ist eine Informationspflicht gegenüber Verbrauchern",
+   "betrifft nur Geschäftskunden",
+   "ist freiwillig",
+   "ersetzt die Gewährleistung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t02b-09",
+  "tag": 2,
+  "thema": "Produktinformationen und Kennzeichnungen",
+  "frage": "Vorteil eines PIM-Systems ist",
+  "optionen": [
+   "höhere Versandkosten",
+   "einheitliche Produktdaten in Shop, Marktplatz und Katalog",
+   "geringere Sortimentstiefe",
+   "Verzicht auf Produktbilder"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t02b-10",
+  "tag": 2,
+  "thema": "Produktinformationen und Kennzeichnungen",
+  "frage": "Die Lebensmittelinformationsverordnung (LMIV) verlangt online unter anderem",
+  "optionen": [
+   "Angaben zu Zutaten und Allergenen",
+   "die Rezeptur des Herstellers",
+   "die Lagertemperatur im Lager des Händlers",
+   "den Namen des Landwirts"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t02b-11",
+  "tag": 2,
+  "thema": "Produktinformationen und Kennzeichnungen",
+  "frage": "Welche Quelle für Warenwissen ist unabhängig?",
+  "optionen": [
+   "Herstellerkatalog",
+   "Stiftung Warentest",
+   "Werbeanzeige",
+   "Herstellerseite"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t02b-12",
+  "tag": 2,
+  "thema": "Produktinformationen und Kennzeichnungen",
+  "frage": "Ein Händler gibt den Preis eines Waschmittels mit 12,99 Euro für 3 Liter an. Welche Angabe fehlt?",
+  "optionen": [
+   "Der Grundpreis je Liter",
+   "Der Einkaufspreis",
+   "Die Marke",
+   "Das Impressum"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t02b-13",
+  "tag": 2,
+  "thema": "Produktinformationen und Kennzeichnungen",
+  "frage": "Die Textilkennzeichnung gibt an",
+  "optionen": [
+   "den Preis je Meter",
+   "die Faserzusammensetzung in Prozent",
+   "das Herstellungsland",
+   "die Waschtemperatur"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t02b-15",
+  "tag": 2,
+  "thema": "Produktinformationen und Kennzeichnungen",
+  "frage": "Shopbezogene Gütesiegel wie Trusted Shops",
+  "optionen": [
+   "prüfen einzelne Produkte",
+   "prüfen den Shop, z. B. Rechtstexte und Bestellablauf",
+   "werden vom Staat vergeben",
+   "sind Pflicht"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t02b-16",
+  "tag": 2,
+  "thema": "Produktinformationen und Kennzeichnungen",
+  "frage": "Elektronische Kataloge der Hersteller werden im Shop genutzt, um",
+  "optionen": [
+   "Produktdaten zu importieren",
+   "Rechnungen zu bezahlen",
+   "Kunden zu bewerten",
+   "die Lieferzeit zu verkürzen"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t02b-18",
+  "tag": 2,
+  "thema": "Produktinformationen und Kennzeichnungen",
+  "frage": "Pflegesymbole informieren über",
+  "optionen": [
+   "Waschen, Bleichen, Trocknen, Bügeln, Reinigen",
+   "Preis und Versand",
+   "Herkunft",
+   "Größe"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t02b-19",
+  "tag": 2,
+  "thema": "Produktinformationen und Kennzeichnungen",
+  "frage": "Welche Kennzeichnung trägt der Hersteller allein in eigener Verantwortung an?",
+  "optionen": [
+   "GS-Zeichen",
+   "CE-Kennzeichnung",
+   "Bio-Siegel",
+   "Stiftung-Warentest-Urteil"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t02b-20",
+  "tag": 2,
+  "thema": "Produktinformationen und Kennzeichnungen",
+  "frage": "Welches Siegel ist produktbezogen?",
+  "optionen": [
+   "Trusted Shops",
+   "Blauer Engel",
+   "EHI Geprüfter Online-Shop",
+   "TÜV s@fer-shopping"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t02b-21",
+  "tag": 2,
+  "thema": "Produktinformationen und Kennzeichnungen",
+  "frage": "Wesentliche Merkmale der Ware müssen",
+  "optionen": [
+   "nur im Katalog stehen",
+   "in angemessenem Umfang auf der Detailseite genannt werden",
+   "gar nicht genannt werden",
+   "nur bei Preisen über 50 Euro genannt werden"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t02b-22",
+  "tag": 2,
+  "thema": "Produktinformationen und Kennzeichnungen",
+  "frage": "Messen sind als Informationsquelle wertvoll, weil",
+  "optionen": [
+   "sie kostenlos sind",
+   "sie Neuheiten und direkte Gespräche mit Herstellern ermöglichen",
+   "sie das Impressum ersetzen",
+   "dort keine Konkurrenz ist"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t02b-23",
+  "tag": 2,
+  "thema": "Produktinformationen und Kennzeichnungen",
+  "frage": "Welche Angabe gehört zur Lieferinformation auf der Detailseite?",
+  "optionen": [
+   "Lieferzeit und Verfügbarkeit",
+   "Name des Lagermitarbeiters",
+   "Bilanz",
+   "Umsatzsteuer-ID des Lieferanten"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t02b-24",
+  "tag": 2,
+  "thema": "Produktinformationen und Kennzeichnungen",
+  "frage": "Preissuchmaschinen dienen dem Händler vor allem",
+  "optionen": [
+   "zur Konkurrenzbeobachtung",
+   "zur Bestellung beim Lieferanten",
+   "zur Buchhaltung",
+   "zur Lagerplanung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t02b-25",
+  "tag": 2,
+  "thema": "Produktinformationen und Kennzeichnungen",
+  "frage": "Das Energielabel muss im Webshop",
+  "optionen": [
+   "nur auf Anfrage gezeigt werden",
+   "in der Nähe des Preises sichtbar sein",
+   "nur bei Autos gezeigt werden",
+   "im Impressum stehen"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t02b-28",
+  "tag": 2,
+  "thema": "Produktinformationen und Kennzeichnungen",
+  "frage": "Welche Angabe ist auf der Produktdetailseite gesetzlich vorgeschrieben?",
+  "optionen": [
+   "Name des Lieferanten",
+   "Gesamtpreis inklusive Umsatzsteuer",
+   "Einkaufspreis",
+   "Lagerort"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t02b-29",
+  "tag": 2,
+  "thema": "Produktinformationen und Kennzeichnungen",
+  "frage": "Das GS-Zeichen steht für",
+  "optionen": [
+   "Geprüfte Sicherheit durch eine unabhängige Stelle",
+   "Gesetzlicher Standard",
+   "Große Serie",
+   "Garantierter Service"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t02b-31",
+  "tag": 2,
+  "thema": "Produktinformationen und Kennzeichnungen",
+  "frage": "Welche Informationsquelle liefert direkte Hinweise auf Verständnisprobleme der Kunden?",
+  "optionen": [
+   "Auswertung von Kundenanfragen und Reklamationen",
+   "Messebesuch",
+   "Fachbuch",
+   "Herstellerschulung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t02b-32",
+  "tag": 2,
+  "thema": "Produktinformationen und Kennzeichnungen",
+  "frage": "Der Grundpreis ist anzugeben bei",
+  "optionen": [
+   "allen Waren",
+   "Waren, die nach Gewicht, Volumen, Länge oder Fläche angeboten werden",
+   "nur Lebensmitteln",
+   "nur Textilien"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t02b-33",
+  "tag": 2,
+  "thema": "Produktinformationen und Kennzeichnungen",
+  "frage": "Welche Aussage über Verbraucherforen als Informationsquelle ist richtig?",
+  "optionen": [
+   "Sie sind immer verlässlich",
+   "Sie geben praxisnahe Hinweise, sind aber nicht immer zuverlässig",
+   "Sie sind gesetzlich geprüft",
+   "Sie ersetzen Datenblätter"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t02b-34",
+  "tag": 2,
+  "thema": "Produktinformationen und Kennzeichnungen",
+  "frage": "Ein Produktinformationsmanagementsystem (PIM)",
+  "optionen": [
+   "verwaltet Produktdaten zentral für alle Vertriebskanäle",
+   "ist ein Zahlungssystem",
+   "ersetzt das Impressum",
+   "verwaltet Personaldaten"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t03a-01",
+  "tag": 3,
+  "thema": "Produktbeschreibung und Artikelauswahl",
+  "frage": "Die Lieferzeit muss angegeben werden,",
+  "optionen": [
+   "nie",
+   "insbesondere wenn sie vom Standard abweicht",
+   "nur bei Möbeln",
+   "nur im Impressum"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t03a-02",
+  "tag": 3,
+  "thema": "Produktbeschreibung und Artikelauswahl",
+  "frage": "Der Warenkorb dient",
+  "optionen": [
+   "der Ablage ausgewählter Artikel vor dem Kauf",
+   "der Bewertung",
+   "der Rechnungsprüfung",
+   "der Bezugsquellenermittlung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t03a-03",
+  "tag": 3,
+  "thema": "Produktbeschreibung und Artikelauswahl",
+  "frage": "Auf dem Smartphone sollte die Buy-Box",
+  "optionen": [
+   "beim Scrollen sichtbar bleiben",
+   "nur im Footer stehen",
+   "ausgeblendet werden",
+   "nur nach Login erscheinen"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t03a-05",
+  "tag": 3,
+  "thema": "Produktbeschreibung und Artikelauswahl",
+  "frage": "Welcher Satz ist nutzenorientiert formuliert?",
+  "optionen": [
+   "Wattierung 250 g je m²",
+   "Die dichte Wattierung hält Sie auch bei Minusgraden zuverlässig warm",
+   "Polyester 100 %",
+   "Artikelnummer 4711"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t03a-07",
+  "tag": 3,
+  "thema": "Produktbeschreibung und Artikelauswahl",
+  "frage": "Piktogramme in der Beschreibung",
+  "optionen": [
+   "sind verboten",
+   "machen Eigenschaften schnell erfassbar",
+   "ersetzen Pflichtangaben",
+   "erhöhen die Ladezeit erheblich"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t03a-08",
+  "tag": 3,
+  "thema": "Produktbeschreibung und Artikelauswahl",
+  "frage": "Die Buy-Box enthält",
+  "optionen": [
+   "Preis, Menge, Verfügbarkeit und Warenkorb-Button",
+   "die AGB",
+   "die Firmenhistorie",
+   "die Filter"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t03a-09",
+  "tag": 3,
+  "thema": "Produktbeschreibung und Artikelauswahl",
+  "frage": "Rechtschreibfehler in Produkttexten",
+  "optionen": [
+   "sind unwichtig",
+   "wirken unseriös und senken das Vertrauen",
+   "erhöhen die Conversion",
+   "sind gesetzlich verboten"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t03a-10",
+  "tag": 3,
+  "thema": "Produktbeschreibung und Artikelauswahl",
+  "frage": "Eine gute Produktbeschreibung senkt",
+  "optionen": [
+   "die Retourenquote",
+   "die Sortimentsbreite",
+   "den Grundpreis",
+   "die Lieferzeit"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t03a-11",
+  "tag": 3,
+  "thema": "Produktbeschreibung und Artikelauswahl",
+  "frage": "Ein Kommunikationsstörer ist",
+  "optionen": [
+   "eine Tabelle mit technischen Daten",
+   "ein Widerspruch zwischen Text und Bild",
+   "eine Zwischenüberschrift",
+   "ein Anwendungsbeispiel"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t03a-13",
+  "tag": 3,
+  "thema": "Produktbeschreibung und Artikelauswahl",
+  "frage": "Warum sollten Begriffe im ganzen Shop einheitlich sein?",
+  "optionen": [
+   "Damit Kunden nicht verwirrt werden und Suche sowie Filter funktionieren",
+   "Wegen der Umsatzsteuer",
+   "Für die Bilanz",
+   "Für das Lager"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t03a-15",
+  "tag": 3,
+  "thema": "Produktbeschreibung und Artikelauswahl",
+  "frage": "Die Kurzbeschreibung unter dem Produkttitel sollte",
+  "optionen": [
+   "alle Details enthalten",
+   "die drei wichtigsten Kaufargumente nennen",
+   "das Impressum enthalten",
+   "leer bleiben"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t03a-16",
+  "tag": 3,
+  "thema": "Produktbeschreibung und Artikelauswahl",
+  "frage": "Eigene, gut formulierte Produkttexte helfen auch bei",
+  "optionen": [
+   "der Lagerhaltung",
+   "der Auffindbarkeit in Suchmaschinen",
+   "der Rechnungsprüfung",
+   "der Bezugsquellenermittlung"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t03a-17",
+  "tag": 3,
+  "thema": "Produktbeschreibung und Artikelauswahl",
+  "frage": "Das Muster Merkmal, Vorteil, Nutzen bedeutet",
+  "optionen": [
+   "technische Daten ohne Erklärung",
+   "jede Eigenschaft wird in ihren Nutzen für den Kunden übersetzt",
+   "Preise werden verglichen",
+   "der Text wird gekürzt"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t03a-18",
+  "tag": 3,
+  "thema": "Produktbeschreibung und Artikelauswahl",
+  "frage": "Technische Daten werden am besten dargestellt als",
+  "optionen": [
+   "Fließtext",
+   "Tabelle",
+   "Fußnote",
+   "Bild"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t03a-20",
+  "tag": 3,
+  "thema": "Produktbeschreibung und Artikelauswahl",
+  "frage": "Ein Produktvergleich auf der Seite",
+  "optionen": [
+   "zeigt Artikel nebeneinander mit ihren wichtigsten Merkmalen",
+   "zeigt das Lager",
+   "zeigt die Bilanz",
+   "zeigt den Lieferanten"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t03a-22",
+  "tag": 3,
+  "thema": "Produktbeschreibung und Artikelauswahl",
+  "frage": "Up-Selling bedeutet",
+  "optionen": [
+   "Zubehör anbieten",
+   "eine höherwertige Alternative desselben Produkts anbieten",
+   "Rabatte geben",
+   "den Warenkorb löschen"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t03a-23",
+  "tag": 3,
+  "thema": "Produktbeschreibung und Artikelauswahl",
+  "frage": "Welcher Inhalt gehört zwingend in eine Produktbeschreibung?",
+  "optionen": [
+   "Einkaufspreis",
+   "Wesentliche Merkmale wie Material und Maße",
+   "Name des Lieferanten",
+   "Lagerplatz"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t03a-24",
+  "tag": 3,
+  "thema": "Produktbeschreibung und Artikelauswahl",
+  "frage": "Die Produktbeschreibung im Onlinehandel ersetzt vor allem",
+  "optionen": [
+   "das Impressum",
+   "Anfassen, Ausprobieren und persönliche Beratung",
+   "die Rechnung",
+   "den Lieferschein"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t03a-25",
+  "tag": 3,
+  "thema": "Produktbeschreibung und Artikelauswahl",
+  "frage": "Eine Auswahlhilfe ist zum Beispiel",
+  "optionen": [
+   "ein Größenberater",
+   "das Impressum",
+   "der Newsletter",
+   "die Umsatzsteuer-ID"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t03a-27",
+  "tag": 3,
+  "thema": "Produktbeschreibung und Artikelauswahl",
+  "frage": "Bei der Variantenauswahl sollte",
+  "optionen": [
+   "jede Farbe mit Vorschaubild gezeigt werden",
+   "nur die Artikelnummer angezeigt werden",
+   "der Kunde den Lieferanten wählen",
+   "der Preis versteckt werden"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t03a-28",
+  "tag": 3,
+  "thema": "Produktbeschreibung und Artikelauswahl",
+  "frage": "Unerklärte Abkürzungen und Fachjargon sind",
+  "optionen": [
+   "Kommunikationsförderer",
+   "Kommunikationsstörer",
+   "Pflichtangaben",
+   "Auswahlhilfen"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t03a-29",
+  "tag": 3,
+  "thema": "Produktbeschreibung und Artikelauswahl",
+  "frage": "Die Anzeige nur noch 2 verfügbar ist",
+  "optionen": [
+   "eine Verfügbarkeitsangabe, die Kaufdruck erzeugt, sie muss wahr sein",
+   "immer unzulässig",
+   "eine Pflichtangabe",
+   "ein Grundpreis"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t03a-31",
+  "tag": 3,
+  "thema": "Produktbeschreibung und Artikelauswahl",
+  "frage": "Cross-Selling bedeutet",
+  "optionen": [
+   "höherwertige Variante desselben Produkts anbieten",
+   "ergänzende Artikel zum gewählten Produkt anbieten",
+   "Preise senken",
+   "Artikel aus dem Sortiment nehmen"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t03a-32",
+  "tag": 3,
+  "thema": "Produktbeschreibung und Artikelauswahl",
+  "frage": "Ein Kommunikationsförderer ist",
+  "optionen": [
+   "direkte Ansprache mit Sie und kurze Sätze",
+   "viele Fachbegriffe",
+   "Superlative wie das beste Produkt aller Zeiten",
+   "lange Schachtelsätze"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t03a-33",
+  "tag": 3,
+  "thema": "Produktbeschreibung und Artikelauswahl",
+  "frage": "Fragen und Antworten (FAQ) auf der Detailseite entstehen sinnvollerweise aus",
+  "optionen": [
+   "den AGB",
+   "echten Kundenanfragen",
+   "der Rennerliste",
+   "dem Lieferschein"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t03b-01",
+  "tag": 3,
+  "thema": "Visualisierung und Kundeneinbeziehung",
+  "frage": "Bei der Einbindung von Videos externer Plattformen ist zu beachten",
+  "optionen": [
+   "der Datenschutz",
+   "die Lagerkennziffer",
+   "der Grundpreis",
+   "die Registernummer"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t03b-05",
+  "tag": 3,
+  "thema": "Visualisierung und Kundeneinbeziehung",
+  "frage": "Welche Kontaktmöglichkeit ist produktbezogen?",
+  "optionen": [
+   "Frage zum Produkt direkt auf der Detailseite",
+   "Impressum",
+   "Bilanz",
+   "Handelsregister"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t03b-07",
+  "tag": 3,
+  "thema": "Visualisierung und Kundeneinbeziehung",
+  "frage": "Ein Shop muss seit 2022 angeben,",
+  "optionen": [
+   "ob und wie er sicherstellt, dass Bewertungen von echten Käufern stammen",
+   "wie viel er für Bewertungen bezahlt",
+   "wer die Bewertungen schreibt",
+   "nichts zu Bewertungen"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t03b-08",
+  "tag": 3,
+  "thema": "Visualisierung und Kundeneinbeziehung",
+  "frage": "Konsistente Produktfotos bedeuten",
+  "optionen": [
+   "gleiche Perspektive, Beleuchtung und Größe im ganzen Shop",
+   "jedes Bild anders",
+   "nur ein Bild je Produkt",
+   "nur Videos"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t03b-09",
+  "tag": 3,
+  "thema": "Visualisierung und Kundeneinbeziehung",
+  "frage": "Ein Live-Chat auf der Produktseite dient",
+  "optionen": [
+   "der schnellen Beantwortung von Produktfragen",
+   "der Rechnungsprüfung",
+   "der Lagerverwaltung",
+   "der Bestellung beim Lieferanten"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t03b-10",
+  "tag": 3,
+  "thema": "Visualisierung und Kundeneinbeziehung",
+  "frage": "Untertitel in Produktvideos sind sinnvoll, weil",
+  "optionen": [
+   "viele Nutzer ohne Ton schauen und Barrierefreiheit verbessert wird",
+   "sie Pflicht sind",
+   "sie die Dateigröße senken",
+   "sie den Preis anzeigen"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t03b-11",
+  "tag": 3,
+  "thema": "Visualisierung und Kundeneinbeziehung",
+  "frage": "Produktvideos eignen sich besonders für",
+  "optionen": [
+   "erklärungsbedürftige Produkte und Handhabung",
+   "das Impressum",
+   "die AGB",
+   "Rechnungen"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t03b-12",
+  "tag": 3,
+  "thema": "Visualisierung und Kundeneinbeziehung",
+  "frage": "Warum verlangen Marktplätze wie Amazon Freisteller mit weißem Hintergrund?",
+  "optionen": [
+   "Einheitliche, vergleichbare Darstellung in Listen",
+   "Wegen des Urheberrechts",
+   "Wegen der Versandkosten",
+   "Wegen der Umsatzsteuer"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t03b-13",
+  "tag": 3,
+  "thema": "Visualisierung und Kundeneinbeziehung",
+  "frage": "Ein Freisteller ist",
+  "optionen": [
+   "ein Foto vor neutralem, meist weißem Hintergrund",
+   "ein Video",
+   "ein Anwendungsbild mit Model",
+   "ein Piktogramm"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t03b-14",
+  "tag": 3,
+  "thema": "Visualisierung und Kundeneinbeziehung",
+  "frage": "Der Alt-Text eines Bildes",
+  "optionen": [
+   "beschreibt das Bild für Suchmaschinen und Screenreader",
+   "ist der Preis",
+   "ist die Artikelnummer",
+   "ist verboten"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t03b-16",
+  "tag": 3,
+  "thema": "Visualisierung und Kundeneinbeziehung",
+  "frage": "Gekaufte oder gefälschte Bewertungen",
+  "optionen": [
+   "sind unlauterer Wettbewerb",
+   "sind erlaubt",
+   "sind Pflicht",
+   "sind nur im B2B erlaubt"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t03b-17",
+  "tag": 3,
+  "thema": "Visualisierung und Kundeneinbeziehung",
+  "frage": "Double Opt-in bedeutet",
+  "optionen": [
+   "der Kunde bestätigt seine Anmeldung über einen Link in einer E-Mail",
+   "der Kunde bezahlt zweimal",
+   "zwei Newsletter je Woche",
+   "zwei Adressen je Kunde"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t03b-18",
+  "tag": 3,
+  "thema": "Visualisierung und Kundeneinbeziehung",
+  "frage": "Detailaufnahmen sind sinnvoll für",
+  "optionen": [
+   "Material, Nähte und Verarbeitung",
+   "das Impressum",
+   "die Preisangabe",
+   "die Lieferzeit"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t03b-19",
+  "tag": 3,
+  "thema": "Visualisierung und Kundeneinbeziehung",
+  "frage": "Eine beleidigende Bewertung darf der Shop",
+  "optionen": [
+   "nicht entfernen",
+   "nach Kenntnis entfernen, da rechtswidrig",
+   "nur mit Gerichtsbeschluss entfernen",
+   "nur nach einem Jahr entfernen"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t03b-22",
+  "tag": 3,
+  "thema": "Visualisierung und Kundeneinbeziehung",
+  "frage": "Negative Bewertungen sollte der Shop",
+  "optionen": [
+   "sofort löschen",
+   "sachlich beantworten",
+   "ignorieren",
+   "dem Kunden in Rechnung stellen"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t03b-23",
+  "tag": 3,
+  "thema": "Visualisierung und Kundeneinbeziehung",
+  "frage": "Lange Ladezeiten durch große Bilder führen zu",
+  "optionen": [
+   "höherer Conversion",
+   "höheren Absprungraten",
+   "niedrigeren Versandkosten",
+   "mehr Bewertungen"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t03b-24",
+  "tag": 3,
+  "thema": "Visualisierung und Kundeneinbeziehung",
+  "frage": "Ein Newsletter darf versendet werden",
+  "optionen": [
+   "an alle Kunden automatisch",
+   "nur nach Einwilligung, meist per Double Opt-in",
+   "an alle Besucher",
+   "nur an Geschäftskunden"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t03b-25",
+  "tag": 3,
+  "thema": "Visualisierung und Kundeneinbeziehung",
+  "frage": "Die Funktion Benachrichtigung bei Verfügbarkeit",
+  "optionen": [
+   "bindet Kunden und verhindert Fehlverkäufe",
+   "ist verboten",
+   "ersetzt das Lager",
+   "ist eine Pflichtangabe"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t03b-26",
+  "tag": 3,
+  "thema": "Visualisierung und Kundeneinbeziehung",
+  "frage": "Welches Dateiformat ist für Fotos mit kleiner Dateigröße geeignet?",
+  "optionen": [
+   "DOCX",
+   "JPEG oder WebP",
+   "PPTX",
+   "TXT"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t03b-27",
+  "tag": 3,
+  "thema": "Visualisierung und Kundeneinbeziehung",
+  "frage": "Kundenbewertungen",
+  "optionen": [
+   "schaffen Vertrauen durch Erfahrungen anderer Kunden",
+   "sind gesetzlich verboten",
+   "ersetzen die Beschreibung",
+   "dürfen nur positiv sein"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t03b-29",
+  "tag": 3,
+  "thema": "Visualisierung und Kundeneinbeziehung",
+  "frage": "Fremde Produktfotos ohne Lizenz zu verwenden ist",
+  "optionen": [
+   "erlaubt bei Nennung der Quelle",
+   "eine Urheberrechtsverletzung",
+   "nur bei Marktplätzen erlaubt",
+   "Pflicht"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t03b-30",
+  "tag": 3,
+  "thema": "Visualisierung und Kundeneinbeziehung",
+  "frage": "Bewertungen liefern dem Händler auch",
+  "optionen": [
+   "Hinweise für Sortiment und Produkttexte",
+   "die Umsatzsteuer",
+   "die Registernummer",
+   "die Bilanz"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t03b-31",
+  "tag": 3,
+  "thema": "Visualisierung und Kundeneinbeziehung",
+  "frage": "360-Grad-Ansichten ermöglichen",
+  "optionen": [
+   "eine Rundumansicht des Produkts",
+   "eine Lieferung in 360 Minuten",
+   "360 Bewertungen",
+   "eine Preissenkung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t03b-34",
+  "tag": 3,
+  "thema": "Visualisierung und Kundeneinbeziehung",
+  "frage": "Anwendungsbilder zeigen",
+  "optionen": [
+   "das Produkt in der Nutzung",
+   "nur die Verpackung",
+   "die Rechnung",
+   "das Lager"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t03b-36",
+  "tag": 3,
+  "thema": "Visualisierung und Kundeneinbeziehung",
+  "frage": "Kundenfotos in Bewertungen",
+  "optionen": [
+   "zeigen das Produkt realistisch und erhöhen das Vertrauen",
+   "sind verboten",
+   "ersetzen Freisteller",
+   "müssen vom Shop bezahlt werden"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t04a-01",
+  "tag": 4,
+  "thema": "Preisgestaltung und PAngV",
+  "frage": "Welche Angabe ist vollständig nach PAngV?",
+  "optionen": [
+   "Hemd 39,90 Euro",
+   "Hemd 39,90 Euro inkl. MwSt. zzgl. 4,90 Euro Versand",
+   "Hemd 39,90 Euro netto",
+   "Hemd ab 39,90 Euro"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t04a-02",
+  "tag": 4,
+  "thema": "Preisgestaltung und PAngV",
+  "frage": "Psychologische Preise wie 9,99 Euro nutzen",
+  "optionen": [
+   "Preisschwellen in der Wahrnehmung der Kunden",
+   "die PAngV",
+   "den Grundpreis",
+   "die Buchpreisbindung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t04a-03",
+  "tag": 4,
+  "thema": "Preisgestaltung und PAngV",
+  "frage": "Ein Penetrationspreis ist",
+  "optionen": [
+   "ein hoher Einführungspreis",
+   "ein niedriger Einführungspreis zur schnellen Marktdurchdringung",
+   "ein Grundpreis",
+   "ein Skonto"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t04a-04",
+  "tag": 4,
+  "thema": "Preisgestaltung und PAngV",
+  "frage": "Die unverbindliche Preisempfehlung (UVP) des Herstellers",
+  "optionen": [
+   "muss der Händler einhalten",
+   "dient als Orientierung, bindet aber nicht",
+   "ist gesetzlich vorgeschrieben",
+   "gilt nur online"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t04a-05",
+  "tag": 4,
+  "thema": "Preisgestaltung und PAngV",
+  "frage": "Im Webshop muss beim Preis angegeben werden,",
+  "optionen": [
+   "ob Versandkosten anfallen und in welcher Höhe",
+   "der Einkaufspreis",
+   "der Lieferant",
+   "die Lagernummer"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t04a-06",
+  "tag": 4,
+  "thema": "Preisgestaltung und PAngV",
+  "frage": "Ein Staffelpreis ist ein Beispiel für",
+  "optionen": [
+   "mengenbezogene Preisdifferenzierung",
+   "Skonto",
+   "Grundpreis",
+   "Buchpreisbindung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t04a-09",
+  "tag": 4,
+  "thema": "Preisgestaltung und PAngV",
+  "frage": "Bei kleinen Füllmengen darf der Grundpreis bezogen werden auf",
+  "optionen": [
+   "100 g oder 100 ml",
+   "1 Stück",
+   "10 kg",
+   "eine Packung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t04a-10",
+  "tag": 4,
+  "thema": "Preisgestaltung und PAngV",
+  "frage": "Der Gesamtpreis nach PAngV",
+  "optionen": [
+   "ist der Nettopreis",
+   "enthält die Umsatzsteuer und alle Preisbestandteile",
+   "enthält keine Steuern",
+   "ist der Einkaufspreis"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t04a-12",
+  "tag": 4,
+  "thema": "Preisgestaltung und PAngV",
+  "frage": "Die Angabe Preis auf Anfrage bei Standardware ist",
+  "optionen": [
+   "zulässig",
+   "unzulässig, der Preis muss angegeben werden",
+   "Pflicht",
+   "nur im B2C zulässig"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t04a-14",
+  "tag": 4,
+  "thema": "Preisgestaltung und PAngV",
+  "frage": "Für welche Ware gilt in Deutschland eine Preisbindung?",
+  "optionen": [
+   "Kleidung",
+   "Bücher",
+   "Elektronik",
+   "Möbel"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t04a-15",
+  "tag": 4,
+  "thema": "Preisgestaltung und PAngV",
+  "frage": "Welche Größe bildet die langfristige Preisuntergrenze?",
+  "optionen": [
+   "Der Preis der Konkurrenz",
+   "Die Selbstkosten",
+   "Die UVP",
+   "Der Grundpreis"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t04a-16",
+  "tag": 4,
+  "thema": "Preisgestaltung und PAngV",
+  "frage": "Ein Sonderangebot ist",
+  "optionen": [
+   "eine dauerhafte Preissenkung",
+   "eine zeitlich begrenzte Preissenkung",
+   "ein Grundpreis",
+   "eine Preisbindung"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t04a-17",
+  "tag": 4,
+  "thema": "Preisgestaltung und PAngV",
+  "frage": "Skonto ist",
+  "optionen": [
+   "ein Preisnachlass für vorzeitige Zahlung",
+   "ein Mengenrabatt",
+   "ein Treuebonus",
+   "eine Versandkostenpauschale"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t04a-18",
+  "tag": 4,
+  "thema": "Preisgestaltung und PAngV",
+  "frage": "Dynamic Pricing bedeutet",
+  "optionen": [
+   "Preise passen sich automatisch an Nachfrage, Zeit und Wettbewerb an",
+   "Preise sind fest",
+   "Preise werden nur jährlich geändert",
+   "Preise werden verhandelt"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t04a-19",
+  "tag": 4,
+  "thema": "Preisgestaltung und PAngV",
+  "frage": "Ein Verstoß gegen die PAngV kann führen zu",
+  "optionen": [
+   "Abmahnung und Bußgeld",
+   "Erhöhung der UVP",
+   "Preisbindung",
+   "nichts"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t04a-20",
+  "tag": 4,
+  "thema": "Preisgestaltung und PAngV",
+  "frage": "Preisdifferenzierung bedeutet",
+  "optionen": [
+   "gleicher Artikel, verschiedene Preise nach Zeit, Menge, Kundengruppe, Region oder Kanal",
+   "verschiedene Artikel zum gleichen Preis",
+   "Preise werden gerundet",
+   "der Preis wird nicht angezeigt"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t04a-21",
+  "tag": 4,
+  "thema": "Preisgestaltung und PAngV",
+  "frage": "Der Grundpreis ist der Preis je",
+  "optionen": [
+   "Stück",
+   "Mengeneinheit wie 1 kg oder 1 l",
+   "Bestellung",
+   "Kunde"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t04a-22",
+  "tag": 4,
+  "thema": "Preisgestaltung und PAngV",
+  "frage": "Für 500 g Kaffee werden 6,49 Euro verlangt. Der Grundpreis je kg beträgt",
+  "optionen": [
+   "6,49 Euro",
+   "12,98 Euro",
+   "3,25 Euro",
+   "64,90 Euro"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t04a-24",
+  "tag": 4,
+  "thema": "Preisgestaltung und PAngV",
+  "frage": "Die Abschöpfungsstrategie (Skimming) bedeutet",
+  "optionen": [
+   "hoher Einführungspreis, der später gesenkt wird",
+   "niedriger Einführungspreis",
+   "Preis bleibt immer gleich",
+   "Preis wird versteckt"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t04a-25",
+  "tag": 4,
+  "thema": "Preisgestaltung und PAngV",
+  "frage": "Ein Bonus ist",
+  "optionen": [
+   "ein Nachlass bei sofortiger Zahlung",
+   "ein nachträglicher Preisnachlass bei Erreichen eines Umsatzes",
+   "ein Versandzuschlag",
+   "eine Steuer"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t04a-26",
+  "tag": 4,
+  "thema": "Preisgestaltung und PAngV",
+  "frage": "Der Grundpreis muss stehen",
+  "optionen": [
+   "in unmittelbarer Nähe des Gesamtpreises",
+   "nur im Impressum",
+   "nur auf der Rechnung",
+   "nur in den AGB"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t04a-28",
+  "tag": 4,
+  "thema": "Preisgestaltung und PAngV",
+  "frage": "Für 250 ml Duschgel werden 2,29 Euro verlangt. Der Grundpreis je Liter beträgt",
+  "optionen": [
+   "0,92 Euro",
+   "2,29 Euro",
+   "9,16 Euro",
+   "22,90 Euro"
+  ],
+  "richtig": 2
+ },
+ {
+  "id": "t04a-30",
+  "tag": 4,
+  "thema": "Preisgestaltung und PAngV",
+  "frage": "Preissuchmaschinen wirken auf die Preisgestaltung, weil",
+  "optionen": [
+   "Kunden Preise in Sekunden vergleichen können",
+   "sie Preise vorschreiben",
+   "sie die USt senken",
+   "sie Grundpreise berechnen"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t04a-31",
+  "tag": 4,
+  "thema": "Preisgestaltung und PAngV",
+  "frage": "Die Preisangabenverordnung gilt gegenüber",
+  "optionen": [
+   "Verbrauchern",
+   "nur Unternehmen",
+   "nur Behörden",
+   "niemandem"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t04a-32",
+  "tag": 4,
+  "thema": "Preisgestaltung und PAngV",
+  "frage": "Bei Streichpreisen muss seit 2022 angegeben werden",
+  "optionen": [
+   "der niedrigste Gesamtpreis der letzten 30 Tage",
+   "der Einkaufspreis",
+   "die UVP",
+   "der Preis der Konkurrenz"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t04b-01",
+  "tag": 4,
+  "thema": "Erstellung von Internetseiten",
+  "frage": "Welches Kriterium ist bei der Auswahl eines Shop-Systems wichtig?",
+  "optionen": [
+   "Schnittstellen zu Warenwirtschaft und Zahlungsanbietern",
+   "Farbe des Logos",
+   "Wetter am Firmensitz",
+   "Alter des Geschäftsführers"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t04b-05",
+  "tag": 4,
+  "thema": "Erstellung von Internetseiten",
+  "frage": "Serverseitige Sprachen wie PHP",
+  "optionen": [
+   "verarbeiten Daten auf dem Server, etwa Bestellungen",
+   "gestalten nur Farben",
+   "laufen nur im Browser",
+   "sind Bildformate"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t04b-06",
+  "tag": 4,
+  "thema": "Erstellung von Internetseiten",
+  "frage": "Beispiele für Shop-Systeme sind",
+  "optionen": [
+   "Shopware, Shopify, WooCommerce",
+   "Word, Excel, PowerPoint",
+   "Windows, Linux, macOS",
+   "JPEG, PNG, WebP"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t04b-09",
+  "tag": 4,
+  "thema": "Erstellung von Internetseiten",
+  "frage": "Ein Mietshop (SaaS)",
+  "optionen": [
+   "wird vom Anbieter gehostet und aktualisiert, gegen monatliche Gebühr",
+   "muss selbst installiert werden",
+   "ist immer kostenlos",
+   "hat keine Updates"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t04b-10",
+  "tag": 4,
+  "thema": "Erstellung von Internetseiten",
+  "frage": "Das Attribut alt bei <img>",
+  "optionen": [
+   "beschreibt das Bild für Suchmaschinen und Screenreader",
+   "legt die Farbe fest",
+   "legt den Preis fest",
+   "ist überflüssig"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t04b-13",
+  "tag": 4,
+  "thema": "Erstellung von Internetseiten",
+  "frage": "Ein Marktplatz statt eigenem Shop bietet",
+  "optionen": [
+   "Reichweite, aber Gebühren und wenig Kontrolle",
+   "volle Kontrolle ohne Gebühren",
+   "keine Kunden",
+   "keine Regeln"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t04b-14",
+  "tag": 4,
+  "thema": "Erstellung von Internetseiten",
+  "frage": "Wofür steht WYSIWYG?",
+  "optionen": [
+   "What you see is what you get",
+   "Web system with internet gateway",
+   "Write your site with in-house guidelines",
+   "Web you see is web you go"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t04b-15",
+  "tag": 4,
+  "thema": "Erstellung von Internetseiten",
+  "frage": "Der Tag <form> wird verwendet für",
+  "optionen": [
+   "Eingabeformulare wie Suche oder Login",
+   "Überschriften",
+   "Bilder",
+   "Listen"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t04b-16",
+  "tag": 4,
+  "thema": "Erstellung von Internetseiten",
+  "frage": "Media Queries in CSS dienen",
+  "optionen": [
+   "dem responsiven Design für verschiedene Bildschirmbreiten",
+   "der Formularprüfung",
+   "dem Warenkorb",
+   "der Zahlung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t04b-18",
+  "tag": 4,
+  "thema": "Erstellung von Internetseiten",
+  "frage": "CSS dient",
+  "optionen": [
+   "der Gestaltung des Layouts",
+   "der Interaktion",
+   "der Datenbankabfrage",
+   "der Zahlungsabwicklung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t04b-19",
+  "tag": 4,
+  "thema": "Erstellung von Internetseiten",
+  "frage": "Skalierbarkeit eines Shop-Systems bedeutet",
+  "optionen": [
+   "das System wächst mit steigenden Bestellzahlen mit",
+   "das System ist kostenlos",
+   "das System hat kein Design",
+   "das System hat keine Schnittstellen"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t04b-20",
+  "tag": 4,
+  "thema": "Erstellung von Internetseiten",
+  "frage": "Open-Source-Shop-Systeme",
+  "optionen": [
+   "sind lizenzkostenfrei, benötigen aber eigenes Hosting und Technikwissen",
+   "sind immer teuer",
+   "können nicht angepasst werden",
+   "laufen ohne Server"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t04b-21",
+  "tag": 4,
+  "thema": "Erstellung von Internetseiten",
+  "frage": "HTML ist",
+  "optionen": [
+   "eine Programmiersprache",
+   "eine Auszeichnungssprache für Inhalt und Struktur",
+   "ein Shop-System",
+   "eine Datenbank"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t04b-22",
+  "tag": 4,
+  "thema": "Erstellung von Internetseiten",
+  "frage": "JavaScript ermöglicht",
+  "optionen": [
+   "interaktive Vorgänge auf der Seite",
+   "die Preisangabe",
+   "das Impressum",
+   "die Buchpreisbindung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t04b-23",
+  "tag": 4,
+  "thema": "Erstellung von Internetseiten",
+  "frage": "Ein WYSIWYG-Editor",
+  "optionen": [
+   "zeigt beim Bearbeiten das spätere Aussehen und erzeugt den Code automatisch",
+   "zeigt nur Quelltext",
+   "ist eine Datenbank",
+   "ist ein Zahlungsanbieter"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t04b-24",
+  "tag": 4,
+  "thema": "Erstellung von Internetseiten",
+  "frage": "Beispiele für Content-Management-Systeme sind",
+  "optionen": [
+   "WordPress, TYPO3",
+   "JPEG, PNG",
+   "HTML, CSS",
+   "Visa, Mastercard"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t04b-25",
+  "tag": 4,
+  "thema": "Erstellung von Internetseiten",
+  "frage": "Ein Content-Management-System",
+  "optionen": [
+   "ermöglicht die Pflege von Inhalten ohne Programmierkenntnisse",
+   "ist ein Texteditor",
+   "ist eine Lagerverwaltung",
+   "ist ein Zahlungssystem"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t04b-27",
+  "tag": 4,
+  "thema": "Erstellung von Internetseiten",
+  "frage": "Tracking-Skripte auf der Webseite erfordern",
+  "optionen": [
+   "eine Einwilligung des Nutzers (Cookie-Banner)",
+   "nichts",
+   "nur ein Impressum",
+   "eine Lizenz des Herstellers"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t04b-28",
+  "tag": 4,
+  "thema": "Erstellung von Internetseiten",
+  "frage": "Der Bereich <head> enthält",
+  "optionen": [
+   "den sichtbaren Inhalt",
+   "Metadaten und den Titel",
+   "nur Bilder",
+   "die Fußzeile"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t04b-29",
+  "tag": 4,
+  "thema": "Erstellung von Internetseiten",
+  "frage": "Die Trennung von Inhalt und Layout ist ein Vorteil von",
+  "optionen": [
+   "CSS und CMS",
+   "Papierkatalogen",
+   "Texteditoren",
+   "Bildern"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t04b-30",
+  "tag": 4,
+  "thema": "Erstellung von Internetseiten",
+  "frage": "Semantische Tags wie <header>, <nav>, <main>, <footer>",
+  "optionen": [
+   "beschreiben die Bedeutung der Seitenbereiche",
+   "sind Bildformate",
+   "sind Preisangaben",
+   "gehören zu CSS"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t04b-32",
+  "tag": 4,
+  "thema": "Erstellung von Internetseiten",
+  "frage": "Ein Shop-System ergänzt ein CMS um",
+  "optionen": [
+   "Warenkorb, Zahlung, Versand und Kundenkonten",
+   "Rechtschreibprüfung",
+   "Bildbearbeitung",
+   "Buchhaltung des Lieferanten"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t04b-33",
+  "tag": 4,
+  "thema": "Erstellung von Internetseiten",
+  "frage": "Rollen und Rechte in einem CMS legen fest,",
+  "optionen": [
+   "wer welche Inhalte bearbeiten und veröffentlichen darf",
+   "den Preis der Produkte",
+   "die Versandkosten",
+   "den Grundpreis"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t04b-34",
+  "tag": 4,
+  "thema": "Erstellung von Internetseiten",
+  "frage": "Welcher Tag kennzeichnet eine Hauptüberschrift?",
+  "optionen": [
+   "<p>",
+   "<h1>",
+   "<li>",
+   "<img>"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t04b-36",
+  "tag": 4,
+  "thema": "Erstellung von Internetseiten",
+  "frage": "<a href=...> erzeugt",
+  "optionen": [
+   "eine Tabelle",
+   "einen Link",
+   "eine Liste",
+   "ein Formular"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t05a-02",
+  "tag": 5,
+  "thema": "UWG und Markenrecht",
+  "frage": "Bei einer Markenverletzung kann der Inhaber verlangen",
+  "optionen": [
+   "Unterlassung und Schadensersatz",
+   "Steuervorteile",
+   "Rabatt",
+   "Lieferung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t05a-03",
+  "tag": 5,
+  "thema": "UWG und Markenrecht",
+  "frage": "Wer kann Ansprüche nach UWG geltend machen?",
+  "optionen": [
+   "Mitbewerber und Verbände",
+   "nur die Polizei",
+   "nur der Hersteller",
+   "niemand"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t05a-05",
+  "tag": 5,
+  "thema": "UWG und Markenrecht",
+  "frage": "Funktionen einer Marke sind",
+  "optionen": [
+   "Herkunft, Unterscheidung, Qualität, Vertrauen, Werbung",
+   "Preis, Steuer, Versand",
+   "Lager, Bestand, Bestellung",
+   "Impressum, AGB, Datenschutz"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t05a-06",
+  "tag": 5,
+  "thema": "UWG und Markenrecht",
+  "frage": "Irreführung durch Unterlassen liegt vor, wenn",
+  "optionen": [
+   "wesentliche Informationen verschwiegen werden",
+   "zu viel Werbung gemacht wird",
+   "Preise zu hoch sind",
+   "der Shop geschlossen ist"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t05a-07",
+  "tag": 5,
+  "thema": "UWG und Markenrecht",
+  "frage": "Die Generalklausel des UWG",
+  "optionen": [
+   "zählt 30 verbotene Handlungen auf",
+   "erklärt unlautere geschäftliche Handlungen allgemein für unzulässig",
+   "regelt den Grundpreis",
+   "regelt Marken"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t05a-08",
+  "tag": 5,
+  "thema": "UWG und Markenrecht",
+  "frage": "Eine Wort-Bild-Marke besteht aus",
+  "optionen": [
+   "Schriftzug und grafischem Element",
+   "nur einer Farbe",
+   "nur einem Ton",
+   "einer Domain"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t05a-09",
+  "tag": 5,
+  "thema": "UWG und Markenrecht",
+  "frage": "Eine Unionsmarke wird eingetragen beim",
+  "optionen": [
+   "EUIPO",
+   "DPMA",
+   "BGH",
+   "IHK"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t05a-10",
+  "tag": 5,
+  "thema": "UWG und Markenrecht",
+  "frage": "Eine Marke ist",
+  "optionen": [
+   "ein rechtlich geschütztes Zeichen zur Kennzeichnung von Produkten",
+   "ein Preis",
+   "ein Gütesiegel des Staates",
+   "eine Rechnung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t05a-11",
+  "tag": 5,
+  "thema": "UWG und Markenrecht",
+  "frage": "Ein Countdown, der ständig neu startet, um Kaufdruck zu erzeugen, ist",
+  "optionen": [
+   "zulässige Werbung",
+   "eine aggressive bzw. irreführende Handlung",
+   "ein Rabatt",
+   "eine Preisangabe"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t05a-13",
+  "tag": 5,
+  "thema": "UWG und Markenrecht",
+  "frage": "Gefälschte Kundenbewertungen sind",
+  "optionen": [
+   "stets unzulässig (schwarze Liste)",
+   "erlaubt bei kleinen Shops",
+   "erlaubt mit Hinweis",
+   "nur bei Preisen über 100 Euro verboten"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t05a-14",
+  "tag": 5,
+  "thema": "UWG und Markenrecht",
+  "frage": "Das UWG schützt",
+  "optionen": [
+   "nur Verbraucher",
+   "Mitbewerber, Verbraucher und die Allgemeinheit",
+   "nur den Staat",
+   "nur Hersteller"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t05a-15",
+  "tag": 5,
+  "thema": "UWG und Markenrecht",
+  "frage": "Ein Anspruch nach UWG ist",
+  "optionen": [
+   "Unterlassung",
+   "Preisbindung",
+   "Steuerermäßigung",
+   "Lieferpflicht"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t05a-16",
+  "tag": 5,
+  "thema": "UWG und Markenrecht",
+  "frage": "Eine einstweilige Verfügung dient",
+  "optionen": [
+   "der schnellen Durchsetzung bei Eilbedürftigkeit",
+   "der Preisgestaltung",
+   "der Markeneintragung",
+   "der Bilanz"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t05a-17",
+  "tag": 5,
+  "thema": "UWG und Markenrecht",
+  "frage": "Marken werden in Deutschland eingetragen beim",
+  "optionen": [
+   "DPMA",
+   "Finanzamt",
+   "Handelsregister",
+   "EHI"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t05a-18",
+  "tag": 5,
+  "thema": "UWG und Markenrecht",
+  "frage": "Ein Lockangebot ohne ausreichenden Vorrat ist",
+  "optionen": [
+   "erlaubt",
+   "eine Handlung der schwarzen Liste",
+   "Preisdifferenzierung",
+   "Markenverletzung"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t05a-21",
+  "tag": 5,
+  "thema": "UWG und Markenrecht",
+  "frage": "Werbe-E-Mails ohne Einwilligung sind",
+  "optionen": [
+   "unzumutbare Belästigung",
+   "erlaubt",
+   "Marketing nach UWG zulässig",
+   "nur für Verbände verboten"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t05a-22",
+  "tag": 5,
+  "thema": "UWG und Markenrecht",
+  "frage": "Markenpolitik bedeutet",
+  "optionen": [
+   "Herausstellung eines Produkts gegenüber anderen durch Marken",
+   "Preissenkung",
+   "Lagerhaltung",
+   "Bezugsquellenermittlung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t05a-23",
+  "tag": 5,
+  "thema": "UWG und Markenrecht",
+  "frage": "Die schwarze Liste des UWG enthält",
+  "optionen": [
+   "Handlungen, die stets unzulässig sind",
+   "Empfehlungen für Werbung",
+   "Preisangaben",
+   "Markenklassen"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t05a-24",
+  "tag": 5,
+  "thema": "UWG und Markenrecht",
+  "frage": "Influencer-Werbung ohne Kennzeichnung ist",
+  "optionen": [
+   "verdeckte Werbung und unlauter",
+   "erlaubt",
+   "nur auf Instagram verboten",
+   "Markenrecht"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t05a-25",
+  "tag": 5,
+  "thema": "UWG und Markenrecht",
+  "frage": "Der Erschöpfungsgrundsatz bedeutet",
+  "optionen": [
+   "Originalware, die mit Zustimmung des Markeninhabers im EWR in Verkehr gebracht wurde, darf weiterverkauft und beworben werden",
+   "Marken verfallen nach einem Jahr",
+   "der Händler darf Plagiate verkaufen",
+   "Marken dürfen nicht beworben werden"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t05a-27",
+  "tag": 5,
+  "thema": "UWG und Markenrecht",
+  "frage": "Unlauter bedeutet",
+  "optionen": [
+   "gesetzlich erlaubt",
+   "gegen die guten Sitten im Geschäftsleben verstoßend",
+   "besonders günstig",
+   "international"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t05a-28",
+  "tag": 5,
+  "thema": "UWG und Markenrecht",
+  "frage": "Eine fremde Marke im eigenen Shopnamen zu verwenden ist",
+  "optionen": [
+   "eine Markenverletzung",
+   "erlaubt",
+   "Pflicht",
+   "nur bei Domains erlaubt"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t05a-29",
+  "tag": 5,
+  "thema": "UWG und Markenrecht",
+  "frage": "Vor der Wahl eines Shopnamens sollte",
+  "optionen": [
+   "eine Markenrecherche durchgeführt werden",
+   "ein Rabatt gewährt werden",
+   "die PAngV geändert werden",
+   "nichts geprüft werden"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t05a-30",
+  "tag": 5,
+  "thema": "UWG und Markenrecht",
+  "frage": "Vergleichende Werbung ist",
+  "optionen": [
+   "immer verboten",
+   "zulässig, wenn sie sachlich, nachprüfbar und nicht herabsetzend ist",
+   "nur im B2B erlaubt",
+   "nur mit Erlaubnis des Konkurrenten erlaubt"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t05a-31",
+  "tag": 5,
+  "thema": "UWG und Markenrecht",
+  "frage": "Die Schutzdauer einer eingetragenen Marke beträgt",
+  "optionen": [
+   "10 Jahre, verlängerbar",
+   "5 Jahre, nicht verlängerbar",
+   "unbegrenzt ohne Verlängerung",
+   "1 Jahr"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t05b-01",
+  "tag": 5,
+  "thema": "Selbsttest Wochenrückblick Tag 1 bis 5",
+  "frage": "Der Grundpreis für 400 g Nudeln zu 1,60 Euro beträgt",
+  "optionen": [
+   "4,00 Euro je kg",
+   "1,60 Euro je kg",
+   "0,40 Euro je kg",
+   "16,00 Euro je kg"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t05b-02",
+  "tag": 5,
+  "thema": "Selbsttest Wochenrückblick Tag 1 bis 5",
+  "frage": "Welche Angabe ist in einem Impressum zwingend?",
+  "optionen": [
+   "Ladungsfähige Anschrift",
+   "Private Telefonnummer des Geschäftsführers",
+   "Bilanzsumme",
+   "Anzahl der Mitarbeiter"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t05b-07",
+  "tag": 5,
+  "thema": "Selbsttest Wochenrückblick Tag 1 bis 5",
+  "frage": "Eine Landing Page hat typischerweise",
+  "optionen": [
+   "eine reduzierte Navigation und einen Call to Action",
+   "alle Kategorien",
+   "kein Ziel",
+   "nur Rechtstexte"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t05b-08",
+  "tag": 5,
+  "thema": "Selbsttest Wochenrückblick Tag 1 bis 5",
+  "frage": "Die CE-Kennzeichnung",
+  "optionen": [
+   "ist eine Herstellererklärung",
+   "wird vom TÜV vergeben",
+   "ist ein Gütesiegel für Bio-Produkte",
+   "gilt nur für Textilien"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t05b-10",
+  "tag": 5,
+  "thema": "Selbsttest Wochenrückblick Tag 1 bis 5",
+  "frage": "Welche Ebene des UWG enthält stets unzulässige Handlungen?",
+  "optionen": [
+   "Generalklausel",
+   "Schwarze Liste",
+   "Beispielkatalog",
+   "Präambel"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t05b-18",
+  "tag": 5,
+  "thema": "Selbsttest Wochenrückblick Tag 1 bis 5",
+  "frage": "HTML ist zuständig für",
+  "optionen": [
+   "Inhalt und Struktur",
+   "Farben",
+   "Interaktion",
+   "Zahlung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t05b-19",
+  "tag": 5,
+  "thema": "Selbsttest Wochenrückblick Tag 1 bis 5",
+  "frage": "Cross-Selling bedeutet",
+  "optionen": [
+   "ergänzende Artikel anbieten",
+   "teurere Variante anbieten",
+   "Artikel streichen",
+   "Preise senken"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t05b-25",
+  "tag": 5,
+  "thema": "Selbsttest Wochenrückblick Tag 1 bis 5",
+  "frage": "Fremde Inhalte lösen Haftung aus",
+  "optionen": [
+   "ab Kenntnis, wenn nicht unverzüglich gehandelt wird",
+   "nie",
+   "sofort",
+   "nur nach Klage"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t05b-30",
+  "tag": 5,
+  "thema": "Selbsttest Wochenrückblick Tag 1 bis 5",
+  "frage": "Welche Kombination beschreibt einen Fachhändler mit wenigen Warenarten, aber sehr vielen Artikeln?",
+  "optionen": [
+   "breit und flach",
+   "schmal und tief",
+   "breit und tief",
+   "schmal und flach"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t05b-32",
+  "tag": 5,
+  "thema": "Selbsttest Wochenrückblick Tag 1 bis 5",
+  "frage": "Ein Freisteller zeigt das Produkt",
+  "optionen": [
+   "vor neutralem Hintergrund",
+   "in der Anwendung",
+   "als Video",
+   "als Piktogramm"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t06a-01",
+  "tag": 6,
+  "thema": "WWS und Beschaffungsplanung",
+  "frage": "Fertigungssynchrone Beschaffung wird auch genannt",
+  "optionen": [
+   "Just in Time",
+   "Vorratshaltung",
+   "Einzelkauf",
+   "Dropshipping"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t06a-02",
+  "tag": 6,
+  "thema": "WWS und Beschaffungsplanung",
+  "frage": "Ein Nachteil der Vorratsbeschaffung ist",
+  "optionen": [
+   "hohe Kapitalbindung und Lagerkosten",
+   "lange Lieferzeit für den Kunden",
+   "fehlende Mengenrabatte",
+   "Abhängigkeit vom Lieferanten"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t06a-03",
+  "tag": 6,
+  "thema": "WWS und Beschaffungsplanung",
+  "frage": "Ein ERP-System",
+  "optionen": [
+   "bildet alle Geschäftsprozesse eines Unternehmens umfassend ab",
+   "verwaltet nur Bilder",
+   "ist ein Shop-System",
+   "ist nur für Lager zuständig"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t06a-04",
+  "tag": 6,
+  "thema": "WWS und Beschaffungsplanung",
+  "frage": "Tagesabsatz 10 Stück, Lieferzeit 30 Tage, Mindestbestand 150 Stück. Der Meldebestand beträgt",
+  "optionen": [
+   "300",
+   "450",
+   "150",
+   "600"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t06a-05",
+  "tag": 6,
+  "thema": "WWS und Beschaffungsplanung",
+  "frage": "Der Meldebestand berechnet sich als",
+  "optionen": [
+   "Tagesverbrauch mal Lieferzeit plus Mindestbestand",
+   "Höchstbestand minus Mindestbestand",
+   "Jahresabsatz geteilt durch 12",
+   "Mindestbestand mal 2"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t06a-06",
+  "tag": 6,
+  "thema": "WWS und Beschaffungsplanung",
+  "frage": "Die Sortimentsplanung beantwortet die Frage",
+  "optionen": [
+   "Was soll eingekauft werden?",
+   "Wie viel?",
+   "Wann?",
+   "Wo?"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t06a-07",
+  "tag": 6,
+  "thema": "WWS und Beschaffungsplanung",
+  "frage": "Warenwirtschaft umfasst",
+  "optionen": [
+   "Beschaffung, Lagerung, Produktion und Absatz",
+   "nur den Verkauf",
+   "nur die Buchhaltung",
+   "nur das Marketing"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t06a-08",
+  "tag": 6,
+  "thema": "WWS und Beschaffungsplanung",
+  "frage": "Vorratsbeschaffung bedeutet",
+  "optionen": [
+   "Einkauf größerer Mengen auf Lager",
+   "Einkauf erst bei Kundenauftrag",
+   "Lieferung genau zum Bedarf",
+   "keine Beschaffung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t06a-09",
+  "tag": 6,
+  "thema": "WWS und Beschaffungsplanung",
+  "frage": "ERP steht für",
+  "optionen": [
+   "Enterprise Resource Planning",
+   "Electronic Retail Payment",
+   "European Retail Program",
+   "Extra Rabatt Programm"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t06a-10",
+  "tag": 6,
+  "thema": "WWS und Beschaffungsplanung",
+  "frage": "Ein Risiko von Just in Time ist",
+  "optionen": [
+   "hohe Abhängigkeit vom Lieferanten und Störanfälligkeit",
+   "hohe Lagerkosten",
+   "Veralterung der Vorräte",
+   "fehlende Lieferbereitschaft durch Überbestände"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t06a-12",
+  "tag": 6,
+  "thema": "WWS und Beschaffungsplanung",
+  "frage": "Beim Bestellpunktverfahren wird bestellt,",
+  "optionen": [
+   "wenn der Meldebestand erreicht ist",
+   "jeden Montag",
+   "bei Höchstbestand",
+   "nie"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t06a-13",
+  "tag": 6,
+  "thema": "WWS und Beschaffungsplanung",
+  "frage": "Grundlage der Mengenplanung ist",
+  "optionen": [
+   "die Absatzprognose und der Lagerbestand",
+   "das Impressum",
+   "die Farbe des Logos",
+   "die Markenanmeldung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t06a-16",
+  "tag": 6,
+  "thema": "WWS und Beschaffungsplanung",
+  "frage": "Welcher Vorteil entsteht durch ein gemeinsames ERP für Shop und Lager?",
+  "optionen": [
+   "Bestände sind in Echtzeit im Shop sichtbar",
+   "höhere Versandkosten",
+   "mehr Doppelerfassung",
+   "weniger Auswertungen"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t06a-17",
+  "tag": 6,
+  "thema": "WWS und Beschaffungsplanung",
+  "frage": "Ein Nachteil der Einzelbeschaffung ist",
+  "optionen": [
+   "lange Wartezeit für den Kunden",
+   "hohe Lagerkosten",
+   "Veralterung der Ware",
+   "hohe Kapitalbindung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t06a-18",
+  "tag": 6,
+  "thema": "WWS und Beschaffungsplanung",
+  "frage": "Ein Warenwirtschaftssystem",
+  "optionen": [
+   "bildet den Warenfluss artikelgenau in Software ab",
+   "ist ein Texteditor",
+   "ist ein Zahlungsdienst",
+   "ist eine Preissuchmaschine"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t06a-20",
+  "tag": 6,
+  "thema": "WWS und Beschaffungsplanung",
+  "frage": "Die Mengenplanung beantwortet die Frage",
+  "optionen": [
+   "Wo?",
+   "Wie viel soll eingekauft werden?",
+   "Was?",
+   "Wann?"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t06a-21",
+  "tag": 6,
+  "thema": "WWS und Beschaffungsplanung",
+  "frage": "Einzelbeschaffung bedeutet",
+  "optionen": [
+   "Einkauf erst, wenn ein Kundenauftrag vorliegt",
+   "Kauf großer Vorräte",
+   "tägliche Lieferung",
+   "Lieferung ohne Bestellung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t06a-23",
+  "tag": 6,
+  "thema": "WWS und Beschaffungsplanung",
+  "frage": "Beim Bestellrhythmusverfahren",
+  "optionen": [
+   "ist der Bestellzeitpunkt fest und die Menge variabel",
+   "ist die Menge fest und der Zeitpunkt variabel",
+   "wird nie bestellt",
+   "wird nur bei Nullbestand bestellt"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t06a-24",
+  "tag": 6,
+  "thema": "WWS und Beschaffungsplanung",
+  "frage": "Bei stark schwankendem Verbrauch eignet sich eher",
+  "optionen": [
+   "das Bestellpunktverfahren",
+   "das Bestellrhythmusverfahren",
+   "keine Bestellung",
+   "die Einzelbeschaffung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t06a-25",
+  "tag": 6,
+  "thema": "WWS und Beschaffungsplanung",
+  "frage": "Die Zeitplanung beantwortet die Frage",
+  "optionen": [
+   "Wann soll eingekauft werden?",
+   "Wo?",
+   "Was?",
+   "Warum?"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t06a-26",
+  "tag": 6,
+  "thema": "WWS und Beschaffungsplanung",
+  "frage": "PPS-Systeme stehen im Vordergrund bei",
+  "optionen": [
+   "Industriebetrieben (Produktion)",
+   "Webshops",
+   "Banken",
+   "Versicherungen"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t06a-27",
+  "tag": 6,
+  "thema": "WWS und Beschaffungsplanung",
+  "frage": "Ein geschlossenes Warenwirtschaftssystem bedeutet",
+  "optionen": [
+   "alle Warenbewegungen werden artikelgenau erfasst",
+   "das System hat keine Schnittstellen",
+   "niemand hat Zugriff",
+   "es läuft nur offline"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t06a-29",
+  "tag": 6,
+  "thema": "WWS und Beschaffungsplanung",
+  "frage": "Die Bezugsquellenermittlung beantwortet die Frage",
+  "optionen": [
+   "Wo soll eingekauft werden?",
+   "Wie viel?",
+   "Wann?",
+   "Was?"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t06a-32",
+  "tag": 6,
+  "thema": "WWS und Beschaffungsplanung",
+  "frage": "Beispiele für ERP-Systeme sind",
+  "optionen": [
+   "SAP, Microsoft Dynamics",
+   "WordPress, TYPO3",
+   "JPEG, PNG",
+   "HTML, CSS"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t06a-33",
+  "tag": 6,
+  "thema": "WWS und Beschaffungsplanung",
+  "frage": "Ein typisches Modul eines WWS ist",
+  "optionen": [
+   "Bestellwesen",
+   "Bildbearbeitung",
+   "Textverarbeitung",
+   "Videoschnitt"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t06b-01",
+  "tag": 6,
+  "thema": "Bezugsquellen und Anfrage",
+  "frage": "Bezugsquellenermittlung ist",
+  "optionen": [
+   "die Suche nach Informationen über mögliche Lieferanten",
+   "die Suche nach Kunden",
+   "die Preisgestaltung",
+   "die Lagerplanung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t06b-03",
+  "tag": 6,
+  "thema": "Bezugsquellen und Anfrage",
+  "frage": "Welche Quelle ist intern?",
+  "optionen": [
+   "Lieferantenstamm im WWS",
+   "Fachmesse",
+   "Branchenbuch",
+   "Herstellerkatalog"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t06b-04",
+  "tag": 6,
+  "thema": "Bezugsquellen und Anfrage",
+  "frage": "Eine allgemeine Anfrage bittet um",
+  "optionen": [
+   "Kataloge und Preislisten",
+   "einen konkreten Artikel",
+   "einen Kaufvertrag",
+   "eine Rechnung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t06b-05",
+  "tag": 6,
+  "thema": "Bezugsquellen und Anfrage",
+  "frage": "Für die Suche nach Erstlieferanten eignet sich",
+  "optionen": [
+   "Messebesuch und Adressverzeichnisse",
+   "die eigene Kundenkartei",
+   "das Impressum",
+   "die Bilanz"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t06b-07",
+  "tag": 6,
+  "thema": "Bezugsquellen und Anfrage",
+  "frage": "Ein Einkaufsverband hilft bei",
+  "optionen": [
+   "Bündelung der Nachfrage und besseren Konditionen",
+   "der Preisangabe",
+   "dem Impressum",
+   "der Markenanmeldung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t06b-08",
+  "tag": 6,
+  "thema": "Bezugsquellen und Anfrage",
+  "frage": "Eine bestimmte Anfrage bezieht sich auf",
+  "optionen": [
+   "einen konkreten Bedarf mit Menge und Qualität",
+   "allgemeine Informationen",
+   "den Jahresabschluss",
+   "das Impressum"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t06b-10",
+  "tag": 6,
+  "thema": "Bezugsquellen und Anfrage",
+  "frage": "Die Anfrage ist rechtlich",
+  "optionen": [
+   "eine Willenserklärung mit Bindung",
+   "keine Willenserklärung, nur Anbahnung eines Rechtsgeschäfts",
+   "ein Kaufvertrag",
+   "eine Bestellung"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t06b-11",
+  "tag": 6,
+  "thema": "Bezugsquellen und Anfrage",
+  "frage": "Ein Kriterium der Lieferantenbewertung ist",
+  "optionen": [
+   "Lieferzuverlässigkeit",
+   "Farbe der Webseite",
+   "Alter des Geschäftsführers",
+   "Anzahl der Follower"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t06b-13",
+  "tag": 6,
+  "thema": "Bezugsquellen und Anfrage",
+  "frage": "Das Lieferkettengesetz betrifft das Kriterium",
+  "optionen": [
+   "Nachhaltigkeit und Ethik",
+   "Preis",
+   "Lieferzeit",
+   "Verpackung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t06b-16",
+  "tag": 6,
+  "thema": "Bezugsquellen und Anfrage",
+  "frage": "Der Betreff einer schriftlichen Anfrage sollte",
+  "optionen": [
+   "den Bedarf konkret nennen",
+   "leer bleiben",
+   "nur Hallo lauten",
+   "die Rechnungsnummer enthalten"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t06b-17",
+  "tag": 6,
+  "thema": "Bezugsquellen und Anfrage",
+  "frage": "Bei bestehenden Geschäftsbeziehungen nutzt man",
+  "optionen": [
+   "die eigene Bezugsquellenkartei bzw. Lieferantendatei",
+   "fremde Kataloge",
+   "Fachzeitschriften",
+   "Preissuchmaschinen"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t06b-18",
+  "tag": 6,
+  "thema": "Bezugsquellen und Anfrage",
+  "frage": "B2B-Marktplätze und Lieferantenportale sind",
+  "optionen": [
+   "externe Quellen der Bezugsquellenermittlung",
+   "interne Quellen",
+   "Zahlungsarten",
+   "Lagerarten"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t06b-19",
+  "tag": 6,
+  "thema": "Bezugsquellen und Anfrage",
+  "frage": "Welche Angabe gehört in eine Anfrage?",
+  "optionen": [
+   "Menge und Qualität der Ware",
+   "Bilanzsumme des Anfragenden",
+   "Privatadresse des Einkäufers",
+   "Gewinn des Vorjahres"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t06b-21",
+  "tag": 6,
+  "thema": "Bezugsquellen und Anfrage",
+  "frage": "Muster und Referenzen werden angefordert",
+  "optionen": [
+   "in der Anfrage",
+   "in der Rechnung",
+   "in der Mahnung",
+   "im Lieferschein"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t06b-22",
+  "tag": 6,
+  "thema": "Bezugsquellen und Anfrage",
+  "frage": "Eine Anfrage kann erfolgen",
+  "optionen": [
+   "schriftlich oder mündlich, formfrei",
+   "nur per Einschreiben",
+   "nur notariell",
+   "nur über den Anwalt"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t06b-23",
+  "tag": 6,
+  "thema": "Bezugsquellen und Anfrage",
+  "frage": "Die Antwort des Lieferanten auf eine Anfrage ist in der Regel",
+  "optionen": [
+   "ein Angebot",
+   "eine Bestellung",
+   "eine Rechnung",
+   "eine Mahnung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t06b-26",
+  "tag": 6,
+  "thema": "Bezugsquellen und Anfrage",
+  "frage": "Eine Anfrage sollte enthalten",
+  "optionen": [
+   "eine Antwortfrist",
+   "die Kreditkartennummer",
+   "die Steuererklärung",
+   "das Passwort des WWS"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t06b-27",
+  "tag": 6,
+  "thema": "Bezugsquellen und Anfrage",
+  "frage": "Reklamationsquote gehört zum Kriterium",
+  "optionen": [
+   "Qualität",
+   "Preis",
+   "Standort",
+   "Service"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t06b-28",
+  "tag": 6,
+  "thema": "Bezugsquellen und Anfrage",
+  "frage": "Eine gewichtete Punktbewertung von Lieferanten nennt man auch",
+  "optionen": [
+   "Nutzwertanalyse",
+   "Bilanzanalyse",
+   "Inventur",
+   "Skontoberechnung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t06b-29",
+  "tag": 6,
+  "thema": "Bezugsquellen und Anfrage",
+  "frage": "Wer eine Anfrage schickt, ist verpflichtet,",
+  "optionen": [
+   "zu nichts",
+   "zum Kauf",
+   "zur Abnahme von Mustern",
+   "zur Zahlung einer Gebühr"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t06b-30",
+  "tag": 6,
+  "thema": "Bezugsquellen und Anfrage",
+  "frage": "Bonität des Lieferanten gehört zum Kriterium",
+  "optionen": [
+   "wirtschaftliche Sicherheit",
+   "Qualität",
+   "Service",
+   "Verpackung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t06b-31",
+  "tag": 6,
+  "thema": "Bezugsquellen und Anfrage",
+  "frage": "Welche Quelle ist extern?",
+  "optionen": [
+   "Bezugsquellenkartei",
+   "Datenbankrecherche",
+   "Auswertung bisheriger Bestellungen",
+   "Erfahrungen der Lagerkollegen"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t06b-34",
+  "tag": 6,
+  "thema": "Bezugsquellen und Anfrage",
+  "frage": "Die regelmäßige Überprüfung bestehender Lieferanten dient",
+  "optionen": [
+   "der Sicherung von Preis, Qualität und Zuverlässigkeit",
+   "der Preisangabe",
+   "dem Marketing",
+   "dem Impressum"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t06b-35",
+  "tag": 6,
+  "thema": "Bezugsquellen und Anfrage",
+  "frage": "Termintreue gehört zum Kriterium",
+  "optionen": [
+   "Lieferzuverlässigkeit",
+   "Preis",
+   "Nachhaltigkeit",
+   "Standort"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t06b-36",
+  "tag": 6,
+  "thema": "Bezugsquellen und Anfrage",
+  "frage": "Zahlungsziel und Skonto gehören zum Kriterium",
+  "optionen": [
+   "Preis und Konditionen",
+   "Qualität",
+   "Nachhaltigkeit",
+   "Logistik"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07a-02",
+  "tag": 7,
+  "thema": "Angebot und Angebotsvergleich",
+  "frage": "Ein Widerruf des Angebots ist wirksam, wenn er",
+  "optionen": [
+   "vor oder spätestens gleichzeitig mit dem Angebot zugeht",
+   "innerhalb einer Woche danach zugeht",
+   "mündlich erfolgt",
+   "nach der Bestellung erfolgt"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07a-03",
+  "tag": 7,
+  "thema": "Angebot und Angebotsvergleich",
+  "frage": "Ohne Vereinbarung wird die Verpackung",
+  "optionen": [
+   "zum Selbstkostenpreis berechnet",
+   "kostenlos geliefert",
+   "vom Spediteur bezahlt",
+   "nicht geliefert"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07a-05",
+  "tag": 7,
+  "thema": "Angebot und Angebotsvergleich",
+  "frage": "Die Klausel freibleibend bewirkt",
+  "optionen": [
+   "dass der Anbieter nicht gebunden ist",
+   "eine längere Bindung",
+   "eine Preisbindung",
+   "nichts"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07a-06",
+  "tag": 7,
+  "thema": "Angebot und Angebotsvergleich",
+  "frage": "Die Klausel frei Haus bedeutet",
+  "optionen": [
+   "der Verkäufer trägt alle Versandkosten",
+   "der Käufer trägt alle Versandkosten",
+   "die Kosten werden geteilt",
+   "es gibt keine Lieferung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07a-07",
+  "tag": 7,
+  "thema": "Angebot und Angebotsvergleich",
+  "frage": "Beim qualitativen Angebotsvergleich nutzt man",
+  "optionen": [
+   "die Nutzwertanalyse",
+   "die Bilanz",
+   "die Inventur",
+   "den Grundpreis"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07a-08",
+  "tag": 7,
+  "thema": "Angebot und Angebotsvergleich",
+  "frage": "Listenpreis 1.000 Euro, 10 % Rabatt, 2 % Skonto, Bezugskosten 50 Euro. Der Einstandspreis beträgt",
+  "optionen": [
+   "932,00 Euro",
+   "950,00 Euro",
+   "900,00 Euro",
+   "882,00 Euro"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07a-10",
+  "tag": 7,
+  "thema": "Angebot und Angebotsvergleich",
+  "frage": "Kataloge und Preislisten sind rechtlich",
+  "optionen": [
+   "Angebote",
+   "Anpreisungen ohne Bindung",
+   "Bestellungen",
+   "Verträge"
+  ],
+  "richtig": 1
+ },
+ {
+  "id": "t07a-11",
+  "tag": 7,
+  "thema": "Angebot und Angebotsvergleich",
+  "frage": "Eine vom Angebot abweichende Bestellung",
+  "optionen": [
+   "gilt als Ablehnung und neues Angebot",
+   "ist eine Annahme",
+   "ist unwirksam",
+   "bindet den Verkäufer"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07a-12",
+  "tag": 7,
+  "thema": "Angebot und Angebotsvergleich",
+  "frage": "Bei unfrei zahlt der Verkäufer",
+  "optionen": [
+   "die Kosten bis zur Versandstation",
+   "alle Kosten",
+   "nichts",
+   "die Kosten am Empfangsort"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07a-13",
+  "tag": 7,
+  "thema": "Angebot und Angebotsvergleich",
+  "frage": "Ein Angebot ist",
+  "optionen": [
+   "eine bindende Willenserklärung des Verkäufers",
+   "eine unverbindliche Werbung",
+   "eine Anfrage",
+   "eine Rechnung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07a-14",
+  "tag": 7,
+  "thema": "Angebot und Angebotsvergleich",
+  "frage": "Zieleinkaufspreis minus Skonto ergibt",
+  "optionen": [
+   "Bareinkaufspreis",
+   "Einstandspreis",
+   "Listenpreis",
+   "Bezugskosten"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07a-15",
+  "tag": 7,
+  "thema": "Angebot und Angebotsvergleich",
+  "frage": "Die Klausel ab Werk bedeutet",
+  "optionen": [
+   "der Käufer trägt alle Versandkosten",
+   "der Verkäufer trägt alle Versandkosten",
+   "frei Haus",
+   "frachtfrei"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07a-17",
+  "tag": 7,
+  "thema": "Angebot und Angebotsvergleich",
+  "frage": "Bei frachtfrei zahlt der Verkäufer",
+  "optionen": [
+   "die Kosten bis zur Empfangsstation",
+   "nichts",
+   "nur die Verpackung",
+   "die Entladekosten am Empfangsort"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07a-18",
+  "tag": 7,
+  "thema": "Angebot und Angebotsvergleich",
+  "frage": "Listeneinkaufspreis minus Rabatt ergibt",
+  "optionen": [
+   "Zieleinkaufspreis",
+   "Bareinkaufspreis",
+   "Einstandspreis",
+   "Verkaufspreis"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07a-20",
+  "tag": 7,
+  "thema": "Angebot und Angebotsvergleich",
+  "frage": "Ein Naturalrabatt ist",
+  "optionen": [
+   "ein Preisnachlass in Form von Ware (Draufgabe oder Dreingabe)",
+   "ein Bonus",
+   "ein Skonto",
+   "eine Frachtkostenübernahme"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07a-21",
+  "tag": 7,
+  "thema": "Angebot und Angebotsvergleich",
+  "frage": "Ein unbefristetes Angebot unter Anwesenden muss",
+  "optionen": [
+   "sofort angenommen werden",
+   "innerhalb einer Woche angenommen werden",
+   "schriftlich angenommen werden",
+   "nie angenommen werden"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07a-22",
+  "tag": 7,
+  "thema": "Angebot und Angebotsvergleich",
+  "frage": "Der Einstandspreis je Stück ist die Vergleichsgröße beim",
+  "optionen": [
+   "quantitativen Angebotsvergleich",
+   "Impressum",
+   "Layout",
+   "Markenrecht"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07a-24",
+  "tag": 7,
+  "thema": "Angebot und Angebotsvergleich",
+  "frage": "Ein befristetes Angebot bindet",
+  "optionen": [
+   "bis zum genannten Termin",
+   "unbegrenzt",
+   "gar nicht",
+   "nur eine Stunde"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07a-25",
+  "tag": 7,
+  "thema": "Angebot und Angebotsvergleich",
+  "frage": "Ohne Vereinbarung trägt die Versandkosten",
+  "optionen": [
+   "der Käufer ab Versandort",
+   "der Verkäufer",
+   "der Spediteur",
+   "niemand"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07a-28",
+  "tag": 7,
+  "thema": "Angebot und Angebotsvergleich",
+  "frage": "Bonus wird gewährt",
+  "optionen": [
+   "nachträglich bei Erreichen eines Mindestumsatzes",
+   "sofort bei Bestellung",
+   "bei schneller Zahlung",
+   "für Verpackung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07a-29",
+  "tag": 7,
+  "thema": "Angebot und Angebotsvergleich",
+  "frage": "Ohne vereinbarte Lieferfrist muss der Verkäufer",
+  "optionen": [
+   "unverzüglich liefern",
+   "innerhalb eines Monats liefern",
+   "nicht liefern",
+   "nach Zahlung liefern"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07a-31",
+  "tag": 7,
+  "thema": "Angebot und Angebotsvergleich",
+  "frage": "Bareinkaufspreis plus Bezugskosten ergibt",
+  "optionen": [
+   "Einstandspreis",
+   "Zieleinkaufspreis",
+   "Listenpreis",
+   "Selbstkosten"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07a-32",
+  "tag": 7,
+  "thema": "Angebot und Angebotsvergleich",
+  "frage": "Fehlt eine Angabe zur Güte, ist bei einer Gattungsschuld zu liefern",
+  "optionen": [
+   "Ware mittlerer Art und Güte",
+   "die beste Qualität",
+   "die schlechteste Qualität",
+   "keine Ware"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07a-33",
+  "tag": 7,
+  "thema": "Angebot und Angebotsvergleich",
+  "frage": "Zu den Bezugskosten gehören",
+  "optionen": [
+   "Fracht, Verpackung, Versicherung, Zoll",
+   "Rabatt und Skonto",
+   "Lohnkosten des Lagers",
+   "Miete des Shops"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07a-34",
+  "tag": 7,
+  "thema": "Angebot und Angebotsvergleich",
+  "frage": "Ohne Vereinbarung ist die Zahlung fällig",
+  "optionen": [
+   "sofort bei Lieferung",
+   "nach 30 Tagen",
+   "nach 14 Tagen",
+   "nach Jahresende"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07b-01",
+  "tag": 7,
+  "thema": "Die Bestellung",
+  "frage": "EDI steht für",
+  "optionen": [
+   "Electronic Data Interchange",
+   "Elektronischer Direktimport",
+   "European Delivery Index",
+   "Einkauf Digital International"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07b-02",
+  "tag": 7,
+  "thema": "Die Bestellung",
+  "frage": "Eine Lieferung ohne vorherige Bestätigung auf eine Bestellung ohne Angebot ist",
+  "optionen": [
+   "Annahme durch schlüssiges Handeln",
+   "unwirksam",
+   "eine Anfrage",
+   "eine Anpreisung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07b-03",
+  "tag": 7,
+  "thema": "Die Bestellung",
+  "frage": "Ein Vorteil von EDI für den Lieferanten ist",
+  "optionen": [
+   "direkte Übernahme der Bestellung in sein System",
+   "mehr Handarbeit",
+   "mehr Fehler",
+   "langsamere Abwicklung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07b-04",
+  "tag": 7,
+  "thema": "Die Bestellung",
+  "frage": "Ein elektronischer Marktplatz ist",
+  "optionen": [
+   "eine Plattform, auf der mehrere Anbieter ihre Güter anbieten",
+   "der Shop eines einzelnen Herstellers",
+   "ein Lagersystem",
+   "ein Zahlungssystem"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07b-05",
+  "tag": 7,
+  "thema": "Die Bestellung",
+  "frage": "Eine Bestellungsannahme ist nötig, wenn",
+  "optionen": [
+   "die Bestellung vom Angebot abweicht",
+   "das Angebot verbindlich war und die Bestellung identisch ist",
+   "der Käufer bezahlt hat",
+   "der Verkäufer eine Anfrage erhielt"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07b-09",
+  "tag": 7,
+  "thema": "Die Bestellung",
+  "frage": "Vorteil elektronischer Bestellungen ist",
+  "optionen": [
+   "weniger Erfassungsfehler und keine Medienbrüche",
+   "höhere Portokosten",
+   "längere Lieferzeit",
+   "mehr Papier"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07b-11",
+  "tag": 7,
+  "thema": "Die Bestellung",
+  "frage": "Das kaufmännische Bestätigungsschreiben",
+  "optionen": [
+   "kann unter Kaufleuten bei Schweigen als Zustimmung gelten",
+   "gilt nur für Verbraucher",
+   "ist verboten",
+   "ersetzt die Rechnung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07b-13",
+  "tag": 7,
+  "thema": "Die Bestellung",
+  "frage": "Die Annahme kann auch erfolgen durch",
+  "optionen": [
+   "Lieferung der Ware (schlüssiges Handeln)",
+   "Schweigen des Verbrauchers",
+   "Rücksendung der Bestellung",
+   "eine Anfrage"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07b-14",
+  "tag": 7,
+  "thema": "Die Bestellung",
+  "frage": "Wer eine Bestellung schreibt, sollte",
+  "optionen": [
+   "alle Angaben des Angebots wiederholen",
+   "nur den Preis nennen",
+   "keine Menge nennen",
+   "keinen Liefertermin nennen"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07b-15",
+  "tag": 7,
+  "thema": "Die Bestellung",
+  "frage": "Automatische Bestellungen bei Meldebestand sind möglich durch",
+  "optionen": [
+   "Anbindung des WWS an den Lieferanten (EDI)",
+   "Telefon",
+   "Fax",
+   "Postkarte"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07b-16",
+  "tag": 7,
+  "thema": "Die Bestellung",
+  "frage": "Eine Bestellung ohne vorheriges Angebot",
+  "optionen": [
+   "ist ein Angebot des Käufers",
+   "ist ein Vertrag",
+   "ist eine Rechnung",
+   "ist eine Mahnung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07b-19",
+  "tag": 7,
+  "thema": "Die Bestellung",
+  "frage": "Eine automatische Eingangsbestätigung im Webshop ist",
+  "optionen": [
+   "noch keine Annahme",
+   "bereits die Annahme",
+   "eine Rechnung",
+   "eine Mahnung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07b-20",
+  "tag": 7,
+  "thema": "Die Bestellung",
+  "frage": "Eine unveränderte, fristgerechte Bestellung auf ein verbindliches Angebot",
+  "optionen": [
+   "führt zum Vertragsschluss",
+   "ist ein neues Angebot",
+   "ist unwirksam",
+   "braucht eine Auftragsbestätigung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07b-21",
+  "tag": 7,
+  "thema": "Die Bestellung",
+  "frage": "Mindestinhalt einer Bestellung ist",
+  "optionen": [
+   "Art, Menge, Preis, Lieferzeit, Lieferort, Zahlungsbedingungen",
+   "nur der Preis",
+   "nur die Menge",
+   "nur die Unterschrift"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07b-22",
+  "tag": 7,
+  "thema": "Die Bestellung",
+  "frage": "Die Bestellung ist",
+  "optionen": [
+   "eine Willenserklärung des Käufers",
+   "eine Anfrage",
+   "ein Angebot des Verkäufers",
+   "eine Rechnung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07b-23",
+  "tag": 7,
+  "thema": "Die Bestellung",
+  "frage": "EDI bedeutet",
+  "optionen": [
+   "rechnergestützten Austausch strukturierter Geschäftsdaten zwischen Partnern",
+   "Bestellung per Telefon",
+   "Verkauf an Verbraucher",
+   "ein Lagersystem"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07b-24",
+  "tag": 7,
+  "thema": "Die Bestellung",
+  "frage": "Eine Bestellung auf ein freibleibendes Angebot ist",
+  "optionen": [
+   "ein Angebot des Käufers, das der Verkäufer annehmen muss",
+   "bereits ein Vertrag",
+   "unwirksam",
+   "eine Anfrage"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07b-25",
+  "tag": 7,
+  "thema": "Die Bestellung",
+  "frage": "Voraussetzung für EDI ist",
+  "optionen": [
+   "kompatible Schnittstellen und Vereinbarungen",
+   "ein Ladengeschäft",
+   "ein Katalog",
+   "ein Messestand"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07b-28",
+  "tag": 7,
+  "thema": "Die Bestellung",
+  "frage": "Ein Standard für EDI ist",
+  "optionen": [
+   "EDIFACT",
+   "HTML",
+   "JPEG",
+   "PAngV"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07b-29",
+  "tag": 7,
+  "thema": "Die Bestellung",
+  "frage": "Die Bestellung ist rechtlich",
+  "optionen": [
+   "formfrei",
+   "nur schriftlich wirksam",
+   "nur notariell wirksam",
+   "nur per Fax wirksam"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07b-30",
+  "tag": 7,
+  "thema": "Die Bestellung",
+  "frage": "Eine Bestellung mit geänderter Menge gegenüber dem Angebot",
+  "optionen": [
+   "ist ein neues Angebot des Käufers",
+   "ist eine Annahme",
+   "ist unwirksam",
+   "ist ein Widerruf"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07b-31",
+  "tag": 7,
+  "thema": "Die Bestellung",
+  "frage": "Eine Bestellung sollte enthalten",
+  "optionen": [
+   "Bezug auf das Angebot mit Datum",
+   "die Bilanz",
+   "die Steuernummer des Kunden",
+   "das Passwort"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07b-32",
+  "tag": 7,
+  "thema": "Die Bestellung",
+  "frage": "Die Bestellungsannahme heißt auch",
+  "optionen": [
+   "Auftragsbestätigung",
+   "Anfrage",
+   "Lieferschein",
+   "Mängelrüge"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07b-34",
+  "tag": 7,
+  "thema": "Die Bestellung",
+  "frage": "Ein B2B-Onlineshop ist",
+  "optionen": [
+   "das Angebot eines Unternehmens an andere Unternehmen im Internet",
+   "ein Shop für Verbraucher",
+   "ein Marktplatz mit vielen Anbietern",
+   "eine Suchmaschine"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t07b-35",
+  "tag": 7,
+  "thema": "Die Bestellung",
+  "frage": "Aus Beweisgründen sollte eine Bestellung",
+  "optionen": [
+   "schriftlich erfolgen",
+   "mündlich erfolgen",
+   "gar nicht erfolgen",
+   "nur telefonisch erfolgen"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08a-01",
+  "tag": 8,
+  "thema": "Warenannahme und Lager",
+  "frage": "Die Mängelrüge enthält",
+  "optionen": [
+   "Beschreibung des Mangels, Bezug zur Bestellung und eine Forderung",
+   "nur eine Beschwerde ohne Forderung",
+   "die Bilanz",
+   "den Grundpreis"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08a-02",
+  "tag": 8,
+  "thema": "Warenannahme und Lager",
+  "frage": "Bei der Warenannahme wird zuerst geprüft,",
+  "optionen": [
+   "ob die Lieferung zur Bestellung und zum Lieferschein passt",
+   "der Preis im Shop",
+   "die Bilanz",
+   "das Impressum des Lieferanten"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08a-03",
+  "tag": 8,
+  "thema": "Warenannahme und Lager",
+  "frage": "Nach § 377 HGB muss der Käufer beim Handelskauf die Ware",
+  "optionen": [
+   "unverzüglich untersuchen und Mängel unverzüglich rügen",
+   "innerhalb eines Jahres prüfen",
+   "nicht prüfen",
+   "nur bei Verdacht prüfen"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08a-04",
+  "tag": 8,
+  "thema": "Warenannahme und Lager",
+  "frage": "Unterbleibt die Mängelrüge bei offenen Mängeln,",
+  "optionen": [
+   "gilt die Ware als genehmigt",
+   "muss der Lieferant trotzdem ersetzen",
+   "erhält der Käufer Skonto",
+   "wird der Vertrag nichtig"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08a-05",
+  "tag": 8,
+  "thema": "Warenannahme und Lager",
+  "frage": "Ein Fremdlager ist",
+  "optionen": [
+   "ein Lager bei einem Logistikdienstleister",
+   "ein eigenes Lager im Ausland",
+   "ein Kühllager",
+   "ein Silo"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08a-08",
+  "tag": 8,
+  "thema": "Warenannahme und Lager",
+  "frage": "Das WWS unterstützt die Warenannahme durch",
+  "optionen": [
+   "Bereitstellung offener Bestellungen und Erfassung der Abweichungen",
+   "Werbung",
+   "Preisgestaltung",
+   "Markenrecherche"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08a-09",
+  "tag": 8,
+  "thema": "Warenannahme und Lager",
+  "frage": "Welche Aufgabe hat ein Lager?",
+  "optionen": [
+   "Sicherung der Verkaufsbereitschaft",
+   "Erstellung des Impressums",
+   "Berechnung der Umsatzsteuer",
+   "Markenanmeldung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08a-11",
+  "tag": 8,
+  "thema": "Warenannahme und Lager",
+  "frage": "Versteckte Mängel sind zu rügen",
+  "optionen": [
+   "unverzüglich nach Entdeckung",
+   "nie",
+   "innerhalb einer Stunde nach Lieferung",
+   "nur schriftlich per Einschreiben"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08a-12",
+  "tag": 8,
+  "thema": "Warenannahme und Lager",
+  "frage": "Die Tatbestandsaufnahme dient",
+  "optionen": [
+   "der Beweissicherung",
+   "der Preisgestaltung",
+   "der Markenanmeldung",
+   "der Werbung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08a-13",
+  "tag": 8,
+  "thema": "Warenannahme und Lager",
+  "frage": "Ein Lager ist",
+  "optionen": [
+   "der Ort, an dem Ware aufbewahrt wird",
+   "eine Rechnung",
+   "ein Zahlungssystem",
+   "eine Marke"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08a-14",
+  "tag": 8,
+  "thema": "Warenannahme und Lager",
+  "frage": "Ein Hochregallager ist gegliedert nach",
+  "optionen": [
+   "Bauform",
+   "Wirtschaftszweig",
+   "Aufgabe",
+   "Ort"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08a-15",
+  "tag": 8,
+  "thema": "Warenannahme und Lager",
+  "frage": "Welche Forderung kann in einer Mängelrüge stehen?",
+  "optionen": [
+   "Nachlieferung oder Minderung",
+   "Erhöhung des Preises",
+   "Änderung des Impressums",
+   "Verlängerung der Markenschutzdauer"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08a-16",
+  "tag": 8,
+  "thema": "Warenannahme und Lager",
+  "frage": "Chaotische Lagerhaltung bedeutet",
+  "optionen": [
+   "Ware wird auf freie Plätze gelegt, das System merkt sich den Ort",
+   "es gibt keine Ordnung",
+   "niemand findet die Ware",
+   "die Ware liegt auf dem Boden"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08a-17",
+  "tag": 8,
+  "thema": "Warenannahme und Lager",
+  "frage": "Artgemäße Lagerung bedeutet",
+  "optionen": [
+   "Beachtung von Temperatur, Feuchtigkeit und Licht",
+   "Sortierung nach Preis",
+   "Lagerung nach Lieferant",
+   "Lagerung nach Farbe"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08a-18",
+  "tag": 8,
+  "thema": "Warenannahme und Lager",
+  "frage": "Fulfillment bedeutet",
+  "optionen": [
+   "Auslagerung von Lager, Verpackung und Versand an einen Dienstleister",
+   "Eigenlager",
+   "Inventur",
+   "Rechnungsprüfung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08a-20",
+  "tag": 8,
+  "thema": "Warenannahme und Lager",
+  "frage": "Äußere Transportschäden sollten",
+  "optionen": [
+   "sofort beim Frachtführer vermerkt werden",
+   "nach einem Monat gemeldet werden",
+   "ignoriert werden",
+   "nur dem Kunden gemeldet werden"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08a-21",
+  "tag": 8,
+  "thema": "Warenannahme und Lager",
+  "frage": "Veredelung im Lager bedeutet",
+  "optionen": [
+   "die Ware gewinnt an Qualität, z. B. reifender Käse",
+   "die Ware wird verpackt",
+   "die Ware wird verkauft",
+   "die Ware wird gezählt"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08a-22",
+  "tag": 8,
+  "thema": "Warenannahme und Lager",
+  "frage": "Die Mengenkontrolle erfolgt durch",
+  "optionen": [
+   "Zählen, Wiegen, Messen",
+   "Schätzen",
+   "Nachfragen beim Kunden",
+   "Lesen der Rechnung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08a-23",
+  "tag": 8,
+  "thema": "Warenannahme und Lager",
+  "frage": "Ein Sonderlager durch gesetzliche Bestimmungen ist z. B.",
+  "optionen": [
+   "ein Gefahrstofflager",
+   "ein Etagenlager",
+   "ein Flachlager",
+   "ein Freilager"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08a-24",
+  "tag": 8,
+  "thema": "Warenannahme und Lager",
+  "frage": "Unverzüglich bedeutet",
+  "optionen": [
+   "ohne schuldhafte Verzögerung",
+   "sofort in derselben Sekunde",
+   "innerhalb eines Jahres",
+   "nach Belieben"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08a-25",
+  "tag": 8,
+  "thema": "Warenannahme und Lager",
+  "frage": "Zu den Anforderungen an ein Lager gehört",
+  "optionen": [
+   "Übersichtlichkeit",
+   "Werbung",
+   "Preisbindung",
+   "Markenschutz"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08a-27",
+  "tag": 8,
+  "thema": "Warenannahme und Lager",
+  "frage": "Ein dezentrales Lager bedeutet",
+  "optionen": [
+   "mehrere Lager an verschiedenen Standorten",
+   "ein einziges Lager",
+   "kein Lager",
+   "ein Kühllager"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08a-28",
+  "tag": 8,
+  "thema": "Warenannahme und Lager",
+  "frage": "Die Überbrückung der Zeit im Lager bedeutet",
+  "optionen": [
+   "Zeitausgleich zwischen Einkauf und Verkauf",
+   "Verkürzung der Lieferzeit",
+   "Verlängerung der Öffnungszeiten",
+   "Wartezeit im Kundenservice"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08a-29",
+  "tag": 8,
+  "thema": "Warenannahme und Lager",
+  "frage": "Ein Umschlagslager ist gegliedert nach",
+  "optionen": [
+   "Aufgabe",
+   "Bauform",
+   "Wirtschaftszweig",
+   "Ort"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08a-30",
+  "tag": 8,
+  "thema": "Warenannahme und Lager",
+  "frage": "Im E-Commerce-Lager wichtig sind zusätzlich",
+  "optionen": [
+   "Kommissionier-, Pack- und Retourenzonen",
+   "Schaufenster",
+   "Kassen",
+   "Umkleiden"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08b-01",
+  "tag": 8,
+  "thema": "Lagerbestand und Bestandskontrolle",
+  "frage": "Der Istbestand wird ermittelt durch",
+  "optionen": [
+   "Inventur (Zählen, Messen, Wiegen)",
+   "das WWS",
+   "die Rechnung",
+   "die Bestellung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08b-03",
+  "tag": 8,
+  "thema": "Lagerbestand und Bestandskontrolle",
+  "frage": "Bestandsanzeige im Shop in Echtzeit setzt voraus",
+  "optionen": [
+   "Anbindung von Shop und WWS",
+   "ein Ladengeschäft",
+   "einen Katalog",
+   "eine Marke"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08b-04",
+  "tag": 8,
+  "thema": "Lagerbestand und Bestandskontrolle",
+  "frage": "Wenn die Lieferzeit steigt, dann",
+  "optionen": [
+   "steigt der Meldebestand",
+   "sinkt der Meldebestand",
+   "bleibt der Meldebestand gleich",
+   "sinkt der Mindestbestand"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08b-05",
+  "tag": 8,
+  "thema": "Lagerbestand und Bestandskontrolle",
+  "frage": "Während der Lieferzeit wird",
+  "optionen": [
+   "weiter verkauft, deshalb muss vorher bestellt werden",
+   "nicht verkauft",
+   "Inventur gemacht",
+   "der Preis erhöht"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08b-06",
+  "tag": 8,
+  "thema": "Lagerbestand und Bestandskontrolle",
+  "frage": "Meldebestand =",
+  "optionen": [
+   "Tagesverbrauch mal Lieferzeit plus Mindestbestand",
+   "Höchstbestand minus Bestellmenge",
+   "Mindestbestand mal 2",
+   "Jahresverbrauch geteilt durch 12"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08b-07",
+  "tag": 8,
+  "thema": "Lagerbestand und Bestandskontrolle",
+  "frage": "Beim Erreichen des Meldebestands",
+  "optionen": [
+   "muss sofort bestellt werden",
+   "wird das Lager geschlossen",
+   "wird die Ware verkauft",
+   "wird Inventur gemacht"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08b-09",
+  "tag": 8,
+  "thema": "Lagerbestand und Bestandskontrolle",
+  "frage": "Höchstbestand =",
+  "optionen": [
+   "Mindestbestand plus Bestellmenge",
+   "Meldebestand plus Mindestbestand",
+   "Tagesverbrauch mal 360",
+   "Bestellmenge minus Mindestbestand"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08b-10",
+  "tag": 8,
+  "thema": "Lagerbestand und Bestandskontrolle",
+  "frage": "Ein Nachteil zu hoher Bestände ist",
+  "optionen": [
+   "hohe Kapitalbindung",
+   "Fehlverkäufe",
+   "Eilbestellungen",
+   "Kundenverlust wegen Nichtlieferung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08b-12",
+  "tag": 8,
+  "thema": "Lagerbestand und Bestandskontrolle",
+  "frage": "Der optimale Lagerbestand ist",
+  "optionen": [
+   "der Vorrat mit der größten Wirtschaftlichkeit",
+   "der größtmögliche Vorrat",
+   "der kleinstmögliche Vorrat",
+   "immer null"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08b-13",
+  "tag": 8,
+  "thema": "Lagerbestand und Bestandskontrolle",
+  "frage": "Fehlmengenkosten sind",
+  "optionen": [
+   "Kosten durch fehlende Ware, z. B. entgangener Umsatz",
+   "Kosten des Lagers",
+   "Zinskosten",
+   "Werbekosten"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08b-14",
+  "tag": 8,
+  "thema": "Lagerbestand und Bestandskontrolle",
+  "frage": "Differenzen zwischen Buch- und Istbestand entstehen durch",
+  "optionen": [
+   "Schwund, Diebstahl, Fehlbuchungen",
+   "Werbung",
+   "Markenanmeldung",
+   "das Impressum"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08b-15",
+  "tag": 8,
+  "thema": "Lagerbestand und Bestandskontrolle",
+  "frage": "Der Buchbestand ist",
+  "optionen": [
+   "der Bestand laut WWS",
+   "der gezählte Bestand",
+   "der Höchstbestand",
+   "der Meldebestand"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08b-16",
+  "tag": 8,
+  "thema": "Lagerbestand und Bestandskontrolle",
+  "frage": "Kapitalbindung bedeutet",
+  "optionen": [
+   "Geld steckt in Vorräten und steht nicht für anderes zur Verfügung",
+   "Geld liegt auf dem Konto",
+   "Geld wird verschenkt",
+   "Geld wird verliehen"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08b-17",
+  "tag": 8,
+  "thema": "Lagerbestand und Bestandskontrolle",
+  "frage": "Mindestbestand 150, Bestellmenge 600. Höchstbestand?",
+  "optionen": [
+   "750",
+   "450",
+   "600",
+   "900"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08b-18",
+  "tag": 8,
+  "thema": "Lagerbestand und Bestandskontrolle",
+  "frage": "Die Sägezahnkurve zeigt",
+  "optionen": [
+   "den Verlauf des Lagerbestands zwischen Bestellungen",
+   "den Umsatz",
+   "den Preis",
+   "die Conversion Rate"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08b-19",
+  "tag": 8,
+  "thema": "Lagerbestand und Bestandskontrolle",
+  "frage": "Der Mindestbestand wird auch genannt",
+  "optionen": [
+   "eiserner Bestand",
+   "Höchstbestand",
+   "Meldebestand",
+   "Buchbestand"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08b-20",
+  "tag": 8,
+  "thema": "Lagerbestand und Bestandskontrolle",
+  "frage": "Der Mindestbestand dient",
+  "optionen": [
+   "als Reserve für unvorhergesehene Fälle",
+   "als Bestellauslöser",
+   "als Obergrenze",
+   "der Inventur"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08b-23",
+  "tag": 8,
+  "thema": "Lagerbestand und Bestandskontrolle",
+  "frage": "Zu den Lagerkosten gehören",
+  "optionen": [
+   "Raum, Personal, Versicherung, Zinsen",
+   "Werbung",
+   "Markenanmeldung",
+   "Impressum"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08b-24",
+  "tag": 8,
+  "thema": "Lagerbestand und Bestandskontrolle",
+  "frage": "Ein automatischer Bestellvorschlag wird ausgelöst",
+  "optionen": [
+   "beim Erreichen des Meldebestands",
+   "beim Höchstbestand",
+   "bei der Inventur",
+   "beim Verkauf jedes Artikels"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08b-26",
+  "tag": 8,
+  "thema": "Lagerbestand und Bestandskontrolle",
+  "frage": "Ein Nachteil zu niedriger Bestände ist",
+  "optionen": [
+   "Fehlverkäufe und Kundenverlust",
+   "hohe Zinskosten",
+   "Veralterung",
+   "Schwund"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08b-29",
+  "tag": 8,
+  "thema": "Lagerbestand und Bestandskontrolle",
+  "frage": "Absatz 12 Stück je Tag, Lieferzeit 15 Tage, Mindestbestand 60. Meldebestand?",
+  "optionen": [
+   "240",
+   "180",
+   "60",
+   "300"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08b-30",
+  "tag": 8,
+  "thema": "Lagerbestand und Bestandskontrolle",
+  "frage": "Der Höchstbestand soll verhindern,",
+  "optionen": [
+   "dass unnötige Lagerkosten entstehen",
+   "dass Ware fehlt",
+   "dass bestellt wird",
+   "dass Inventur gemacht wird"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08b-33",
+  "tag": 8,
+  "thema": "Lagerbestand und Bestandskontrolle",
+  "frage": "Herr Glandorf senkte die Vorräte um ein Drittel. Vorteil?",
+  "optionen": [
+   "mehr Liquidität durch weniger gebundenes Kapital",
+   "höhere Lagerkosten",
+   "mehr Schwund",
+   "längere Lieferzeit"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08b-34",
+  "tag": 8,
+  "thema": "Lagerbestand und Bestandskontrolle",
+  "frage": "Eine Inventurliste enthält",
+  "optionen": [
+   "Artikel, Sollbestand, Istbestand, Differenz",
+   "Preise der Konkurrenz",
+   "das Impressum",
+   "die Marke"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t08b-36",
+  "tag": 8,
+  "thema": "Lagerbestand und Bestandskontrolle",
+  "frage": "Absatz 10 Stück je Tag, Lieferzeit 30 Tage, Mindestbestand 150. Meldebestand?",
+  "optionen": [
+   "450",
+   "300",
+   "150",
+   "600"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09a-01",
+  "tag": 9,
+  "thema": "Lagerkennziffern",
+  "frage": "Vereinfachte Formel für den DLB",
+  "optionen": [
+   "(Anfangsbestand + Endbestand) geteilt durch 2",
+   "Anfangsbestand mal Endbestand",
+   "Wareneinsatz mal 2",
+   "Endbestand minus Anfangsbestand"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09a-02",
+  "tag": 9,
+  "thema": "Lagerkennziffern",
+  "frage": "LUH 6. Durchschnittliche Lagerdauer?",
+  "optionen": [
+   "60 Tage",
+   "6 Tage",
+   "36 Tage",
+   "30 Tage"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09a-03",
+  "tag": 9,
+  "thema": "Lagerkennziffern",
+  "frage": "Anfangsbestand 4.200 Euro, Endbestand 2.800 Euro. DLB?",
+  "optionen": [
+   "3.500 Euro",
+   "7.000 Euro",
+   "1.400 Euro",
+   "2.800 Euro"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09a-06",
+  "tag": 9,
+  "thema": "Lagerkennziffern",
+  "frage": "Lagerzinssatz =",
+  "optionen": [
+   "Jahreszinssatz geteilt durch LUH",
+   "LUH geteilt durch Jahreszinssatz",
+   "Jahreszinssatz mal LUH",
+   "360 geteilt durch Jahreszinssatz"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09a-08",
+  "tag": 9,
+  "thema": "Lagerkennziffern",
+  "frage": "Eine typische Umschlagshäufigkeit im Lebensmittelbereich liegt bei etwa",
+  "optionen": [
+   "14",
+   "2",
+   "0,5",
+   "100"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09a-09",
+  "tag": 9,
+  "thema": "Lagerkennziffern",
+  "frage": "DLB 180.000 Euro, Lagerzinssatz 1,07 %. Lagerzinsen?",
+  "optionen": [
+   "1.926 Euro",
+   "19.260 Euro",
+   "192,60 Euro",
+   "14.400 Euro"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09a-10",
+  "tag": 9,
+  "thema": "Lagerkennziffern",
+  "frage": "Eine höhere Umschlagshäufigkeit bewirkt",
+  "optionen": [
+   "eine kürzere Lagerdauer",
+   "eine längere Lagerdauer",
+   "höhere Kapitalbindung",
+   "mehr Lagerkosten"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09a-11",
+  "tag": 9,
+  "thema": "Lagerkennziffern",
+  "frage": "Lagerzinsen =",
+  "optionen": [
+   "DLB mal Lagerzinssatz geteilt durch 100",
+   "Wareneinsatz mal Jahreszinssatz",
+   "LUH mal Lagerzinssatz",
+   "DLD mal Zinssatz"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09a-12",
+  "tag": 9,
+  "thema": "Lagerkennziffern",
+  "frage": "Verkauft 2.320 Stück, DLB 290 Stück. LUH?",
+  "optionen": [
+   "8",
+   "12",
+   "0,125",
+   "29"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09a-13",
+  "tag": 9,
+  "thema": "Lagerkennziffern",
+  "frage": "LUH 7,5. Durchschnittliche Lagerdauer?",
+  "optionen": [
+   "48 Tage",
+   "75 Tage",
+   "24 Tage",
+   "7,5 Tage"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09a-14",
+  "tag": 9,
+  "thema": "Lagerkennziffern",
+  "frage": "Der DLB kann auch berechnet werden als",
+  "optionen": [
+   "Wareneinsatz geteilt durch LUH",
+   "LUH geteilt durch Wareneinsatz",
+   "360 geteilt durch LUH",
+   "Wareneinsatz mal LUH"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09a-15",
+  "tag": 9,
+  "thema": "Lagerkennziffern",
+  "frage": "Jahreszinssatz 8 %, LUH 7,5. Lagerzinssatz?",
+  "optionen": [
+   "1,07 %",
+   "60 %",
+   "0,94 %",
+   "8 %"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09a-16",
+  "tag": 9,
+  "thema": "Lagerkennziffern",
+  "frage": "Die Lagerdauer stieg von 45 auf 50 Tage. Das ist",
+  "optionen": [
+   "eine Verschlechterung",
+   "eine Verbesserung",
+   "ohne Bedeutung",
+   "ein Zeichen für mehr Umsatz"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09a-17",
+  "tag": 9,
+  "thema": "Lagerkennziffern",
+  "frage": "Wareneinsatz 450.000 Euro, DLB 75.000 Euro. LUH?",
+  "optionen": [
+   "6",
+   "0,17",
+   "60",
+   "7,5"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09a-19",
+  "tag": 9,
+  "thema": "Lagerkennziffern",
+  "frage": "Der Lagerzinssatz erfasst",
+  "optionen": [
+   "die Zinskosten des in Vorräten gebundenen Kapitals",
+   "den Kreditzins der Bank",
+   "die Umsatzsteuer",
+   "den Rabatt"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09a-23",
+  "tag": 9,
+  "thema": "Lagerkennziffern",
+  "frage": "Die Lagerumschlagshäufigkeit gibt an,",
+  "optionen": [
+   "wie oft der Lagerbestand im Jahr erneuert wird",
+   "wie lange die Lieferzeit ist",
+   "wie hoch der Umsatz ist",
+   "wie viele Lieferanten es gibt"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09a-25",
+  "tag": 9,
+  "thema": "Lagerkennziffern",
+  "frage": "Ein überbetrieblicher Vergleich der Kennziffern erfolgt mit",
+  "optionen": [
+   "Branchenwerten",
+   "dem Vorjahr",
+   "anderen Filialen",
+   "anderen Warengruppen"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09a-26",
+  "tag": 9,
+  "thema": "Lagerkennziffern",
+  "frage": "Eine typische Umschlagshäufigkeit bei Schuhen liegt bei etwa",
+  "optionen": [
+   "2",
+   "14",
+   "30",
+   "0,1"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09a-27",
+  "tag": 9,
+  "thema": "Lagerkennziffern",
+  "frage": "Jahreszinssatz 6 %, Lagerdauer 90 Tage. Lagerzinssatz?",
+  "optionen": [
+   "1,5 %",
+   "6 %",
+   "0,67 %",
+   "24 %"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09a-28",
+  "tag": 9,
+  "thema": "Lagerkennziffern",
+  "frage": "Maßnahme bei zu langer Lagerdauer ist",
+  "optionen": [
+   "Sortimentsbereinigung und Sonderangebote",
+   "größere Bestellmengen",
+   "höhere Preise",
+   "mehr Lagerfläche"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09a-29",
+  "tag": 9,
+  "thema": "Lagerkennziffern",
+  "frage": "LUH =",
+  "optionen": [
+   "Wareneinsatz geteilt durch DLB",
+   "DLB geteilt durch Wareneinsatz",
+   "360 geteilt durch DLB",
+   "Wareneinsatz mal DLB"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09a-30",
+  "tag": 9,
+  "thema": "Lagerkennziffern",
+  "frage": "Anfangsbestand 520 Stück, Endbestand 800 Stück. DLB?",
+  "optionen": [
+   "660 Stück",
+   "1.320 Stück",
+   "280 Stück",
+   "400 Stück"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09a-31",
+  "tag": 9,
+  "thema": "Lagerkennziffern",
+  "frage": "Der durchschnittliche Lagerbestand gibt an,",
+  "optionen": [
+   "wie groß der Vorrat eines Artikels im Durchschnitt ist",
+   "wie oft bestellt wird",
+   "wie hoch der Preis ist",
+   "wie viele Kunden kaufen"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09a-32",
+  "tag": 9,
+  "thema": "Lagerkennziffern",
+  "frage": "Genaue Formel für den DLB",
+  "optionen": [
+   "(Jahresanfangsbestand + 12 Monatsendbestände) geteilt durch 13",
+   "(Anfang + Ende) geteilt durch 12",
+   "Wareneinsatz geteilt durch 12",
+   "Summe der Monatsbestände mal 13"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09a-34",
+  "tag": 9,
+  "thema": "Lagerkennziffern",
+  "frage": "Die durchschnittliche Lagerdauer =",
+  "optionen": [
+   "360 geteilt durch LUH",
+   "LUH geteilt durch 360",
+   "DLB geteilt durch 360",
+   "360 mal LUH"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09b-01",
+  "tag": 9,
+  "thema": "Dropshipping und Rechnungsprüfung",
+  "frage": "Rechnung 10 Stück zu 5 Euro = 55 Euro. Das ist ein Fehler bei der",
+  "optionen": [
+   "rechnerischen Prüfung",
+   "sachlichen Prüfung",
+   "Mängelrüge",
+   "Bestellung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09b-02",
+  "tag": 9,
+  "thema": "Dropshipping und Rechnungsprüfung",
+  "frage": "Die E-Rechnung im B2B-Bereich ist seit 2025",
+  "optionen": [
+   "verpflichtend zu empfangen",
+   "verboten",
+   "nur für Verbraucher",
+   "freiwillig ohne Frist"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09b-05",
+  "tag": 9,
+  "thema": "Dropshipping und Rechnungsprüfung",
+  "frage": "Rechnung über 450 Stück, geliefert 430 Stück. Das ist ein Fehler bei der",
+  "optionen": [
+   "sachlichen Prüfung",
+   "rechnerischen Prüfung",
+   "Inventur",
+   "Preisangabe"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09b-06",
+  "tag": 9,
+  "thema": "Dropshipping und Rechnungsprüfung",
+  "frage": "Der Dropshipping-Partner verschickt die Ware",
+  "optionen": [
+   "neutral direkt an den Kunden des Webshops",
+   "an das Lager des Webshops",
+   "an die Filiale",
+   "an den Hersteller"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09b-07",
+  "tag": 9,
+  "thema": "Dropshipping und Rechnungsprüfung",
+  "frage": "Nachteil des Dropshippings",
+  "optionen": [
+   "Abhängigkeit vom Lieferanten und geringere Margen",
+   "hohe Lagerkosten",
+   "hohe Kapitalbindung",
+   "großer Lagerbedarf"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09b-08",
+  "tag": 9,
+  "thema": "Dropshipping und Rechnungsprüfung",
+  "frage": "Auf der Rechnung müssen ausgewiesen sein",
+  "optionen": [
+   "Steuersatz und Steuerbetrag",
+   "nur der Bruttobetrag",
+   "nur der Nettobetrag",
+   "keine Steuerangaben"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09b-10",
+  "tag": 9,
+  "thema": "Dropshipping und Rechnungsprüfung",
+  "frage": "Vorteil des Dropshippings für den Webshop",
+  "optionen": [
+   "keine Kapitalbindung im Lager",
+   "hohe Margen",
+   "volle Kontrolle über den Versand",
+   "kurze Lieferzeiten garantiert"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09b-11",
+  "tag": 9,
+  "thema": "Dropshipping und Rechnungsprüfung",
+  "frage": "Ein Prüfvermerk auf der Rechnung enthält",
+  "optionen": [
+   "sachlich richtig, rechnerisch richtig, Datum, Handzeichen",
+   "den Gewinn",
+   "die Kundenbewertung",
+   "das Passwort"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09b-12",
+  "tag": 9,
+  "thema": "Dropshipping und Rechnungsprüfung",
+  "frage": "Vereinbarte Preisminderungen wie Skonto müssen auf der Rechnung",
+  "optionen": [
+   "angegeben sein",
+   "verschwiegen werden",
+   "nur mündlich mitgeteilt werden",
+   "im Impressum stehen"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09b-14",
+  "tag": 9,
+  "thema": "Dropshipping und Rechnungsprüfung",
+  "frage": "Ist die Rechnung richtig,",
+  "optionen": [
+   "wird sie gebucht und bezahlt",
+   "wird sie zurückgeschickt",
+   "wird sie ignoriert",
+   "wird eine Mängelrüge geschrieben"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09b-15",
+  "tag": 9,
+  "thema": "Dropshipping und Rechnungsprüfung",
+  "frage": "Voraussetzung für Dropshipping ist",
+  "optionen": [
+   "eine laufende Abstimmung der Verfügbarkeit mit dem Lieferanten",
+   "ein großes eigenes Lager",
+   "ein Ladengeschäft",
+   "ein Katalog"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09b-16",
+  "tag": 9,
+  "thema": "Dropshipping und Rechnungsprüfung",
+  "frage": "Welche Angabe ist eine Pflichtangabe der Rechnung?",
+  "optionen": [
+   "Steuernummer oder USt-IdNr. des Lieferanten",
+   "Bankgeheimnis",
+   "Gewinn des Lieferanten",
+   "Name des Lagermitarbeiters"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09b-20",
+  "tag": 9,
+  "thema": "Dropshipping und Rechnungsprüfung",
+  "frage": "Die sachliche Rechnungsprüfung prüft",
+  "optionen": [
+   "Übereinstimmung mit Bestellung und Wareneingang",
+   "Multiplikationen",
+   "Additionen",
+   "die Steuerberechnung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09b-21",
+  "tag": 9,
+  "thema": "Dropshipping und Rechnungsprüfung",
+  "frage": "Gegenüber dem Kunden haftet beim Dropshipping",
+  "optionen": [
+   "der Webshop als Vertragspartner",
+   "der Lieferant",
+   "der Paketdienst",
+   "niemand"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09b-25",
+  "tag": 9,
+  "thema": "Dropshipping und Rechnungsprüfung",
+  "frage": "Der Webshop erhält vom Dropshipping-Partner",
+  "optionen": [
+   "Rechnung und Sendungsnummer",
+   "die Kundenzahlung",
+   "das Impressum",
+   "die Bilanz"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09b-26",
+  "tag": 9,
+  "thema": "Dropshipping und Rechnungsprüfung",
+  "frage": "Beim Dropshipping entstehen",
+  "optionen": [
+   "zwei Kaufverträge Kunde mit Webshop, Webshop mit Lieferant",
+   "ein Kaufvertrag zwischen Kunde und Lieferant",
+   "kein Kaufvertrag",
+   "drei Kaufverträge mit dem Paketdienst"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09b-27",
+  "tag": 9,
+  "thema": "Dropshipping und Rechnungsprüfung",
+  "frage": "Die rechnerische Rechnungsprüfung prüft",
+  "optionen": [
+   "Menge mal Preis, Rabatte, Steuer, Summen",
+   "ob die Ware geliefert wurde",
+   "die Pflichtangaben",
+   "die Lieferbedingungen"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09b-28",
+  "tag": 9,
+  "thema": "Dropshipping und Rechnungsprüfung",
+  "frage": "Die Rechnungsnummer muss",
+  "optionen": [
+   "fortlaufend sein",
+   "zufällig sein",
+   "fehlen",
+   "identisch mit der Bestellnummer sein"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09b-31",
+  "tag": 9,
+  "thema": "Dropshipping und Rechnungsprüfung",
+  "frage": "Beim Dropshipping",
+  "optionen": [
+   "hat der Webshop die Ware nicht auf Lager, der Lieferant versendet direkt an den Kunden",
+   "lagert der Webshop alles selbst",
+   "kauft der Kunde direkt beim Lieferanten",
+   "gibt es keinen Lieferanten"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09b-32",
+  "tag": 9,
+  "thema": "Dropshipping und Rechnungsprüfung",
+  "frage": "Die Zahlung sollte erfolgen",
+  "optionen": [
+   "innerhalb der Skontofrist, um den Nachlass zu nutzen",
+   "erst nach Mahnung",
+   "nie",
+   "vor der Prüfung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09b-33",
+  "tag": 9,
+  "thema": "Dropshipping und Rechnungsprüfung",
+  "frage": "Die Rechnung wird abgeglichen mit",
+  "optionen": [
+   "Bestellung und Wareneingangsmeldung",
+   "dem Impressum",
+   "der Marke",
+   "dem Grundpreis"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09b-34",
+  "tag": 9,
+  "thema": "Dropshipping und Rechnungsprüfung",
+  "frage": "Ist die Rechnung fehlerhaft,",
+  "optionen": [
+   "wird eine korrigierte Rechnung angefordert und erneut geprüft",
+   "wird sie trotzdem bezahlt",
+   "wird der Vertrag nichtig",
+   "wird die Ware zurückgeschickt"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09b-35",
+  "tag": 9,
+  "thema": "Dropshipping und Rechnungsprüfung",
+  "frage": "Der Webshop muss beim Dropshipping ständig prüfen",
+  "optionen": [
+   "die Verfügbarkeit der Waren beim Lieferanten",
+   "die Bilanz des Lieferanten",
+   "das Impressum des Lieferanten",
+   "die Farbe der Verpackung"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09b-37",
+  "tag": 9,
+  "thema": "Dropshipping und Rechnungsprüfung",
+  "frage": "Beim Dropshipping bestellt und bezahlt der Kunde",
+  "optionen": [
+   "beim Webshop",
+   "beim Lieferanten",
+   "beim Paketdienst",
+   "bei der Bank"
+  ],
+  "richtig": 0
+ },
+ {
+  "id": "t09b-38",
+  "tag": 9,
+  "thema": "Dropshipping und Rechnungsprüfung",
+  "frage": "Pflichtangabe ist auch",
+  "optionen": [
+   "der Zeitpunkt der Lieferung",
+   "der Einkaufspreis des Lieferanten",
+   "die Bilanzsumme",
+   "die Farbe des Logos"
+  ],
+  "richtig": 0
+ }
+]
