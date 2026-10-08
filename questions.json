@@ -1033,7 +1033,7 @@
    "die IHK"
   ],
   "richtig": 1,
-  "erklaerung": "Ist die Abmahnung berechtigt, muss der abgemahnte Shop die Anwaltskosten des Abmahnenden erstatten. Deshalb lohnt es sich, Impressum und Bildrechte vorher sauber zu prüfen."
+  "erklaerung": "Ist eine Abmahnung berechtigt, muss der Abgemahnte in der Regel die nötigen Kosten des Abmahnenden erstatten, zum Beispiel bei verletzten Bildrechten. Ausnahme: Mahnt ein Mitbewerber Fehler bei Pflichtinformationen wie dem Impressum ab, gibt es keinen Kostenersatz."
  },
  {
   "id": "t02a-22",
@@ -1313,7 +1313,7 @@
    "Stiftung-Warentest-Urteil"
   ],
   "richtig": 1,
-  "erklaerung": "Die CE-Kennzeichnung bringt der Hersteller ohne Prüfung durch Dritte selbst an. Das GS-Zeichen dagegen vergibt eine unabhängige Prüfstelle erst nach eigener Prüfung."
+  "erklaerung": "Die CE-Kennzeichnung bringt der Hersteller in eigener Verantwortung an, meist ohne Prüfung durch Dritte. Das GS-Zeichen vergibt dagegen eine unabhängige Prüfstelle erst nach einer eigenen Prüfung."
  },
  {
   "id": "t02b-20",
@@ -2531,7 +2531,7 @@
    "der Preis der Konkurrenz"
   ],
   "richtig": 0,
-  "erklaerung": "Seit 2022 muss bei einer Preissenkung zusätzlich der niedrigste Preis der letzten 30 Tage genannt werden. So kann niemand eine falsche Ersparnis vortäuschen, indem er den Preis vorher künstlich erhöht."
+  "erklaerung": "Wer mit einer Preissenkung wirbt, muss den niedrigsten Preis der letzten 30 Tage angeben. Die Ersparnis, etwa minus 20 Prozent, muss von diesem Preis aus berechnet werden. So kann niemand vorher künstlich den Preis erhöhen."
  },
  {
   "id": "t04b-01",
@@ -3105,7 +3105,7 @@
    "nur für Verbände verboten"
   ],
   "richtig": 0,
-  "erklaerung": "Werbe-E-Mails ohne vorherige Einwilligung des Empfängers gelten als unzumutbare Belästigung nach dem UWG. Erlaubt sind sie nur, wenn der Kunde vorher zugestimmt hat, etwa per Double-Opt-in."
+  "erklaerung": "Werbe-E-Mails ohne vorherige ausdrückliche Einwilligung sind eine unzumutbare Belästigung nach dem UWG. Eine Ausnahme gilt für Bestandskunden: Sie dürfen Werbung für ähnliche Waren bekommen, wenn sie nicht widersprochen haben und auf ihr Widerspruchsrecht hingewiesen wurden."
  },
  {
   "id": "t05a-22",
@@ -3287,7 +3287,7 @@
    "gilt nur für Textilien"
   ],
   "richtig": 0,
-  "erklaerung": "Mit der CE-Kennzeichnung erklärt der Hersteller selbst, dass sein Produkt die EU-Vorschriften einhält. Eine Prüfung durch den TÜV findet dabei nicht statt, das unterscheidet CE vom GS-Zeichen."
+  "erklaerung": "Mit dem CE-Zeichen erklärt der Hersteller selbst, dass sein Produkt die EU-Vorschriften einhält. Meist prüft dabei keine fremde Stelle. Das GS-Zeichen gibt es dagegen nur nach einer Prüfung durch eine unabhängige Stelle."
  },
  {
   "id": "t05b-10",
@@ -4785,7 +4785,7 @@
    "den Grundpreis"
   ],
   "richtig": 0,
-  "erklaerung": "Die Mängelrüge muss genau beschreiben, was falsch ist, sich auf die Bestellung beziehen und eine klare Forderung enthalten, zum Beispiel Nachlieferung oder Minderung. Nur so kann der Lieferant reagieren und die Rechte des Käufers bleiben gewahrt."
+  "erklaerung": "Eine Mängelrüge beschreibt den Mangel genau, nennt die Bestellung und stellt eine Forderung, zum Beispiel Nachlieferung oder Minderung. Für den Erhalt der Rechte ist vor allem wichtig, dass der Mangel unverzüglich gemeldet wird."
  },
  {
   "id": "t08a-02",
@@ -4813,7 +4813,7 @@
    "nur bei Verdacht prüfen"
   ],
   "richtig": 0,
-  "erklaerung": "§ 377 HGB gilt für den Handelskauf zwischen Kaufleuten. Der Käufer muss die Ware sofort nach Erhalt prüfen und Mängel ohne schuldhaftes Zögern melden, sonst verliert er seine Rechte."
+  "erklaerung": "§ 377 HGB gilt, wenn der Kauf für beide Seiten ein Handelsgeschäft ist. Der Käufer muss die Ware unverzüglich nach der Lieferung prüfen und Mängel unverzüglich melden. Sonst gilt die Ware als genehmigt."
  },
  {
   "id": "t08a-04",
