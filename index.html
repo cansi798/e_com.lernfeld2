@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Quiz-Trainer Lernfeld 2</title>
+  <meta name="description" content="Übungsquiz und Prüfungssimulation zu Lernfeld 2: Sortimente im Onlinevertrieb gestalten und die Beschaffung unterstützen.">
+  <meta name="color-scheme" content="light dark">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📝</text></svg>">
+  <link rel="stylesheet" href="style.css">
+  <script type="module" src="app.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <button id="homeBtn" class="ghost" type="button" hidden>← Start</button>
+    <span class="brand">Lernfeld 2</span>
+    <span id="timer" class="timer" role="timer" hidden>60:00</span>
+  </header>
+  <main>
+    <section id="view-loading"><p class="hint">Fragen werden geladen …</p></section>
+
+    <section id="view-error" hidden>
+      <h1>Fragen nicht geladen</h1>
+      <p>Die Fragen konnten nicht geladen werden. Prüfe die Internetverbindung.</p>
+      <button id="reloadBtn" class="primary" type="button">Neu laden</button>
+    </section>
+
+    <section id="view-start" hidden>
+      <h1>Quiz-Trainer</h1>
+      <p class="lead">Sortimente im Onlinevertrieb gestalten und die Beschaffung unterstützen · <span id="totalCount">0</span> Fragen aus 9 Unterrichtstagen</p>
+      <button id="startPractice" class="tile" type="button"><strong>Üben</strong><span>Tage auswählen und sofort sehen, ob es stimmt</span></button>
+      <button id="startExam" class="tile accent" type="button"><strong>Prüfungssimulation</strong><span>30 zufällige Fragen · 60 Minuten · Note am Ende</span></button>
+    </section>
+
+    <section id="view-setup" hidden>
+      <h1>Üben</h1>
+      <div class="row">
+        <button id="allTags" class="ghost" type="button">Alle</button>
+        <button id="noTags" class="ghost" type="button">Keine</button>
+      </div>
+      <div id="tagChips" class="chips"></div>
+      <label class="switch"><input id="shuffleQuestions" type="checkbox"> Fragen mischen</label>
+      <p id="setupCount" class="hint" aria-live="polite"></p>
+      <button id="startPracticeRun" class="primary block" type="button">Los geht's</button>
+    </section>
+
+    <section id="view-quiz" hidden>
+      <div class="quizbar">
+        <h1 id="quizTitle">Üben</h1>
+        <div class="segmented" role="group" aria-label="Ansicht">
+          <button id="viewSlides" type="button" aria-pressed="true">Slides</button>
+          <button id="viewList" type="button" aria-pressed="false">Liste</button>
+        </div>
+      </div>
+      <p id="status" class="hint" aria-live="polite"></p>
+      <details id="examGridWrap" class="gridwrap"><summary>Fragenübersicht</summary><div id="examGrid" class="grid"></div></details>
+      <div id="questions"></div>
+      <div class="actions">
+        <button id="restartBtn" class="ghost block" type="button">Neu starten</button>
+        <button id="submitBtn" class="primary block" type="button">Abgeben</button>
+      </div>
+      <nav id="slideNav" class="slidenav" aria-label="Fragen-Navigation">
+        <div class="progress"><div id="progressBar"></div></div>
+        <div class="navrow">
+          <button id="prevBtn" type="button">← Zurück</button>
+          <span id="slidePos">1 / 1</span>
+          <button id="nextBtn" class="primary" type="button">Weiter →</button>
+        </div>
+      </nav>
+    </section>
+
+    <section id="view-result" hidden>
+      <h1>Ergebnis</h1>
+      <div class="scorecard">
+        <p id="resScore" class="score"></p>
+        <p id="resPercent"></p>
+        <p id="resNote" class="note"></p>
+        <p id="resTime" class="hint"></p>
+      </div>
+      <h2 id="resWrongTitle"></h2>
+      <ol id="resWrong" class="wronglist"></ol>
+      <div class="actions">
+        <button id="newExam" class="primary block" type="button">Neue Simulation</button>
+        <button id="resultHome" class="ghost block" type="button">Zur Startseite</button>
+      </div>
+    </section>
+  </main>
+</body>
+</html>
