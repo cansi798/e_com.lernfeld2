@@ -57,6 +57,7 @@ export function gradeExam(items, answers) {
       frage: q.frage,
       gewaehlt: a === null ? null : q.optionen[a],
       korrekt: q.optionen[q.richtig],
+      erklaerung: q.erklaerung,
     });
   });
   const gesamt = items.length;

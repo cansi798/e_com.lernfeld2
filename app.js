@@ -231,6 +231,7 @@ function renderResult(r, seconds) {
       el('p', 'question', f.frage),
       el('p', 'yours', `Deine Antwort: ${f.gewaehlt ?? 'keine'}`),
       el('p', 'right', `Richtig: ${f.korrekt}`),
+      el('p', 'explain', f.erklaerung),
     );
     list.append(item);
   }
@@ -283,7 +284,7 @@ function buildCard(q, i) {
     b.addEventListener('click', () => answer(i, o));
     opts.append(b);
   });
-  const fb = el('p', 'feedback');
+  const fb = el('div', 'feedback');
   fb.setAttribute('aria-live', 'polite');
   card.append(opts, fb);
   return card;
@@ -330,7 +331,10 @@ function paintCard(i) {
   if (practice && a !== null) {
     const ok = a === q.richtig;
     fb.classList.add(ok ? 'ok' : 'bad');
-    fb.textContent = ok ? 'Richtig!' : `Falsch – richtig ist ${LETTERS[q.richtig]}.`;
+    fb.append(
+      el('p', 'verdict', ok ? 'Richtig!' : `Falsch – richtig ist ${LETTERS[q.richtig]}.`),
+      el('p', 'explain', q.erklaerung),
+    );
   }
 }
 

@@ -70,9 +70,12 @@ button:disabled { cursor: default; opacity: .45; }
 .option.correct .mark { color: var(--ok); }
 .option.wrong { background: var(--bad-bg); border-color: var(--bad); }
 .option.wrong .mark { color: var(--bad); }
-.feedback { min-height: 1.5em; margin: 12px 0 0; font-weight: 600; }
-.feedback.ok { color: var(--ok); }
-.feedback.bad { color: var(--bad); }
+.feedback { min-height: 1.5em; margin: 12px 0 0; }
+.feedback p { margin: 0; }
+.verdict { font-weight: 600; }
+.feedback.ok .verdict { color: var(--ok); }
+.feedback.bad .verdict { color: var(--bad); }
+.explain { margin-top: 8px !important; padding: 10px 12px; background: var(--bg); border-left: 3px solid var(--accent); border-radius: 8px; color: var(--text); font-size: .95rem; line-height: 1.5; }
 
 .slidenav { position: fixed; left: 0; right: 0; bottom: 0; z-index: 5; padding: 8px 16px calc(8px + env(safe-area-inset-bottom)); background: var(--surface); border-top: 1px solid var(--line); }
 .progress { max-width: 720px; height: 4px; margin: 0 auto 8px; overflow: hidden; background: var(--line); border-radius: 2px; }

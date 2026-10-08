@@ -11,7 +11,7 @@ function seeded(seed) {
   return () => { s = (s * 1664525 + 1013904223) >>> 0; return s / 2 ** 32; };
 }
 
-const Q = (id, tag, richtig = 0) => ({ id, tag, thema: 'T', frage: `F ${id}`, optionen: ['a', 'b', 'c', 'd'], richtig });
+const Q = (id, tag, richtig = 0) => ({ id, tag, thema: 'T', frage: `F ${id}`, optionen: ['a', 'b', 'c', 'd'], richtig, erklaerung: `E ${id}` });
 
 test('shuffle liefert eine Permutation und verändert das Original nicht', () => {
   const src = [1, 2, 3, 4, 5, 6, 7, 8];
@@ -61,8 +61,8 @@ test('gradeExam zählt richtige und listet falsche und offene Antworten', () => 
   assert.ok(Math.abs(r.prozent - 33.333) < 0.01);
   assert.equal(r.note, 5);
   assert.deepEqual(r.falsch, [
-    { index: 1, tag: 2, frage: 'F b', gewaehlt: 'd', korrekt: 'b' },
-    { index: 2, tag: 3, frage: 'F c', gewaehlt: null, korrekt: 'c' },
+    { index: 1, tag: 2, frage: 'F b', gewaehlt: 'd', korrekt: 'b', erklaerung: 'E b' },
+    { index: 2, tag: 3, frage: 'F c', gewaehlt: null, korrekt: 'c', erklaerung: 'E c' },
   ]);
 });
 
@@ -93,4 +93,10 @@ test('validateSavedExam akzeptiert gültige und verwirft kaputte Daten', () => {
 test('app.js setzt keine Inhalte per innerHTML', { skip: !existsSync(new URL('../app.js', import.meta.url)) }, () => {
   const src = readFileSync(new URL('../app.js', import.meta.url), 'utf8');
   assert.equal(/innerHTML|outerHTML|insertAdjacentHTML/.test(src), false);
+});
+
+test('questions.json: jede Frage hat eine Erklärung', () => {
+  const qs = JSON.parse(readFileSync(new URL('../questions.json', import.meta.url), 'utf8'));
+  const ohne = qs.filter((q) => typeof q.erklaerung !== 'string' || q.erklaerung.trim().length < 20).map((q) => q.id);
+  assert.deepEqual(ohne, []);
 });

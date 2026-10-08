@@ -10,7 +10,8 @@
    "sind online grundsätzlich unwirtschaftlich",
    "gehören immer zum Kernsortiment"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Nischenprodukte sprechen nur eine kleine Zielgruppe mit besonderem Bedarf an, zum Beispiel spezielle Angelausrüstung. Anders als Massenprodukte werden sie nicht in großen Stückzahlen verkauft, online lohnen sie sich aber oft trotzdem."
  },
  {
   "id": "t01a-02",
@@ -23,7 +24,8 @@
    "Ratenzahlung",
    "Beratung zum Produkt"
   ],
-  "richtig": 2
+  "richtig": 2,
+  "erklaerung": "Ratenzahlung betrifft die Zahlungsabwicklung, nicht die Ware selbst. Reparatur, Ersatzteile und Beratung hängen dagegen direkt am Produkt und sind deshalb warenbezogene Kundendienstleistungen."
  },
  {
   "id": "t01a-03",
@@ -36,7 +38,8 @@
    "die Höhe der Versandkosten",
    "die Lieferzeiten der Lieferanten"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Die Sortimentskontrolle zeigt über Fehl- und Nichtverkäufe, wo Artikel fehlen, und über die Pennerliste, welche Waren sich schlecht verkaufen. So erkennt der Händler, wo er das Sortiment anpassen muss."
  },
  {
   "id": "t01a-04",
@@ -49,7 +52,8 @@
    "Artikel ohne Lagerhaltung",
    "Nischenprodukte mit hoher Marge"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "NOS steht für never out of stock. Solche Standardartikel gehören dauerhaft zum Sortiment und sollen immer lieferbar sein, damit Kunden sie jederzeit kaufen können."
  },
  {
   "id": "t01a-05",
@@ -62,7 +66,8 @@
    "Artikel ohne Lagerbestand",
    "neue Lieferanten"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Die Rennerliste listet Artikel mit hohen Verkaufszahlen auf. Sie zeigt dem Händler, welche Produkte besonders gefragt sind und im Sortiment bleiben sollten."
  },
  {
   "id": "t01a-06",
@@ -75,7 +80,8 @@
    "number of sorts",
    "net order system"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "NOS steht für never out of stock, also nie ausverkauft. Diese Standardartikel müssen ständig vorrätig sein, weil Kunden sie regelmäßig nachfragen."
  },
  {
   "id": "t01a-07",
@@ -88,7 +94,8 @@
    "Sortimentskontrolle",
    "Fehlverkaufskontrolle"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Wenn ein Händler zusätzliche Artikel, Sorten oder Warengruppen aufnimmt, nennt man das Sortimentserweiterung oder Produktdifferenzierung. Das Gegenteil, also das Streichen von Artikeln, heißt Produktelimination."
  },
  {
   "id": "t01a-08",
@@ -101,7 +108,8 @@
    "breit und tief ist",
    "schmal und flach ist"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Viele Warengruppen bedeuten ein breites Sortiment. Nur ein Artikel je Warenart bedeutet geringe Tiefe, also flach. Zusammen ergibt das breit und flach, typisch für Discounter."
  },
  {
   "id": "t01a-09",
@@ -114,7 +122,8 @@
    "Montage eines Möbelstücks",
    "Kinderbetreuung"
   ],
-  "richtig": 2
+  "richtig": 2,
+  "erklaerung": "Die Montage hängt direkt mit dem verkauften Möbelstück zusammen und ist damit eine warenbezogene Kundendienstleistung. Parkplatz oder Kinderbetreuung betreffen dagegen nicht die Ware selbst."
  },
  {
   "id": "t01a-10",
@@ -127,7 +136,8 @@
    "Farbe des Logos",
    "Größe des Firmenparkplatzes"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Die Konkurrenzsituation gehört zu den Bestimmungsgrößen der Sortimentspolitik, weil Händler ihr Angebot am Wettbewerb ausrichten. Wetterlage oder Logofarbe spielen dafür keine Rolle."
  },
  {
   "id": "t01a-11",
@@ -140,7 +150,8 @@
    "Sorte, Artikel, Warenart, Warengruppe",
    "Warenart, Warengruppe, Sorte, Artikel"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Die Gliederung geht vom Allgemeinen zum Konkreten: Warengruppe, zum Beispiel Oberbekleidung, dann Warenart wie Hosen, dann Artikel wie Cordhose und zuletzt die Sorte, etwa Cordhose braun Größe 38."
  },
  {
   "id": "t01a-12",
@@ -153,7 +164,8 @@
    "gesunkene Lagerkosten",
    "die Rennerliste"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Nimmt ein Händler umweltfreundliche Waren auf und streicht belastende Produkte, reagiert er auf das gestiegene Umweltbewusstsein seiner Kunden. Das ist eine Bestimmungsgröße der Sortimentspolitik."
  },
  {
   "id": "t01a-13",
@@ -166,7 +178,8 @@
    "schmal und tief",
    "schmal und flach"
   ],
-  "richtig": 2
+  "richtig": 2,
+  "erklaerung": "Nur eine Warenart, Laufschuhe, bedeutet ein schmales Sortiment. Viele Modelle und Größen bedeuten große Tiefe. Zusammen ergibt das schmal und tief, typisch für einen Fachhändler."
  },
  {
   "id": "t01a-14",
@@ -179,7 +192,8 @@
    "die Höhe des Lagerbestands",
    "die Zahl der Lieferanten"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Die Breite beschreibt, wie viele verschiedene Warengruppen und Warenarten ein Händler führt. Die Zahl der Artikel und Sorten je Warenart bestimmt dagegen die Tiefe."
  },
  {
   "id": "t01a-15",
@@ -192,7 +206,8 @@
    "einen Artikel",
    "eine Sorte"
   ],
-  "richtig": 3
+  "richtig": 3,
+  "erklaerung": "Der Artikel ist die Baumwollcordhose als Modell. Die genaue Ausprägung mit Farbe Schwarz und Größe 40 macht daraus eine Sorte, die feinste Gliederungsebene."
  },
  {
   "id": "t01a-16",
@@ -205,7 +220,8 @@
    "Alle Waren, die im Lager vorrätig sind",
    "Die Liste der Lieferanten"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Das Sortiment umfasst alles, was ein Händler seinen Kunden anbietet, also Waren und Dienstleistungen zusammen. Nur der Lagerbestand oder nur das Kernsortiment wäre zu eng gefasst."
  },
  {
   "id": "t01a-17",
@@ -218,7 +234,8 @@
    "ein Kunde den Warenkorb abbricht",
    "ein Artikel auf der Pennerliste steht"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Beim Nichtverkauf fragt ein Kunde einen Artikel nach, den der Händler gar nicht führt, zum Beispiel ein Kleid in Größe 48 bei einem Shop ohne große Größen."
  },
  {
   "id": "t01a-18",
@@ -231,7 +248,8 @@
    "Weil Dienstleistungen kostenlos sind",
    "Weil das Sortiment dadurch schmaler wird"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Viele Produkte ähneln sich stark, deshalb hebt sich ein Händler vor allem durch Zusatzservices von der Konkurrenz ab. Guter Kundendienst schafft so einen Wettbewerbsvorteil."
  },
  {
   "id": "t01a-19",
@@ -244,7 +262,8 @@
    "ersetzt die Inventur",
    "wird nur einmal jährlich durchgeführt"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Die kurzfristige Erfolgsrechnung ist ein EDV-gestütztes Instrument des Rechnungswesens. Sie liefert warengruppen- und artikelgenaue Umsatz- und Ertragsdaten, aus denen Renner- und Pennerliste entstehen."
  },
  {
   "id": "t01a-20",
@@ -257,7 +276,8 @@
    "Sie sind online nicht verkäuflich",
    "Sie gehören immer zum Randsortiment"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Massenprodukte richten sich an einen breiten Markt und werden deshalb in großen Stückzahlen produziert. Nischenprodukte decken dagegen nur einen kleinen Bedarf ab."
  },
  {
   "id": "t01a-21",
@@ -270,7 +290,8 @@
    "einer Sortimentsbereinigung",
    "einem Fehlverkauf"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Neue Warengruppen erweitern die Breite des Sortiments, man spricht deshalb von Verbreiterung. Zusätzliche Artikel und Sorten innerhalb einer Warenart heißen dagegen Vertiefung."
  },
  {
   "id": "t01a-22",
@@ -283,7 +304,8 @@
    "ein Artikel zu billig verkauft wird",
    "ein Artikel zurückgeschickt wird"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Beim Fehlverkauf führt der Händler den Artikel grundsätzlich, kann ihn aber im Moment der Nachfrage nicht liefern, weil er nicht auf Lager ist. Das unterscheidet ihn vom Nichtverkauf."
  },
  {
   "id": "t01a-23",
@@ -296,7 +318,8 @@
    "Artikel des Randsortiments",
    "Artikel mit den höchsten Preisen"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Die Pennerliste zeigt Artikel mit schwachen Verkaufszahlen. Sie hilft dem Händler zu erkennen, welche Produkte er eventuell aus dem Sortiment streichen sollte."
  },
  {
   "id": "t01a-24",
@@ -309,7 +332,8 @@
    "Das Impressum",
    "Der Footer"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Sucht ein Kunde im Shop nach einem Artikel und findet nichts, deutet das auf einen Nichtverkauf hin. Die Auswertung solcher Suchanfragen zeigt dem Händler mögliche Sortimentslücken."
  },
  {
   "id": "t01a-25",
@@ -322,7 +346,8 @@
    "einer Produktelimination",
    "einer Verringerung der Breite"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Werden mehr Artikel oder Sorten innerhalb einer bestehenden Warenart angeboten, wächst die Tiefe des Sortiments. Deshalb heißt das Sortimentsvertiefung, nicht Verbreiterung."
  },
  {
   "id": "t01a-26",
@@ -335,7 +360,8 @@
    "besteht nur aus Nischenprodukten",
    "wird nur saisonal geführt"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Das Kernsortiment bildet den Schwerpunkt des Geschäfts und bringt den überwiegenden Umsatzanteil. Das Randsortiment ergänzt es nur und bringt weniger Umsatz."
  },
  {
   "id": "t01a-27",
@@ -348,7 +374,8 @@
    "Diversifikation",
    "Produktinnovation"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Beim Streichen von Artikeln und Sorten aus dem Sortiment spricht man von Sortimentsbereinigung oder Produktelimination. Das ist das Gegenteil der Sortimentserweiterung."
  },
  {
   "id": "t01a-28",
@@ -361,7 +388,8 @@
    "Lieferanten zu binden",
    "die Sortimentstiefe zu verringern"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Das Randsortiment ergänzt das Kernsortiment um passende Zusatzartikel, erzielt aber nicht den Hauptumsatz. Im Lebensmittelhandel wären das zum Beispiel Zeitschriften neben Lebensmitteln."
  },
  {
   "id": "t01b-01",
@@ -374,7 +402,8 @@
    "die Kategorieübersicht",
    "das Impressum"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Die Buy-Box fasst die kaufentscheidenden Informationen zusammen: Preis, Verfügbarkeit und den Button, um den Artikel in den Warenkorb zu legen. Sie steht gut sichtbar auf der Produktdetailseite."
  },
  {
   "id": "t01b-02",
@@ -387,7 +416,8 @@
    "Der Name des Lieferanten",
    "Die Lagernummer"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Der Gesamtpreis muss inklusive Mehrwertsteuer angegeben werden, dazu kommt ein Hinweis auf eventuell anfallende Versandkosten. Das schafft Preisklarheit für die Kunden."
  },
  {
   "id": "t01b-03",
@@ -400,7 +430,8 @@
    "Impressum",
    "Kontaktseite"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Auf der Produktdetailseite findet der Kunde alle Informationen wie Preis, Verfügbarkeit und Bewertungen, die er für die Kaufentscheidung braucht. Deshalb fällt hier in der Regel der Kaufabschluss."
  },
  {
   "id": "t01b-04",
@@ -413,7 +444,8 @@
    "Anzeige der AGB",
    "Anlegen eines Kundenkontos"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Filter wie Größe oder Farbe grenzen das Angebot einer Kategorieseite gezielt ein. Bezahlen per Kreditkarte oder die AGB gehören nicht zu den Filterfunktionen."
  },
  {
   "id": "t01b-05",
@@ -426,7 +458,8 @@
    "das Logo",
    "die Hauptnavigation"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Die dritte Spalte rechts auf vielen Webshopseiten zeigt ergänzende Angebote, Aktionen und Vertrauenssiegel. Sie fördert damit Zusatzverkäufe und schafft Vertrauen bei den Kunden."
  },
  {
   "id": "t01b-06",
@@ -439,7 +472,8 @@
    "Filteroptionen",
    "Versandoptionen"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Teaser sind kurze, auffällige Hinweise auf der Startseite, die Kunden neugierig machen und schnell zu Aktionen oder Kategorien führen sollen. Sie sind kein gesetzlicher Pflichttext."
  },
  {
   "id": "t01b-07",
@@ -452,7 +486,8 @@
    "Ein Telefonanruf im Kundenservice",
    "Eine Lieferantenanfrage"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Ein Call to Action fordert den Besucher direkt zu einer Handlung auf, etwa Jetzt kaufen oder Jetzt bestellen. Er lenkt den Kunden gezielt zum nächsten Schritt."
  },
  {
   "id": "t01b-08",
@@ -465,7 +500,8 @@
    "nur die Rechtstexte",
    "den Bestellabschluss"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Die Kategorieseite listet alle Artikel einer bestimmten Warengruppe oder Warenart auf, zum Beispiel alle Mäntel. Ein einzelnes Produkt mit allen Details zeigt dagegen die Produktdetailseite."
  },
  {
   "id": "t01b-09",
@@ -478,7 +514,8 @@
    "Er ist auf Kategorieseiten nicht vorhanden",
    "Er dient nur der Dekoration"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Im Footer stehen Rechtstexte wie Impressum, AGB und Datenschutz sowie Serviceinformationen zu Zahlung und Versand. Er ist auf allen Seiten vorhanden, nicht nur Dekoration."
  },
  {
   "id": "t01b-10",
@@ -491,7 +528,8 @@
    "Eine Filterfunktion für Preise",
    "Ein Gütesiegel"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Die Breadcrumb-Navigation zeigt, über welchen Weg der Kunde zur aktuellen Seite gekommen ist, zum Beispiel Startseite, Mode, Mäntel. So kann er leicht zurücknavigieren."
  },
  {
   "id": "t01b-11",
@@ -504,7 +542,8 @@
    "Filter",
    "Sortieroptionen"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Gütesiegel und Kundenbewertungen schaffen Vertrauen bei neuen Kunden und werden deshalb als Trust-Elemente bezeichnet. Sie stehen oft gut sichtbar auf der Startseite."
  },
  {
   "id": "t01b-12",
@@ -517,7 +556,8 @@
    "Footer",
    "Warenkorb"
   ],
-  "richtig": 2
+  "richtig": 2,
+  "erklaerung": "Rechtstexte wie Impressum, AGB und Datenschutzerklärung müssen leicht erreichbar sein, deshalb werden sie üblicherweise im Footer verlinkt, der auf jeder Seite des Shops erscheint."
  },
  {
   "id": "t01b-13",
@@ -530,7 +570,8 @@
    "Filter an",
    "den Lieferanten an"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Cross-Selling schlägt passende Zusatzprodukte zum gerade betrachteten Artikel vor, zum Beispiel einen Gürtel zur Hose. So soll der Warenkorb vergrößert werden."
  },
  {
   "id": "t01b-14",
@@ -543,7 +584,8 @@
    "wie hoch der durchschnittliche Warenkorb ist",
    "wie lange ein Artikel auf Lager liegt"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Die Conversion Rate misst, wie viel Prozent der Besucher die gewünschte Aktion ausführen, etwa einen Kauf abschließen. Sie zeigt den Erfolg einer Seite oder Kampagne."
  },
  {
   "id": "t01b-15",
@@ -556,7 +598,8 @@
    "die Seite mit den AGB",
    "die Warenkorbseite"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Eine Landing Page ist die Seite, auf der ein Besucher nach dem Klick auf eine Werbemaßnahme landet. Sie behandelt nur ein Thema mit einem klaren Ziel."
  },
  {
   "id": "t01b-16",
@@ -569,7 +612,8 @@
    "die Zahlungsarten",
    "den Newsletter"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Die zweite Navigation im Body dient dazu, das Angebot weiter einzugrenzen, etwa über Filter oder Unterkategorien. Sie ergänzt die Hauptnavigation im Header."
  },
  {
   "id": "t01b-17",
@@ -582,7 +626,8 @@
    "eine Vielzahl unterschiedlicher Angebote",
    "das Fehlen einer Handlungsaufforderung"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Eine Landing Page konzentriert sich bewusst auf ein Thema mit einer klaren Handlungsaufforderung, damit der Besucher nicht abgelenkt wird. Deshalb hat sie auch eine reduzierte Navigation."
  },
  {
   "id": "t01b-18",
@@ -595,7 +640,8 @@
    "den Preis festlegt",
    "das Impressum ersetzt"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Ein kurzer Beschreibungstext auf der Kategorieseite hilft Suchmaschinen, den Inhalt der Seite zu verstehen, und verbessert so die Auffindbarkeit. Gesetzlich vorgeschrieben ist er nicht."
  },
  {
   "id": "t01b-19",
@@ -608,7 +654,8 @@
    "Dritte Spalte",
    "Breadcrumb"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Der Header am oberen Seitenrand bündelt zentrale Elemente wie Logo, Suchfeld und Warenkorb-Symbol, damit Kunden sie auf jeder Seite sofort finden."
  },
  {
   "id": "t01b-20",
@@ -621,7 +668,8 @@
    "Zum Warenkorb hinzufügen",
    "Newsletter abonnieren"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Sortierfunktionen ordnen die Treffer einer Kategorieseite neu, etwa nach Preis aufsteigend oder nach Beliebtheit. Impressum oder Warenkorb gehören nicht zur Sortierung."
  },
  {
   "id": "t01b-21",
@@ -634,7 +682,8 @@
    "Kategorieseite",
    "Warenkorb"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Damit sich der Besucher einer Landing Page auf das eine Angebot konzentriert, wird die Navigation bewusst eingeschränkt. Startseite und Kategorieseite bieten dagegen die volle Navigation."
  },
  {
   "id": "t01b-22",
@@ -647,7 +696,8 @@
    "Anzeige der Lieferzeit",
    "Sortierung nach Beliebtheit"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Bei vielen Treffern werden die Ergebnisse einer Kategorieseite auf mehrere Seiten aufgeteilt, das nennt man Paginierung. Alternativ gibt es das Endlos-Scrollen."
  },
  {
   "id": "t01b-23",
@@ -660,7 +710,8 @@
    "der Lagerhaltung",
    "der Preisfindung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Wenn alle Seiten gleich aufgebaut sind, finden sich Kunden schneller zurecht und müssen sich nicht neu orientieren. Das erhöht Nutzerfreundlichkeit und Vertrauen."
  },
  {
   "id": "t01b-24",
@@ -673,7 +724,8 @@
    "die Seite schneller lädt",
    "der Shop automatisch übersetzt wird"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Responsive Design sorgt dafür, dass sich eine Webseite automatisch an Smartphone, Tablet oder Desktop anpasst. So bleibt der Shop auf jedem Gerät gut nutzbar."
  },
  {
   "id": "t01b-25",
@@ -686,7 +738,8 @@
    "Sortimentstiefe",
    "Bruttomarge"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Weil eine Landing Page genau ein Ziel hat, wird ihr Erfolg daran gemessen, wie viele Besucher dieses Ziel tatsächlich erreichen, also an der Conversion Rate."
  },
  {
   "id": "t01b-26",
@@ -699,7 +752,8 @@
    "Bilanz des Unternehmens",
    "Dienstplan des Lagers"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Zu den typischen Elementen einer Produktdetailseite gehören die Auswahl von Varianten wie Größe oder Farbe sowie die Anzeige der Verfügbarkeit. Lieferantenlisten oder Bilanzen stehen dort nicht."
  },
  {
   "id": "t01b-27",
@@ -712,7 +766,8 @@
    "Lieferanten zu informieren",
    "Retouren abzuwickeln"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Die Startseite ist der zentrale Einstieg in den Shop und soll Besucher in Sekunden zu passenden Kategorien oder Produkten lenken, nicht Verwaltungsaufgaben erledigen."
  },
  {
   "id": "t01b-28",
@@ -725,7 +780,8 @@
    "die Zahl der Filter",
    "die Zahl der Warengruppen"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Die Absprungrate zeigt, wie viele Besucher den Shop schon nach der ersten Seite wieder verlassen, ohne weiterzuklicken. Eine hohe Rate deutet auf Probleme mit der Seite hin."
  },
  {
   "id": "t02a-01",
@@ -738,7 +794,8 @@
    "haftet nur der Kunde",
    "haftet der Hoster"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Für fremde Inhalte wie Bewertungen haftet der Shop erst, wenn er davon weiß. Nach einer Meldung muss er sofort prüfen und löschen oder sperren (Notice and Take Down). Vier Wochen Untätigkeit sind nicht unverzüglich, deshalb haftet der Shop jetzt mit."
  },
  {
   "id": "t02a-02",
@@ -751,7 +808,8 @@
    "nur bei Kleinunternehmern erlaubt",
    "nur im Ausland erlaubt"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Im Impressum muss eine ladungsfähige Anschrift stehen, also eine echte Adresse, unter der man den Anbieter erreichen und notfalls verklagen kann. Ein Postfach erfüllt das nicht."
  },
  {
   "id": "t02a-03",
@@ -764,7 +822,8 @@
    "Der Kunde erhält eine Gutschrift",
    "Die Bestellung wird storniert"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Erfährt der Shop von einem rechtswidrigen Inhalt, etwa einer beleidigenden Bewertung, muss er ihn sofort entfernen oder sperren. Genau das beschreibt der Begriff Notice and Take Down."
  },
  {
   "id": "t02a-04",
@@ -777,7 +836,8 @@
    "Nur Kunden",
    "Nur das Finanzamt"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Bei einem fehlerhaften Impressum liegt ein Wettbewerbsverstoß vor. Deshalb dürfen Mitbewerber und Verbraucherschutzverbände abmahnen, nicht nur Behörden oder Kunden."
  },
  {
   "id": "t02a-06",
@@ -790,7 +850,8 @@
    "bei kurzen Texten immer erlaubt",
    "nur bei Konkurrenten verboten"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Produktbeschreibungen sind geschützte Texte. Wer sie ohne Erlaubnis übernimmt, verletzt das Urheberrecht des Verfassers, egal wie kurz der Text ist oder ob die Quelle genannt wird."
  },
  {
   "id": "t02a-07",
@@ -803,7 +864,8 @@
    "Verlust der Umsatzsteuer-ID",
    "Sperrung des Handelsregisters"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Wer fremde Texte oder Bilder ohne Lizenz nutzt, riskiert eine Abmahnung. Dazu kommen eine Unterlassungserklärung und Schadensersatz, zum Beispiel in Höhe einer üblichen Lizenzgebühr."
  },
  {
   "id": "t02a-08",
@@ -816,7 +878,8 @@
    "nur bei Aktiengesellschaften",
    "nie"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Die Umsatzsteuer-Identifikationsnummer gehört ins Impressum, aber nur wenn das Unternehmen überhaupt eine besitzt. Kleinunternehmer ohne USt-IdNr müssen sich keine ausdenken."
  },
  {
   "id": "t02a-09",
@@ -829,7 +892,8 @@
    "nie",
    "nur wenn er die Bewertung selbst geschrieben hat"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Solange der Shop von einem rechtswidrigen Inhalt nichts weiß, haftet er nicht. Erst nach Kenntnis muss er unverzüglich reagieren, sonst haftet er für die fremde Bewertung mit."
  },
  {
   "id": "t02a-10",
@@ -842,7 +906,8 @@
    "nur auf Anfrage zugesendet werden",
    "im Warenkorb versteckt werden"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Gesetzlich muss das Impressum jederzeit sichtbar und mit wenigen Klicks erreichbar sein, als Faustregel maximal zwei Klicks. Nur auf Anfrage oder versteckt im Warenkorb reicht nicht aus."
  },
  {
   "id": "t02a-11",
@@ -855,7 +920,8 @@
    "sind immer kostenpflichtig",
    "dürfen nicht kommerziell genutzt werden"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Lizenzfrei heißt nicht bedingungslos. Oft muss trotzdem der Fotograf genannt werden oder die kommerzielle Nutzung ist eingeschränkt, deshalb immer die Lizenzbedingungen prüfen."
  },
  {
   "id": "t02a-12",
@@ -868,7 +934,8 @@
    "Private Handynummer des Geschäftsführers",
    "E-Mail-Adresse"
   ],
-  "richtig": 2
+  "richtig": 2,
+  "erklaerung": "Pflicht sind Anschrift, Vertretungsberechtigte und E-Mail-Adresse. Eine private Handynummer der Geschäftsführung ist keine gesetzliche Pflichtangabe, eine Telefonnummer des Unternehmens genügt als Kontaktweg."
  },
  {
   "id": "t02a-13",
@@ -881,7 +948,8 @@
    "nur in schwarz-weiß",
    "nur bei Preisen über 100 Euro"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Auch Fotos vom Hersteller sind urheberrechtlich geschützt. Ein Shop darf sie nur nutzen, wenn er dafür eine Lizenz oder Zustimmung hat, zum Beispiel über ein Händlerportal."
  },
  {
   "id": "t02a-14",
@@ -894,7 +962,8 @@
    "nur bei Apotheken",
    "nie"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Diese Angaben sind nur nötig, wenn für die Tätigkeit eine behördliche Erlaubnis nötig ist oder ein reglementierter Beruf ausgeübt wird, etwa bei Apotheken. Ein normaler Shop braucht das nicht."
  },
  {
   "id": "t02a-15",
@@ -907,7 +976,8 @@
    "Downloads",
    "Karriere"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Für das Impressum sind nur eindeutige Begriffe wie Impressum, Anbieterkennzeichnung oder Kontakt zulässig. Unklare Bezeichnungen wie Sonstiges oder Downloads erkennt der Nutzer nicht als Impressum."
  },
  {
   "id": "t02a-16",
@@ -920,7 +990,8 @@
    "eine Preisbindung",
    "eine Lieferfrist"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Mit der Unterlassungserklärung verspricht der Abgemahnte, den Verstoß zu beenden. Üblicherweise enthält sie eine Vertragsstrafe, die bei erneutem Verstoß fällig wird, oft mehrere tausend Euro."
  },
  {
   "id": "t02a-17",
@@ -933,7 +1004,8 @@
    "ein behördliches Bußgeld",
    "eine Mahnung wegen offener Rechnung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Mit einer Abmahnung fordert zum Beispiel ein Mitbewerber den Shop auf, einen Rechtsverstoß sofort zu beenden und eine Unterlassungserklärung mit Vertragsstrafe abzugeben."
  },
  {
   "id": "t02a-18",
@@ -946,7 +1018,8 @@
    "voll und unmittelbar",
    "nur bei Vorsatz"
   ],
-  "richtig": 2
+  "richtig": 2,
+  "erklaerung": "Für selbst verfasste Texte, Bilder und Produktangaben haftet der Anbieter sofort und vollständig. Anders als bei fremden Inhalten gibt es hier keine Haftung erst ab Kenntnis."
  },
  {
   "id": "t02a-20",
@@ -959,7 +1032,8 @@
    "der Staat",
    "die IHK"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Ist die Abmahnung berechtigt, muss der abgemahnte Shop die Anwaltskosten des Abmahnenden erstatten. Deshalb lohnt es sich, Impressum und Bildrechte vorher sauber zu prüfen."
  },
  {
   "id": "t02a-22",
@@ -972,7 +1046,8 @@
    "Nur ab 1.000 Followern",
    "Nur bei bezahlter Werbung"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Auch ein geschäftlich genutztes Instagram-Profil zählt als geschäftsmäßiger Online-Auftritt. Ein gut sichtbarer Link zum vollständigen Impressum, etwa in der Bio, reicht aus."
  },
  {
   "id": "t02a-25",
@@ -985,7 +1060,8 @@
    "Anzahl der Mitarbeiter",
    "Gründungsjahr"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Ins Impressum gehören das zuständige Registergericht, zum Beispiel Amtsgericht Hildesheim, und die Registernummer wie HRB 20456. Bilanzsumme oder Mitarbeiterzahl gehören nicht dazu."
  },
  {
   "id": "t02a-26",
@@ -998,7 +1074,8 @@
    "müssen bezahlt werden",
    "müssen im Impressum genannt werden"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Das Recht am eigenen Bild schützt jede Person. Wer auf einem Produktfoto zu sehen ist, muss vorher zustimmen, dass das Foto veröffentlicht wird."
  },
  {
   "id": "t02a-27",
@@ -1011,7 +1088,8 @@
    "folgenlos",
    "nur ein Verstoß gegen die AGB"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Ein fehlendes oder unvollständiges Impressum ist keine Straftat, sondern eine Ordnungswidrigkeit. Dafür kann ein Bußgeld bis zu 50.000 Euro verhängt werden."
  },
  {
   "id": "t02a-28",
@@ -1024,7 +1102,8 @@
    "alle Gesellschafter",
    "der Steuerberater"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Bei einer GmbH müssen die Vertretungsberechtigten genannt werden, also der oder die Geschäftsführer. Gesellschafter oder der Betriebsrat sind keine Pflichtangabe."
  },
  {
   "id": "t02a-29",
@@ -1037,7 +1116,8 @@
    "der Lagerhaltung",
    "der Suchmaschinenoptimierung"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Der Kunde soll wissen, mit wem er einen Vertrag schließt, und alle Anbieter sollen unter gleichen Bedingungen auftreten. Das sind die beiden Ziele der Impressumspflicht."
  },
  {
   "id": "t02a-30",
@@ -1050,7 +1130,8 @@
    "ist gesetzlich vorgeschrieben",
    "ersetzt das Impressum"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Ein pauschaler Haftungsausschluss für Links ersetzt keine rechtliche Prüfung. Macht sich der Shop fremde Inhalte zu eigen oder kennt rechtswidrige Inhalte, hilft der Disclaimer allein nicht."
  },
  {
   "id": "t02b-01",
@@ -1063,7 +1144,8 @@
    "nur in die AGB",
    "nur in den Newsletter"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Solche Sicherheitshinweise müssen dort stehen, wo der Kunde sie beim Kauf und Gebrauch sieht, also auf der Produktdetailseite und der Verpackung, nicht im Impressum."
  },
  {
   "id": "t02b-02",
@@ -1076,7 +1158,8 @@
    "PIM verwaltet die Buchhaltung",
    "ERP verwaltet nur Bilder"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Ein ERP-System steuert Lagerbestände, Preise und Geschäftsprozesse. Ein PIM-System verwaltet dagegen die beschreibenden Produktdaten wie Texte, Bilder und Attribute für alle Vertriebskanäle."
  },
  {
   "id": "t02b-03",
@@ -1089,7 +1172,8 @@
    "das Produkt ist in China hergestellt",
    "das Produkt ist energiesparend"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "CE ist keine Prüfung durch eine unabhängige Stelle, sondern eine Eigenerklärung des Herstellers, dass sein Produkt die geltenden EU-Vorschriften erfüllt."
  },
  {
   "id": "t02b-07",
@@ -1102,7 +1186,8 @@
    "ist freiwillig",
    "ersetzt die Gewährleistung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Händler müssen Verbraucher vor Vertragsschluss über ihr Widerrufsrecht informieren. Gegenüber Geschäftskunden besteht diese Pflicht in der Regel nicht, da es dort kein gesetzliches Widerrufsrecht gibt."
  },
  {
   "id": "t02b-09",
@@ -1115,7 +1200,8 @@
    "geringere Sortimentstiefe",
    "Verzicht auf Produktbilder"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Produktdaten werden im PIM einmal gepflegt und automatisch an Shop, Amazon, eBay und Kataloge ausgespielt. So sind die Angaben überall einheitlich und es gibt weniger Fehler."
  },
  {
   "id": "t02b-10",
@@ -1128,7 +1214,8 @@
    "die Lagertemperatur im Lager des Händlers",
    "den Namen des Landwirts"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Die Lebensmittelinformationsverordnung schreibt vor, dass Online-Shops zu Lebensmitteln auch Zutaten und Allergene angeben müssen, nicht nur im Laden, sondern genauso im Shop."
  },
  {
   "id": "t02b-11",
@@ -1141,7 +1228,8 @@
    "Werbeanzeige",
    "Herstellerseite"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Stiftung Warentest prüft Produkte unabhängig von Herstellern und Werbung. Herstellerkataloge, Herstellerseiten und Werbeanzeigen sind dagegen von den Anbietern selbst gesteuert."
  },
  {
   "id": "t02b-12",
@@ -1154,7 +1242,8 @@
    "Die Marke",
    "Das Impressum"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Bei Waren nach Volumen muss der Grundpreis je Mengeneinheit angegeben werden. Hier fehlt der Preis pro Liter: 12,99 Euro geteilt durch 3 Liter ergibt 4,33 Euro je Liter."
  },
  {
   "id": "t02b-13",
@@ -1167,7 +1256,8 @@
    "das Herstellungsland",
    "die Waschtemperatur"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Die Textilkennzeichnung zeigt, aus welchen Fasern ein Kleidungsstück besteht und in welchem Anteil, zum Beispiel 95 Prozent Baumwolle und 5 Prozent Elasthan. Preis oder Waschtemperatur stehen dort nicht."
  },
  {
   "id": "t02b-15",
@@ -1180,7 +1270,8 @@
    "werden vom Staat vergeben",
    "sind Pflicht"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Trusted Shops prüft nicht einzelne Produkte, sondern den gesamten Shop, also Rechtstexte, Datenschutz und Bestellprozess, und ist ein freiwilliges Siegel, keine Pflicht."
  },
  {
   "id": "t02b-16",
@@ -1193,7 +1284,8 @@
    "Kunden zu bewerten",
    "die Lieferzeit zu verkürzen"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Hersteller stellen elektronische Kataloge bereit, aus denen der Shop Produktdaten wie Texte, Bilder und Attribute direkt importieren kann, statt sie händisch einzutippen."
  },
  {
   "id": "t02b-18",
@@ -1206,7 +1298,8 @@
    "Herkunft",
    "Größe"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Pflegesymbole sind Piktogramme, die zeigen, wie ein Textil richtig gepflegt wird, also waschen, bleichen, trocknen, bügeln und reinigen. Preis oder Größe gehören nicht dazu."
  },
  {
   "id": "t02b-19",
@@ -1219,7 +1312,8 @@
    "Bio-Siegel",
    "Stiftung-Warentest-Urteil"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Die CE-Kennzeichnung bringt der Hersteller ohne Prüfung durch Dritte selbst an. Das GS-Zeichen dagegen vergibt eine unabhängige Prüfstelle erst nach eigener Prüfung."
  },
  {
   "id": "t02b-20",
@@ -1232,7 +1326,8 @@
    "EHI Geprüfter Online-Shop",
    "TÜV s@fer-shopping"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Der Blaue Engel kennzeichnet ein einzelnes umweltfreundliches Produkt. Trusted Shops, EHI und TÜV s@fer-shopping prüfen dagegen den ganzen Online-Shop."
  },
  {
   "id": "t02b-21",
@@ -1245,7 +1340,8 @@
    "gar nicht genannt werden",
    "nur bei Preisen über 50 Euro genannt werden"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Kunden müssen vor dem Kauf die wichtigsten Eigenschaften der Ware erkennen können. Das gehört gesetzlich auf die Produktdetailseite, nicht nur in einen separaten Katalog."
  },
  {
   "id": "t02b-22",
@@ -1258,7 +1354,8 @@
    "sie das Impressum ersetzen",
    "dort keine Konkurrenz ist"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Auf Messen zeigen Hersteller neue Produkte und stehen für Fragen persönlich zur Verfügung. Das liefert aktuelles Warenwissen, das Kataloge allein nicht bieten."
  },
  {
   "id": "t02b-23",
@@ -1271,7 +1368,8 @@
    "Bilanz",
    "Umsatzsteuer-ID des Lieferanten"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Kunden müssen vor dem Kauf wissen, ob ein Artikel verfügbar ist und wie lange die Lieferung dauert. Interne Angaben wie Lagermitarbeiter oder Bilanz gehören nicht auf die Seite."
  },
  {
   "id": "t02b-24",
@@ -1284,7 +1382,8 @@
    "zur Buchhaltung",
    "zur Lagerplanung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Preissuchmaschinen zeigen, zu welchen Preisen Wettbewerber ähnliche Produkte anbieten. So kann ein Händler die eigene Preisgestaltung mit der Konkurrenz vergleichen."
  },
  {
   "id": "t02b-25",
@@ -1297,7 +1396,8 @@
    "nur bei Autos gezeigt werden",
    "im Impressum stehen"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Die EU-Regeln zur Energiekennzeichnung verlangen, dass Kunden das Energielabel beim Onlinekauf in der Nähe des Preises sehen. Eine Anzeige nur auf Anfrage oder an anderer Stelle reicht nicht."
  },
  {
   "id": "t02b-28",
@@ -1310,7 +1410,8 @@
    "Einkaufspreis",
    "Lagerort"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Verbraucher müssen den vollständigen Endpreis inklusive Umsatzsteuer sehen, bevor sie kaufen. Einkaufspreis oder Lagerort sind interne Informationen und gehen den Kunden nichts an."
  },
  {
   "id": "t02b-29",
@@ -1323,7 +1424,8 @@
    "Große Serie",
    "Garantierter Service"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Anders als die CE-Kennzeichnung ist das GS-Zeichen freiwillig und wird erst nach einer tatsächlichen Prüfung durch eine unabhängige, zugelassene Prüfstelle vergeben."
  },
  {
   "id": "t02b-31",
@@ -1336,7 +1438,8 @@
    "Fachbuch",
    "Herstellerschulung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Fragen und Beschwerden von Kunden zeigen direkt, wo eine Produktbeschreibung unklar ist oder Angaben fehlen. Messen oder Fachbücher liefern dieses direkte Kundenfeedback nicht."
  },
  {
   "id": "t02b-32",
@@ -1349,7 +1452,8 @@
    "nur Lebensmitteln",
    "nur Textilien"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Der Grundpreis, zum Beispiel Preis je Kilogramm oder Liter, ist nur bei Waren vorgeschrieben, die nach Gewicht, Volumen, Länge oder Fläche verkauft werden, nicht bei jeder Ware."
  },
  {
   "id": "t02b-33",
@@ -1362,7 +1466,8 @@
    "Sie sind gesetzlich geprüft",
    "Sie ersetzen Datenblätter"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "In Foren berichten Nutzer aus eigener Erfahrung, das liefert praxisnahe Tipps. Da niemand die Angaben prüft, können sie aber falsch oder veraltet sein."
  },
  {
   "id": "t02b-34",
@@ -1375,7 +1480,8 @@
    "ersetzt das Impressum",
    "verwaltet Personaldaten"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Ein PIM-System pflegt Produktdaten einmal zentral und spielt sie einheitlich an Shop, Marktplätze, Kataloge und Apps aus. Es hat nichts mit Zahlungen oder Personaldaten zu tun."
  },
  {
   "id": "t03a-01",
@@ -1388,7 +1494,8 @@
    "nur bei Möbeln",
    "nur im Impressum"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Kunden müssen vor dem Kauf wissen, wann die Ware ankommt. Weicht die Lieferzeit vom üblichen Standard ab, zum Beispiel bei Vorbestellungen, ist die Angabe Pflicht."
  },
  {
   "id": "t03a-02",
@@ -1401,7 +1508,8 @@
    "der Rechnungsprüfung",
    "der Bezugsquellenermittlung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Im Warenkorb legt der Kunde ausgewählte Artikel ab, bevor er zur Kasse geht und bezahlt."
  },
  {
   "id": "t03a-03",
@@ -1414,7 +1522,8 @@
    "ausgeblendet werden",
    "nur nach Login erscheinen"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Bleibt die Buy-Box beim Scrollen sichtbar, kann der Kunde jederzeit kaufen, ohne zurückzuscrollen. Das senkt Kaufabbrüche und erhöht die Conversion."
  },
  {
   "id": "t03a-05",
@@ -1427,7 +1536,8 @@
    "Polyester 100 %",
    "Artikelnummer 4711"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Der Satz übersetzt das Merkmal Wattierung in einen Nutzen für den Kunden: zuverlässige Wärme bei Minusgraden. Die anderen Sätze nennen nur technische Daten ohne Nutzen."
  },
  {
   "id": "t03a-07",
@@ -1440,7 +1550,8 @@
    "ersetzen Pflichtangaben",
    "erhöhen die Ladezeit erheblich"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Piktogramme zeigen Eigenschaften wie wasserdicht oder waschbar auf einen Blick. So erfasst der Kunde wichtige Infos schneller als im Fließtext."
  },
  {
   "id": "t03a-08",
@@ -1453,7 +1564,8 @@
    "die Firmenhistorie",
    "die Filter"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "In der Buy-Box stehen alle Angaben zum Kauf: Preis, Menge, Verfügbarkeit und der Button zum Warenkorb."
  },
  {
   "id": "t03a-09",
@@ -1466,7 +1578,8 @@
    "erhöhen die Conversion",
    "sind gesetzlich verboten"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Fehler im Text wirken schlampig und unprofessionell. Das schadet dem Vertrauen in den Shop und senkt die Kaufbereitschaft."
  },
  {
   "id": "t03a-10",
@@ -1479,7 +1592,8 @@
    "den Grundpreis",
    "die Lieferzeit"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Wer das Produkt genau und ehrlich beschreibt, vermeidet falsche Erwartungen. Kunden bestellen dann seltener etwas, das nicht passt, und schicken weniger zurück."
  },
  {
   "id": "t03a-11",
@@ -1492,7 +1606,8 @@
    "eine Zwischenüberschrift",
    "ein Anwendungsbeispiel"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Wenn Text und Bild sich widersprechen, zum Beispiel bei Größe oder Farbe, verunsichert das den Kunden. Solche Widersprüche stören die Kommunikation und senken das Vertrauen."
  },
  {
   "id": "t03a-13",
@@ -1505,7 +1620,8 @@
    "Für die Bilanz",
    "Für das Lager"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Nutzt der Shop für dasselbe Merkmal immer verschiedene Begriffe, findet der Kunde es über Suche und Filter schlechter. Einheitliche Begriffe vermeiden Verwirrung."
  },
  {
   "id": "t03a-15",
@@ -1518,7 +1634,8 @@
    "das Impressum enthalten",
    "leer bleiben"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Die Kurzbeschreibung steht oben und wird zuerst gelesen. Deshalb gehören dort nur die drei wichtigsten Kaufargumente hin, Details folgen weiter unten im Text."
  },
  {
   "id": "t03a-16",
@@ -1531,7 +1648,8 @@
    "der Rechnungsprüfung",
    "der Bezugsquellenermittlung"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Eigene Texte mit passenden Suchbegriffen werden von Suchmaschinen besser gefunden. Kopierte Herstellertexte haben diesen Vorteil nicht."
  },
  {
   "id": "t03a-17",
@@ -1544,7 +1662,8 @@
    "Preise werden verglichen",
    "der Text wird gekürzt"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Bei diesem Muster wird aus einer technischen Eigenschaft ein konkreter Vorteil für den Kunden, zum Beispiel: wasserabweisendes Material bedeutet trockene Kleidung bei Regen."
  },
  {
   "id": "t03a-18",
@@ -1557,7 +1676,8 @@
    "Fußnote",
    "Bild"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Technische Daten wie Maße oder Gewicht lassen sich in einer Tabelle übersichtlich und schnell vergleichbar darstellen, besser als in langen Sätzen."
  },
  {
   "id": "t03a-20",
@@ -1570,7 +1690,8 @@
    "zeigt die Bilanz",
    "zeigt den Lieferanten"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Ein Produktvergleich stellt mehrere Artikel mit ihren wichtigsten Merkmalen gegenüber. So sieht der Kunde die Unterschiede sofort und entscheidet leichter."
  },
  {
   "id": "t03a-22",
@@ -1583,7 +1704,8 @@
    "Rabatte geben",
    "den Warenkorb löschen"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Up-Selling bietet dieselbe Produktart in besserer Ausstattung an, etwa ein Modell mit mehr Leistung. Cross-Selling bietet dagegen passendes Zubehör zum gewählten Produkt an."
  },
  {
   "id": "t03a-23",
@@ -1596,7 +1718,8 @@
    "Name des Lieferanten",
    "Lagerplatz"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Material und Maße gehören zu den wesentlichen Merkmalen, die der Kunde für seine Kaufentscheidung braucht. Einkaufspreis, Lieferant und Lagerplatz sind interne Daten und gehen den Kunden nichts an."
  },
  {
   "id": "t03a-24",
@@ -1609,7 +1732,8 @@
    "die Rechnung",
    "den Lieferschein"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Im Laden kann der Kunde die Ware anfassen und sich beraten lassen, im Onlineshop nicht. Die Produktbeschreibung übernimmt diese Aufgabe mit Text und Bildern."
  },
  {
   "id": "t03a-25",
@@ -1622,7 +1746,8 @@
    "der Newsletter",
    "die Umsatzsteuer-ID"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Ein Größenberater hilft dem Kunden, die passende Größe zu finden, zum Beispiel bei Kleidung oder Schuhen, bevor er bestellt."
  },
  {
   "id": "t03a-27",
@@ -1635,7 +1760,8 @@
    "der Kunde den Lieferanten wählen",
    "der Preis versteckt werden"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Zeigt jede Farbe ein eigenes Vorschaubild, sieht der Kunde sofort, wie der Artikel in dieser Variante aussieht, und wählt sicherer."
  },
  {
   "id": "t03a-28",
@@ -1648,7 +1774,8 @@
    "Pflichtangaben",
    "Auswahlhilfen"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Begriffe, die der Kunde nicht versteht, wie unerklärte Abkürzungen, verwirren und wirken abschreckend. Solche Abkürzungen stören die Kommunikation statt sie zu fördern."
  },
  {
   "id": "t03a-29",
@@ -1661,7 +1788,8 @@
    "eine Pflichtangabe",
    "ein Grundpreis"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Die Anzeige erzeugt Kaufdruck, weil der Kunde schnell handeln will. Sie darf aber nur gezeigt werden, wenn die Angabe tatsächlich stimmt, sonst ist sie irreführende Werbung."
  },
  {
   "id": "t03a-31",
@@ -1674,7 +1802,8 @@
    "Preise senken",
    "Artikel aus dem Sortiment nehmen"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Cross-Selling bietet zum gewählten Produkt passendes Zubehör an, zum Beispiel einen Gürtel zur Hose. So steigt der durchschnittliche Warenkorbwert."
  },
  {
   "id": "t03a-32",
@@ -1687,7 +1816,8 @@
    "Superlative wie das beste Produkt aller Zeiten",
    "lange Schachtelsätze"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Direkte Ansprache mit Sie und kurze, klare Sätze lesen sich leicht und wirken persönlich. Das fördert die Kommunikation mit dem Kunden."
  },
  {
   "id": "t03a-33",
@@ -1700,7 +1830,8 @@
    "der Rennerliste",
    "dem Lieferschein"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "FAQ beantworten die Fragen, die Kunden tatsächlich häufig stellen. So entstehen sie aus echten Kundenanfragen und nicht aus vermuteten Fragen."
  },
  {
   "id": "t03b-01",
@@ -1713,7 +1844,8 @@
    "der Grundpreis",
    "die Registernummer"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Bindet der Shop Videos von externen Plattformen wie YouTube ein, werden oft Daten der Besucher an diese Plattform übertragen. Deshalb muss der Shop vorher den Datenschutz prüfen und Nutzer informieren."
  },
  {
   "id": "t03b-05",
@@ -1726,7 +1858,8 @@
    "Bilanz",
    "Handelsregister"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Eine Frage zum Produkt direkt auf der Detailseite bezieht sich auf den konkreten Artikel. Impressum, Bilanz und Handelsregister sind dagegen allgemeine, rechtliche Angaben zum Unternehmen."
  },
  {
   "id": "t03b-07",
@@ -1739,7 +1872,8 @@
    "wer die Bewertungen schreibt",
    "nichts zu Bewertungen"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Seit einer Gesetzesänderung 2022 muss der Shop angeben, ob und wie er prüft, dass Bewertungen wirklich von Käufern des Produkts stammen. Das soll gefälschte Bewertungen erschweren."
  },
  {
   "id": "t03b-08",
@@ -1752,7 +1886,8 @@
    "nur ein Bild je Produkt",
    "nur Videos"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Wenn alle Produktfotos im Shop aus gleicher Perspektive, mit gleicher Beleuchtung und Größe aufgenommen sind, wirkt der Shop einheitlich und professionell. Der Kunde kann Produkte besser vergleichen."
  },
  {
   "id": "t03b-09",
@@ -1765,7 +1900,8 @@
    "der Lagerverwaltung",
    "der Bestellung beim Lieferanten"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Über einen Live-Chat kann der Kunde Fragen zum Produkt sofort stellen und schnell eine Antwort bekommen, ohne E-Mail oder Anruf."
  },
  {
   "id": "t03b-10",
@@ -1778,7 +1914,8 @@
    "sie die Dateigröße senken",
    "sie den Preis anzeigen"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Viele Nutzer schauen Videos unterwegs ohne Ton, zum Beispiel im Bus. Untertitel machen das Video trotzdem verständlich und helfen zusätzlich Menschen mit Hörproblemen."
  },
  {
   "id": "t03b-11",
@@ -1791,7 +1928,8 @@
    "die AGB",
    "Rechnungen"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Bei Produkten, deren Funktion oder Handhabung erklärungsbedürftig ist, zeigt ein Video Bewegung und Anwendung besser als ein Foto. So versteht der Kunde die Nutzung schneller."
  },
  {
   "id": "t03b-12",
@@ -1804,7 +1942,8 @@
    "Wegen der Versandkosten",
    "Wegen der Umsatzsteuer"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Freisteller mit weißem Hintergrund sehen bei allen Anbietern gleich aus. So kann der Kunde Artikel in Listen leicht vergleichen, ohne dass Hintergründe ablenken."
  },
  {
   "id": "t03b-13",
@@ -1817,7 +1956,8 @@
    "ein Anwendungsbild mit Model",
    "ein Piktogramm"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Ein Freisteller zeigt das Produkt ohne störenden Hintergrund, meist komplett weiß. So steht allein der Artikel im Mittelpunkt."
  },
  {
   "id": "t03b-14",
@@ -1830,7 +1970,8 @@
    "ist die Artikelnummer",
    "ist verboten"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Der Alt-Text beschreibt in Worten, was auf dem Bild zu sehen ist. Suchmaschinen können Bilder so besser einordnen, und Screenreader lesen den Text blinden Nutzern vor."
  },
  {
   "id": "t03b-16",
@@ -1843,7 +1984,8 @@
    "sind Pflicht",
    "sind nur im B2B erlaubt"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Wer Bewertungen kauft oder fälscht, täuscht Kunden über die echte Qualität des Produkts. Das verzerrt den Wettbewerb und verstößt gegen das Gesetz gegen unlauteren Wettbewerb."
  },
  {
   "id": "t03b-17",
@@ -1856,7 +1998,8 @@
    "zwei Newsletter je Woche",
    "zwei Adressen je Kunde"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Beim Double Opt-in meldet sich der Kunde zunächst an und bestätigt die Anmeldung danach über einen Link in einer E-Mail. So ist sicher, dass wirklich er sich angemeldet hat."
  },
  {
   "id": "t03b-18",
@@ -1869,7 +2012,8 @@
    "die Preisangabe",
    "die Lieferzeit"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Nahaufnahmen zeigen Material, Nähte und Verarbeitung genau. So erkennt der Kunde die Qualität, die er sonst nur beim Anfassen im Laden prüfen könnte."
  },
  {
   "id": "t03b-19",
@@ -1882,7 +2026,8 @@
    "nur mit Gerichtsbeschluss entfernen",
    "nur nach einem Jahr entfernen"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Eine Beleidigung ist keine erlaubte Meinungsäußerung, sondern verletzt die Persönlichkeitsrechte des Betroffenen. Sobald der Shop davon erfährt, darf und sollte er sie entfernen."
  },
  {
   "id": "t03b-22",
@@ -1895,7 +2040,8 @@
    "ignorieren",
    "dem Kunden in Rechnung stellen"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Löscht der Shop Kritik einfach, wirkt das unseriös und verdächtig. Eine sachliche Antwort zeigt dagegen, dass der Shop sich um Kunden kümmert und Probleme löst."
  },
  {
   "id": "t03b-23",
@@ -1908,7 +2054,8 @@
    "niedrigeren Versandkosten",
    "mehr Bewertungen"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Große, langsam ladende Bilder lassen Kunden lange warten. Viele verlassen die Seite dann vorzeitig, was die Absprungrate erhöht."
  },
  {
   "id": "t03b-24",
@@ -1921,7 +2068,8 @@
    "an alle Besucher",
    "nur an Geschäftskunden"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Werbe-E-Mails ohne Zustimmung sind unerlaubte Werbung. Deshalb braucht der Shop vorher die Einwilligung des Kunden, meist bestätigt per Double Opt-in."
  },
  {
   "id": "t03b-25",
@@ -1934,7 +2082,8 @@
    "ersetzt das Lager",
    "ist eine Pflichtangabe"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Ist ein Artikel ausverkauft, kann sich der Kunde benachrichtigen lassen, sobald er wieder da ist. So geht der Kunde nicht zur Konkurrenz, und der Shop verliert den Verkauf nicht."
  },
  {
   "id": "t03b-26",
@@ -1947,7 +2096,8 @@
    "PPTX",
    "TXT"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "JPEG und WebP komprimieren Fotos stark, ohne dass die Qualität stark leidet. Dadurch laden die Seiten schneller."
  },
  {
   "id": "t03b-27",
@@ -1960,7 +2110,8 @@
    "ersetzen die Beschreibung",
    "dürfen nur positiv sein"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Bewertungen zeigen echte Erfahrungen anderer Käufer mit dem Produkt. Das schafft Vertrauen, weil es glaubwürdiger wirkt als die Werbetexte des Shops selbst."
  },
  {
   "id": "t03b-29",
@@ -1973,7 +2124,8 @@
    "nur bei Marktplätzen erlaubt",
    "Pflicht"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Fotos sind automatisch urheberrechtlich geschützt, auch ohne Hinweis oder Copyright-Zeichen. Wer sie ohne Erlaubnis des Fotografen nutzt, verletzt dieses Recht."
  },
  {
   "id": "t03b-30",
@@ -1986,7 +2138,8 @@
    "die Registernummer",
    "die Bilanz"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Bewertungen zeigen, was Kunden am Produkt gut oder schlecht finden. Daraus lernt der Händler, was ins Sortiment oder in die Produktbeschreibung besser passt."
  },
  {
   "id": "t03b-31",
@@ -1999,7 +2152,8 @@
    "360 Bewertungen",
    "eine Preissenkung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Bei einer 360-Grad-Ansicht kann der Kunde das Produkt virtuell von allen Seiten drehen und betrachten, fast wie beim Anfassen im Laden."
  },
  {
   "id": "t03b-34",
@@ -2012,7 +2166,8 @@
    "die Rechnung",
    "das Lager"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Anwendungsbilder zeigen das Produkt in echter Nutzung, zum Beispiel den Mantel am Model im Schnee. So sieht der Kunde Größenverhältnis und Einsatz besser."
  },
  {
   "id": "t03b-36",
@@ -2025,7 +2180,8 @@
    "ersetzen Freisteller",
    "müssen vom Shop bezahlt werden"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Fotos von echten Kunden zeigen das Produkt ungeschönt, wie es im Alltag wirklich aussieht. Das wirkt glaubwürdiger als professionelle Werbefotos und stärkt das Vertrauen."
  },
  {
   "id": "t04a-01",
@@ -2038,7 +2194,8 @@
    "Hemd 39,90 Euro netto",
    "Hemd ab 39,90 Euro"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Die PAngV verlangt den Gesamtpreis, einen Hinweis auf die enthaltene Mehrwertsteuer und die Höhe der Versandkosten. Nur diese Angabe nennt alle drei Punkte, bei den anderen fehlt Steuer- oder Versandhinweis."
  },
  {
   "id": "t04a-02",
@@ -2051,7 +2208,8 @@
    "den Grundpreis",
    "die Buchpreisbindung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Preise wie 9,99 Euro wirken günstiger als 10,00 Euro, weil Kunden die erste Ziffer stärker wahrnehmen. Das nutzt eine Preisschwelle in der Wahrnehmung, keine gesetzliche Vorgabe."
  },
  {
   "id": "t04a-03",
@@ -2064,7 +2222,8 @@
    "ein Grundpreis",
    "ein Skonto"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Mit einem niedrigen Einstiegspreis gewinnt ein neuer Online-Shop schnell viele Kunden und Marktanteile. Später kann der Preis angehoben werden, sobald sich das Produkt etabliert hat."
  },
  {
   "id": "t04a-04",
@@ -2077,7 +2236,8 @@
    "ist gesetzlich vorgeschrieben",
    "gilt nur online"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Die unverbindliche Preisempfehlung ist nur ein Vorschlag des Herstellers. Der Händler darf seinen eigenen Verkaufspreis frei festlegen, zum Beispiel günstiger im Online-Shop."
  },
  {
   "id": "t04a-05",
@@ -2090,7 +2250,8 @@
    "der Lieferant",
    "die Lagernummer"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Nach der PAngV muss der Kunde vor dem Kauf wissen, ob und in welcher Höhe Versandkosten dazukommen. Einkaufspreis, Lieferant oder Lagernummer sind für den Kunden nicht relevant."
  },
  {
   "id": "t04a-06",
@@ -2103,7 +2264,8 @@
    "Grundpreis",
    "Buchpreisbindung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Bei einem Staffelpreis sinkt der Stückpreis, wenn mehr Mengen bestellt werden, zum Beispiel ab drei Stück. Das ist eine Preisdifferenzierung nach Menge, nicht nach Zeit oder Kundengruppe."
  },
  {
   "id": "t04a-09",
@@ -2116,7 +2278,8 @@
    "10 kg",
    "eine Packung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Bei kleinen Packungsgrößen ist der Grundpreis je 1 kg oder 1 l unübersichtlich. Deshalb erlaubt die PAngV dann die Angabe je 100 g oder 100 ml."
  },
  {
   "id": "t04a-10",
@@ -2129,7 +2292,8 @@
    "enthält keine Steuern",
    "ist der Einkaufspreis"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Der Gesamtpreis ist der Endpreis, den der Kunde tatsächlich zahlt. Er enthält die Umsatzsteuer und alle weiteren Preisbestandteile, nicht nur den Nettopreis."
  },
  {
   "id": "t04a-12",
@@ -2142,7 +2306,8 @@
    "Pflicht",
    "nur im B2C zulässig"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Bei normaler, sofort verfügbarer Ware muss der Preis immer direkt angegeben werden. Preis auf Anfrage täuscht Kunden und verstößt gegen die Preiswahrheit der PAngV."
  },
  {
   "id": "t04a-14",
@@ -2155,7 +2320,8 @@
    "Elektronik",
    "Möbel"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Für Bücher gilt die Buchpreisbindung: Der Verlag legt den Preis fest, jeder Händler muss ihn einhalten. Für Kleidung, Elektronik oder Möbel gibt es keine solche Pflicht."
  },
  {
   "id": "t04a-15",
@@ -2168,7 +2334,8 @@
    "Die UVP",
    "Der Grundpreis"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Auf Dauer muss der Preis mindestens die Selbstkosten decken, also Einkauf plus alle Handlungskosten. Sonst macht das Unternehmen langfristig Verlust."
  },
  {
   "id": "t04a-16",
@@ -2181,7 +2348,8 @@
    "ein Grundpreis",
    "eine Preisbindung"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Ein Sonderangebot senkt den Preis nur für einen begrenzten Zeitraum, zum Beispiel eine Woche im Sale. Danach gilt wieder der normale Preis."
  },
  {
   "id": "t04a-17",
@@ -2194,7 +2362,8 @@
    "ein Treuebonus",
    "eine Versandkostenpauschale"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Zahlt der Kunde schneller als vereinbart, zum Beispiel innerhalb von zehn Tagen, gewährt der Verkäufer einen kleinen Abzug vom Rechnungsbetrag. Das ist der Skonto."
  },
  {
   "id": "t04a-18",
@@ -2207,7 +2376,8 @@
    "Preise werden nur jährlich geändert",
    "Preise werden verhandelt"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Beim Dynamic Pricing ändert ein System die Preise automatisch, je nach Nachfrage, Tageszeit oder Preisen der Konkurrenz. So können etwa Flugpreise mehrmals täglich wechseln."
  },
  {
   "id": "t04a-19",
@@ -2220,7 +2390,8 @@
    "Preisbindung",
    "nichts"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Falsche oder unvollständige Preisangaben können von Wettbewerbern abgemahnt werden und ein Bußgeld der Behörde nach sich ziehen. Die UVP oder die Preisbindung ändern sich dadurch nicht."
  },
  {
   "id": "t04a-20",
@@ -2233,7 +2404,8 @@
    "Preise werden gerundet",
    "der Preis wird nicht angezeigt"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Preisdifferenzierung bedeutet, denselben Artikel je nach Zeitpunkt, Menge, Kundengruppe, Region oder Vertriebskanal unterschiedlich teuer anzubieten. Ein Beispiel ist der Studentenrabatt im Online-Shop."
  },
  {
   "id": "t04a-21",
@@ -2246,7 +2418,8 @@
    "Bestellung",
    "Kunde"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Der Grundpreis zeigt den Preis für eine feste Einheit wie 1 Kilogramm oder 1 Liter. So können Kunden Packungen unterschiedlicher Größe fair vergleichen."
  },
  {
   "id": "t04a-22",
@@ -2259,7 +2432,8 @@
    "3,25 Euro",
    "64,90 Euro"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Für 1 kg braucht man die doppelte Menge von 500 g, also wird der Preis verdoppelt: 6,49 Euro mal 2 ergibt 12,98 Euro je Kilogramm."
  },
  {
   "id": "t04a-24",
@@ -2272,7 +2446,8 @@
    "Preis bleibt immer gleich",
    "Preis wird versteckt"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Bei der Abschöpfungsstrategie startet ein neues Produkt mit einem hohen Preis, um zahlungsbereite Kunden früh abzuschöpfen. Später sinkt der Preis, um weitere Käufergruppen zu erreichen."
  },
  {
   "id": "t04a-25",
@@ -2285,7 +2460,8 @@
    "ein Versandzuschlag",
    "eine Steuer"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Ein Bonus wird erst am Ende eines Zeitraums gewährt, wenn der Kunde eine bestimmte Umsatzmenge erreicht hat. Anders als Skonto hängt er nicht von schneller Zahlung ab."
  },
  {
   "id": "t04a-26",
@@ -2298,7 +2474,8 @@
    "nur auf der Rechnung",
    "nur in den AGB"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Kunden sollen Gesamtpreis und Grundpreis sofort zusammen sehen können, ohne zu suchen. Deshalb schreibt die PAngV die unmittelbare Nähe beider Angaben vor."
  },
  {
   "id": "t04a-28",
@@ -2311,7 +2488,8 @@
    "9,16 Euro",
    "22,90 Euro"
   ],
-  "richtig": 2
+  "richtig": 2,
+  "erklaerung": "1 Liter sind 4 mal 250 ml, also wird der Preis vervierfacht: 2,29 Euro mal 4 ergibt 9,16 Euro je Liter."
  },
  {
   "id": "t04a-30",
@@ -2324,7 +2502,8 @@
    "sie die USt senken",
    "sie Grundpreise berechnen"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Mit Preissuchmaschinen sehen Kunden sofort, wo ein Produkt am günstigsten ist. Das erhöht den Preisdruck auf Händler, weil die Konkurrenz nur einen Klick entfernt ist."
  },
  {
   "id": "t04a-31",
@@ -2337,7 +2516,8 @@
    "nur Behörden",
    "niemandem"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Die Preisangabenverordnung schützt Verbraucher und gilt im Geschäft zwischen Händler und Privatkunde, also im B2C. Im reinen Geschäft zwischen Unternehmen, dem B2B, gilt sie nicht."
  },
  {
   "id": "t04a-32",
@@ -2350,7 +2530,8 @@
    "die UVP",
    "der Preis der Konkurrenz"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Seit 2022 muss bei einer Preissenkung zusätzlich der niedrigste Preis der letzten 30 Tage genannt werden. So kann niemand eine falsche Ersparnis vortäuschen, indem er den Preis vorher künstlich erhöht."
  },
  {
   "id": "t04b-01",
@@ -2363,7 +2544,8 @@
    "Wetter am Firmensitz",
    "Alter des Geschäftsführers"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Ein Shop-System muss gut mit Warenwirtschaft und Zahlungsanbietern zusammenarbeiten, damit Bestellungen und Zahlungen automatisch verarbeitet werden. Logo-Farbe oder Wetter spielen für die Auswahl keine Rolle."
  },
  {
   "id": "t04b-05",
@@ -2376,7 +2558,8 @@
    "laufen nur im Browser",
    "sind Bildformate"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "PHP läuft auf dem Server des Shops und verarbeitet dort zum Beispiel Bestellungen oder Kundendaten. Das unterscheidet PHP von JavaScript, das im Browser des Kunden läuft."
  },
  {
   "id": "t04b-06",
@@ -2389,7 +2572,8 @@
    "Windows, Linux, macOS",
    "JPEG, PNG, WebP"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Shopware, Shopify und WooCommerce sind Software-Systeme speziell für Online-Shops mit Warenkorb, Zahlung und Versand. Word, Windows oder Bildformate gehören zu einer ganz anderen Kategorie."
  },
  {
   "id": "t04b-09",
@@ -2402,7 +2586,8 @@
    "ist immer kostenlos",
    "hat keine Updates"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Bei einem Mietshop übernimmt der Anbieter Hosting, Updates und Technik, der Händler zahlt dafür eine monatliche Gebühr. Eine eigene Installation ist nicht nötig."
  },
  {
   "id": "t04b-10",
@@ -2415,7 +2600,8 @@
    "legt den Preis fest",
    "ist überflüssig"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Das alt-Attribut liefert einen Text, falls ein Bild nicht angezeigt werden kann. Suchmaschinen und Screenreader für sehbehinderte Nutzer lesen diesen Text aus."
  },
  {
   "id": "t04b-13",
@@ -2428,7 +2614,8 @@
    "keine Kunden",
    "keine Regeln"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Über einen Marktplatz wie Amazon erreicht ein Händler viele Kunden, zahlt dafür aber Verkaufsgebühren und hat weniger Einfluss auf Design und Regeln. Volle Kontrolle ohne Gebühren gibt es dort nicht."
  },
  {
   "id": "t04b-14",
@@ -2441,7 +2628,8 @@
    "Write your site with in-house guidelines",
    "Web you see is web you go"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "WYSIWYG steht für What you see is what you get. Beim Bearbeiten sieht man bereits das spätere Aussehen der Seite, der Code entsteht automatisch im Hintergrund."
  },
  {
   "id": "t04b-15",
@@ -2454,7 +2642,8 @@
    "Bilder",
    "Listen"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Das form-Tag fasst Eingabefelder zusammen, über die Nutzer Daten senden, etwa bei einer Suche, einem Login oder einer Bestellung. Für Überschriften oder Bilder gibt es andere Tags."
  },
  {
   "id": "t04b-16",
@@ -2467,7 +2656,8 @@
    "dem Warenkorb",
    "der Zahlung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Media Queries passen das Layout je nach Bildschirmbreite an, damit die Seite auf Smartphone, Tablet und Desktop gut aussieht. Mit Warenkorb oder Zahlung haben sie nichts zu tun."
  },
  {
   "id": "t04b-18",
@@ -2480,7 +2670,8 @@
    "der Datenbankabfrage",
    "der Zahlungsabwicklung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "CSS legt fest, wie eine Seite aussieht, also Farben, Schriftgrößen und Abstände. Inhalt und Struktur liefert dagegen HTML, Interaktion übernimmt JavaScript."
  },
  {
   "id": "t04b-19",
@@ -2493,7 +2684,8 @@
    "das System hat kein Design",
    "das System hat keine Schnittstellen"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Ein skalierbares Shop-System bleibt auch bei stark steigenden Bestellungen schnell und zuverlässig. Es wächst mit dem Erfolg des Shops mit, statt bei mehr Kunden zusammenzubrechen."
  },
  {
   "id": "t04b-20",
@@ -2506,7 +2698,8 @@
    "können nicht angepasst werden",
    "laufen ohne Server"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Open-Source-Systeme kosten keine Lizenzgebühr, dafür muss der Händler selbst Server, Sicherheit und Updates organisieren oder eine Agentur beauftragen. Technisches Wissen ist deshalb wichtig."
  },
  {
   "id": "t04b-21",
@@ -2519,7 +2712,8 @@
    "ein Shop-System",
    "eine Datenbank"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "HTML kennzeichnet Inhalte wie Überschriften, Absätze oder Listen und gibt der Seite ihre Struktur. Es ist keine Programmiersprache wie JavaScript, sondern eine Auszeichnungssprache."
  },
  {
   "id": "t04b-22",
@@ -2532,7 +2726,8 @@
    "das Impressum",
    "die Buchpreisbindung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "JavaScript macht eine Seite interaktiv, zum Beispiel wenn sich der Warenkorb ohne Neuladen der Seite aktualisiert. Preisangaben oder das Impressum regelt JavaScript dagegen nicht."
  },
  {
   "id": "t04b-23",
@@ -2545,7 +2740,8 @@
    "ist eine Datenbank",
    "ist ein Zahlungsanbieter"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Ein WYSIWYG-Editor funktioniert wie eine Textverarbeitung: Man sieht sofort, wie die Seite später aussieht, und der HTML-Code wird automatisch im Hintergrund erzeugt."
  },
  {
   "id": "t04b-24",
@@ -2558,7 +2754,8 @@
    "HTML, CSS",
    "Visa, Mastercard"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "WordPress und TYPO3 sind Content-Management-Systeme, mit denen Redakteure Inhalte pflegen können, ohne programmieren zu müssen. JPEG, HTML oder Zahlungsanbieter sind keine CMS."
  },
  {
   "id": "t04b-25",
@@ -2571,7 +2768,8 @@
    "ist eine Lagerverwaltung",
    "ist ein Zahlungssystem"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Ein Content-Management-System trennt Inhalt und Layout, sodass Mitarbeiter Texte und Bilder einpflegen können, ohne HTML-Code schreiben zu müssen. Es ist kein reiner Texteditor oder Zahlungssystem."
  },
  {
   "id": "t04b-27",
@@ -2584,7 +2782,8 @@
    "nur ein Impressum",
    "eine Lizenz des Herstellers"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Tracking-Skripte sammeln Nutzerdaten und dürfen deshalb erst nach ausdrücklicher Einwilligung des Nutzers laufen. Diese Einwilligung wird meist über einen Cookie-Banner eingeholt."
  },
  {
   "id": "t04b-28",
@@ -2597,7 +2796,8 @@
    "nur Bilder",
    "die Fußzeile"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Der head-Bereich einer HTML-Seite enthält unsichtbare Informationen wie den Seitentitel und Metadaten für Suchmaschinen. Der sichtbare Inhalt steht dagegen im body."
  },
  {
   "id": "t04b-29",
@@ -2610,7 +2810,8 @@
    "Texteditoren",
    "Bildern"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "CSS trennt die Gestaltung vom HTML-Inhalt, ein CMS trennt redaktionelle Inhalte vom technischen Layout. So lässt sich das Design ändern, ohne alle Texte neu zu schreiben."
  },
  {
   "id": "t04b-30",
@@ -2623,7 +2824,8 @@
    "sind Preisangaben",
    "gehören zu CSS"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Tags wie header, nav, main und footer zeigen, welche Funktion ein Bereich der Seite hat, etwa Navigation oder Fußzeile. Das hilft Suchmaschinen und Screenreadern beim Verständnis der Seite."
  },
  {
   "id": "t04b-32",
@@ -2636,7 +2838,8 @@
    "Bildbearbeitung",
    "Buchhaltung des Lieferanten"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Ein reines CMS verwaltet nur Inhalte. Ein Shop-System baut zusätzlich Verkaufsfunktionen wie Warenkorb, Zahlungsabwicklung, Versand und Kundenkonten ein."
  },
  {
   "id": "t04b-33",
@@ -2649,7 +2852,8 @@
    "die Versandkosten",
    "den Grundpreis"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Rollen und Rechte legen fest, welcher Mitarbeiter im CMS Texte nur bearbeiten und welcher sie auch veröffentlichen darf. Mit Preisen oder Versandkosten hat das nichts zu tun."
  },
  {
   "id": "t04b-34",
@@ -2662,7 +2866,8 @@
    "<li>",
    "<img>"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Das Tag h1 kennzeichnet die wichtigste Überschrift einer Seite. p steht für einen Absatz, li für einen Listeneintrag und img für ein Bild."
  },
  {
   "id": "t04b-36",
@@ -2675,7 +2880,8 @@
    "eine Liste",
    "ein Formular"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Das a-Tag mit href erzeugt einen klickbaren Link zu einer anderen Seite oder einem anderen Bereich. Für Tabellen, Listen oder Formulare gibt es eigene Tags."
  },
  {
   "id": "t05a-02",
@@ -2688,7 +2894,8 @@
    "Rabatt",
    "Lieferung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Wer eine fremde Marke verletzt, muss das künftig unterlassen und den entstandenen Schaden ersetzen. Das sind die klassischen Ansprüche aus dem Markengesetz, nicht Steuervorteile oder ein Rabatt."
  },
  {
   "id": "t05a-03",
@@ -2701,7 +2908,8 @@
    "nur der Hersteller",
    "niemand"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Mitbewerber und Verbraucher- oder Wirtschaftsverbände dürfen Verstöße gegen das UWG abmahnen oder verklagen, zum Beispiel wegen irreführender Werbung. Die Polizei oder einzelne Hersteller sind dafür nicht zuständig."
  },
  {
   "id": "t05a-05",
@@ -2714,7 +2922,8 @@
    "Lager, Bestand, Bestellung",
    "Impressum, AGB, Datenschutz"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Eine Marke zeigt die Herkunft eines Produkts, hebt es von anderen ab, steht für gleichbleibende Qualität, schafft Vertrauen und wirkt als Werbeträger. Das sind ihre klassischen Funktionen, nicht Preis oder Lagerangaben."
  },
  {
   "id": "t05a-06",
@@ -2727,7 +2936,8 @@
    "Preise zu hoch sind",
    "der Shop geschlossen ist"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Verschweigt ein Shop wichtige Informationen, etwa Versandkosten, fehlt dem Kunden eine Entscheidungsgrundlage. Das nennt man Irreführung durch Unterlassen, weil nicht aktiv gelogen, sondern etwas Wichtiges weggelassen wird."
  },
  {
   "id": "t05a-07",
@@ -2740,7 +2950,8 @@
    "regelt den Grundpreis",
    "regelt Marken"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Die Generalklausel ist eine allgemeine Formel: Unlautere geschäftliche Handlungen sind verboten. Sie fängt auch neue, noch nicht ausdrücklich genannte Tricks ab, anders als die konkrete schwarze Liste."
  },
  {
   "id": "t05a-08",
@@ -2753,7 +2964,8 @@
    "nur einem Ton",
    "einer Domain"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Eine Wort-Bild-Marke kombiniert einen Schriftzug mit einem grafischen Element, zum Beispiel einen Firmennamen mit Logo. Nur eine Farbe oder nur ein Ton wären eigene Markenformen, nämlich Farbmarke oder Hörmarke."
  },
  {
   "id": "t05a-09",
@@ -2766,7 +2978,8 @@
    "BGH",
    "IHK"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Eine Unionsmarke gilt EU-weit und wird beim EUIPO angemeldet. Das DPMA ist dagegen nur für nationale deutsche Marken zuständig."
  },
  {
   "id": "t05a-10",
@@ -2779,7 +2992,8 @@
    "ein Gütesiegel des Staates",
    "eine Rechnung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Eine Marke ist ein gesetzlich geschütztes Zeichen, mit dem ein Unternehmen seine Produkte von denen anderer Anbieter unterscheidet, zum Beispiel ein Logo oder ein Markenname. Sie ist kein Preis und kein staatliches Gütesiegel."
  },
  {
   "id": "t05a-11",
@@ -2792,7 +3006,8 @@
    "ein Rabatt",
    "eine Preisangabe"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Ein Countdown, der nach Ablauf einfach wieder neu startet, zeigt eine Verknappung, die es gar nicht gibt. Das setzt Kunden unter künstlichen Zeitdruck und gilt als aggressive bzw. irreführende Handlung."
  },
  {
   "id": "t05a-13",
@@ -2805,7 +3020,8 @@
    "erlaubt mit Hinweis",
    "nur bei Preisen über 100 Euro verboten"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Gefälschte Bewertungen täuschen Kunden über echte Kauferfahrungen und stehen deshalb auf der schwarzen Liste des UWG. Sie sind immer verboten, egal wie groß der Shop ist oder wie teuer der Artikel."
  },
  {
   "id": "t05a-14",
@@ -2818,7 +3034,8 @@
    "nur den Staat",
    "nur Hersteller"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Das UWG schützt nicht nur Verbraucher, sondern auch Mitbewerber vor unfairem Verhalten und die Allgemeinheit vor einer Verzerrung des Wettbewerbs. Deshalb dürfen auch Konkurrenten und Verbände gegen Verstöße vorgehen."
  },
  {
   "id": "t05a-15",
@@ -2831,7 +3048,8 @@
    "Steuerermäßigung",
    "Lieferpflicht"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Unterlassung heißt: Der Verstoß muss künftig unterbleiben. Das ist der zentrale Anspruch im Wettbewerbsrecht, Preisbindung, Steuerermäßigung oder Lieferpflicht kennt das UWG nicht."
  },
  {
   "id": "t05a-16",
@@ -2844,7 +3062,8 @@
    "der Markeneintragung",
    "der Bilanz"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Eine einstweilige Verfügung ermöglicht eine schnelle gerichtliche Entscheidung, wenn ein Verstoß sofort gestoppt werden muss, zum Beispiel bei irreführender Werbung kurz vor einer Aktion. Ein normales Klageverfahren würde dafür zu lange dauern."
  },
  {
   "id": "t05a-17",
@@ -2857,7 +3076,8 @@
    "Handelsregister",
    "EHI"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Für den deutschen Markenschutz ist das Deutsche Patent- und Markenamt, kurz DPMA, zuständig. Finanzamt, Handelsregister und EHI haben mit der Markeneintragung nichts zu tun."
  },
  {
   "id": "t05a-18",
@@ -2870,7 +3090,8 @@
    "Preisdifferenzierung",
    "Markenverletzung"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Wirbt ein Shop mit einem Angebot, für das erkennbar nicht genug Vorrat da ist, lockt er Kunden nur an. Das steht als Lockangebot auf der schwarzen Liste und ist immer unzulässig."
  },
  {
   "id": "t05a-21",
@@ -2883,7 +3104,8 @@
    "Marketing nach UWG zulässig",
    "nur für Verbände verboten"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Werbe-E-Mails ohne vorherige Einwilligung des Empfängers gelten als unzumutbare Belästigung nach dem UWG. Erlaubt sind sie nur, wenn der Kunde vorher zugestimmt hat, etwa per Double-Opt-in."
  },
  {
   "id": "t05a-22",
@@ -2896,7 +3118,8 @@
    "Lagerhaltung",
    "Bezugsquellenermittlung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Markenpolitik bedeutet, ein Produkt durch eine eigene Marke gezielt von den Produkten anderer Anbieter abzuheben. Preissenkung, Lagerhaltung und Bezugsquellenermittlung gehören zu anderen betrieblichen Bereichen."
  },
  {
   "id": "t05a-23",
@@ -2909,7 +3132,8 @@
    "Preisangaben",
    "Markenklassen"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Die schwarze Liste nennt konkrete Handlungen, die ohne weitere Prüfung des Einzelfalls immer verboten sind, etwa Lockangebote oder gefälschte Bewertungen. Sie enthält keine Empfehlungen oder Preisangaben."
  },
  {
   "id": "t05a-24",
@@ -2922,7 +3146,8 @@
    "nur auf Instagram verboten",
    "Markenrecht"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Empfiehlt ein Influencer ein Produkt gegen Bezahlung, ohne das als Werbung zu kennzeichnen, täuscht er die Follower über den kommerziellen Hintergrund. Das ist verdeckte Werbung und gilt als unlauter, auf jeder Plattform."
  },
  {
   "id": "t05a-25",
@@ -2935,7 +3160,8 @@
    "der Händler darf Plagiate verkaufen",
    "Marken dürfen nicht beworben werden"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Hat der Markeninhaber Originalware selbst oder mit seiner Zustimmung im Europäischen Wirtschaftsraum verkauft, ist sein Markenrecht an dieser Ware verbraucht. Jeder darf sie dann weiterverkaufen und mit der Marke dafür werben."
  },
  {
   "id": "t05a-27",
@@ -2948,7 +3174,8 @@
    "besonders günstig",
    "international"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Unlauter heißt, dass eine geschäftliche Handlung gegen die guten Sitten im Geschäftsverkehr verstößt, etwa durch Täuschung oder Druck. Mit Erlaubtheit, Preis oder internationalem Handel hat das nichts zu tun."
  },
  {
   "id": "t05a-28",
@@ -2961,7 +3188,8 @@
    "Pflicht",
    "nur bei Domains erlaubt"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Verwendet ein Shop den Namen einer fremden Marke im eigenen Shopnamen, entsteht der Eindruck einer Verbindung zum Markeninhaber, die es gar nicht gibt. Das ist eine Markenverletzung, nicht erlaubt und keine Pflicht."
  },
  {
   "id": "t05a-29",
@@ -2974,7 +3202,8 @@
    "die PAngV geändert werden",
    "nichts geprüft werden"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Bevor ein Shopname feststeht, sollte man im Markenregister prüfen, ob der Name schon geschützt ist, etwa beim DPMA oder EUIPO. So vermeidet man teure Abmahnungen wegen Markenverletzung."
  },
  {
   "id": "t05a-30",
@@ -2987,7 +3216,8 @@
    "nur im B2B erlaubt",
    "nur mit Erlaubnis des Konkurrenten erlaubt"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Vergleichende Werbung darf einen Mitbewerber nennen, solange die Aussagen sachlich stimmen, nachprüfbar sind und niemanden herabsetzen. Ein pauschales Verbot oder eine Erlaubnispflicht durch den Konkurrenten gibt es dafür nicht."
  },
  {
   "id": "t05a-31",
@@ -3000,7 +3230,8 @@
    "unbegrenzt ohne Verlängerung",
    "1 Jahr"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Eine eingetragene Marke ist zunächst 10 Jahre geschützt. Danach kann der Schutz beliebig oft um weitere 10 Jahre verlängert werden, solange die Gebühren gezahlt werden."
  },
  {
   "id": "t05b-01",
@@ -3013,7 +3244,8 @@
    "0,40 Euro je kg",
    "16,00 Euro je kg"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Rechnung: 1,60 Euro für 400 Gramm. Da 1.000 Gramm das 2,5-Fache von 400 Gramm sind, rechnet man 1,60 Euro mal 2,5, also 4,00 Euro je Kilogramm. Der Grundpreis erleichtert den Vergleich unterschiedlicher Packungsgrößen."
  },
  {
   "id": "t05b-02",
@@ -3026,7 +3258,8 @@
    "Bilanzsumme",
    "Anzahl der Mitarbeiter"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Im Impressum muss eine ladungsfähige Anschrift stehen, also eine echte Adresse, unter der man den Anbieter auch postalisch und notfalls gerichtlich erreichen kann. Private Telefonnummer, Bilanzsumme oder Mitarbeiterzahl sind keine Pflichtangaben."
  },
  {
   "id": "t05b-07",
@@ -3039,7 +3272,8 @@
    "kein Ziel",
    "nur Rechtstexte"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Eine Landing Page konzentriert sich auf ein Thema und führt den Besucher gezielt zu einer Handlung. Deshalb hat sie wenig Navigation und einen klaren Call to Action, anders als Start- oder Kategorieseiten mit allen Kategorien."
  },
  {
   "id": "t05b-08",
@@ -3052,7 +3286,8 @@
    "ist ein Gütesiegel für Bio-Produkte",
    "gilt nur für Textilien"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Mit der CE-Kennzeichnung erklärt der Hersteller selbst, dass sein Produkt die EU-Vorschriften einhält. Eine Prüfung durch den TÜV findet dabei nicht statt, das unterscheidet CE vom GS-Zeichen."
  },
  {
   "id": "t05b-10",
@@ -3065,7 +3300,8 @@
    "Beispielkatalog",
    "Präambel"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Nur die schwarze Liste nennt Handlungen, die ohne Einzelfallprüfung immer verboten sind. Die Generalklausel ist dagegen allgemein formuliert und muss im Einzelfall ausgelegt werden."
  },
  {
   "id": "t05b-18",
@@ -3078,7 +3314,8 @@
    "Interaktion",
    "Zahlung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "HTML legt die Inhalte und die Struktur einer Webseite fest, also Überschriften, Texte und Absätze. Farben gestaltet CSS, Interaktionen übernimmt JavaScript."
  },
  {
   "id": "t05b-19",
@@ -3091,7 +3328,8 @@
    "Artikel streichen",
    "Preise senken"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Cross-Selling bietet passendes Zubehör zum gewählten Artikel an, zum Beispiel Schuhpflege zu Schuhen. Up-Selling schlägt dagegen eine teurere Variante desselben Produkts vor."
  },
  {
   "id": "t05b-25",
@@ -3104,7 +3342,8 @@
    "sofort",
    "nur nach Klage"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Für fremde Inhalte, etwa Kommentare oder Bewertungen, haftet ein Shop erst, wenn er davon Kenntnis erhält und dann nicht unverzüglich handelt, zum Beispiel durch Löschen. Vorher besteht keine Haftung."
  },
  {
   "id": "t05b-30",
@@ -3117,7 +3356,8 @@
    "breit und tief",
    "schmal und flach"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Ein Fachhändler führt wenige Warenarten, aber davon sehr viele Artikel. Das ist eine schmale Sortimentsbreite mit großer Sortimentstiefe, also schmal und tief."
  },
  {
   "id": "t05b-32",
@@ -3130,7 +3370,8 @@
    "als Video",
    "als Piktogramm"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Ein Freisteller zeigt das Produkt ohne Ablenkung vor einem neutralen Hintergrund. Das ist der Standard für Produktlisten und Marktplätze, Anwendungsbilder oder Videos zeigen das Produkt dagegen in Aktion."
  },
  {
   "id": "t06a-01",
@@ -3143,7 +3384,8 @@
    "Einzelkauf",
    "Dropshipping"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Bei dieser Beschaffungsart trifft die Ware genau dann ein, wenn sie in der Fertigung gebraucht wird, ohne Lagerhaltung dazwischen. Dieses Prinzip heißt auf Englisch Just in Time."
  },
  {
   "id": "t06a-02",
@@ -3156,7 +3398,8 @@
    "fehlende Mengenrabatte",
    "Abhängigkeit vom Lieferanten"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Wer große Mengen auf Lager kauft, bindet dafür viel Kapital und zahlt laufend Lagerkosten, zum Beispiel für Miete, Versicherung und Personal im Lager."
  },
  {
   "id": "t06a-03",
@@ -3169,7 +3412,8 @@
    "ist ein Shop-System",
    "ist nur für Lager zuständig"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Ein ERP-System deckt nicht nur Lager oder Shop ab, sondern verknüpft alle Bereiche wie Einkauf, Finanzen, Personal und Kundenbeziehungen in einem Programm."
  },
  {
   "id": "t06a-04",
@@ -3182,7 +3426,8 @@
    "150",
    "600"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Meldebestand = Tagesverbrauch mal Lieferzeit plus Mindestbestand: 10 Stück mal 30 Tage plus 150 Stück ergibt 450 Stück."
  },
  {
   "id": "t06a-05",
@@ -3195,7 +3440,8 @@
    "Jahresabsatz geteilt durch 12",
    "Mindestbestand mal 2"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Der Meldebestand deckt den Verbrauch während der Lieferzeit und zusätzlich die Sicherheitsreserve ab, also Tagesverbrauch mal Lieferzeit plus Mindestbestand."
  },
  {
   "id": "t06a-06",
@@ -3208,7 +3454,8 @@
    "Wann?",
    "Wo?"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Die Sortimentsplanung legt fest, welche Artikel ins Sortiment gehören. Menge, Zeitpunkt und Lieferant werden erst in den anderen drei Planungsbereichen geklärt."
  },
  {
   "id": "t06a-07",
@@ -3221,7 +3468,8 @@
    "nur die Buchhaltung",
    "nur das Marketing"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Warenwirtschaft begleitet die Ware von der Beschaffung über Lagerung und Produktion bis zum Verkauf, nicht nur einen einzelnen Schritt davon."
  },
  {
   "id": "t06a-08",
@@ -3234,7 +3482,8 @@
    "Lieferung genau zum Bedarf",
    "keine Beschaffung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Bei der Vorratsbeschaffung kauft man größere Mengen auf Lager, zum Beispiel um Mengenrabatte zu nutzen und jederzeit lieferbereit zu sein."
  },
  {
   "id": "t06a-09",
@@ -3247,7 +3496,8 @@
    "European Retail Program",
    "Extra Rabatt Programm"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "ERP ist die englische Abkürzung für Enterprise Resource Planning, also die Planung aller Unternehmensressourcen in einem System."
  },
  {
   "id": "t06a-10",
@@ -3260,7 +3510,8 @@
    "Veralterung der Vorräte",
    "fehlende Lieferbereitschaft durch Überbestände"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Weil bei Just in Time kaum Lagerbestand vorhanden ist, führt eine Störung beim Lieferanten sofort zu Produktions- oder Lieferproblemen."
  },
  {
   "id": "t06a-12",
@@ -3273,7 +3524,8 @@
    "bei Höchstbestand",
    "nie"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Beim Bestellpunktverfahren löst das Erreichen des Meldebestands die Bestellung aus, unabhängig vom Kalenderdatum."
  },
  {
   "id": "t06a-13",
@@ -3286,7 +3538,8 @@
    "die Farbe des Logos",
    "die Markenanmeldung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Die Mengenplanung stützt sich auf die erwarteten Verkäufe laut Absatzprognose und auf den aktuellen Lagerbestand."
  },
  {
   "id": "t06a-16",
@@ -3299,7 +3552,8 @@
    "mehr Doppelerfassung",
    "weniger Auswertungen"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Wenn Shop und Lager auf dieselben Daten zugreifen, sieht der Kunde im Shop sofort den tatsächlichen Bestand, und Fehlverkäufe durch veraltete Angaben entfallen."
  },
  {
   "id": "t06a-17",
@@ -3312,7 +3566,8 @@
    "Veralterung der Ware",
    "hohe Kapitalbindung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Bei Einzelbeschaffung wird erst nach dem Kundenauftrag beschafft oder gefertigt, deshalb muss der Kunde länger auf die Ware warten."
  },
  {
   "id": "t06a-18",
@@ -3325,7 +3580,8 @@
    "ist ein Zahlungsdienst",
    "ist eine Preissuchmaschine"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Ein Warenwirtschaftssystem erfasst jede Warenbewegung einzeln je Artikel, zum Beispiel Wareneingang, Lagerbestand und Verkauf."
  },
  {
   "id": "t06a-20",
@@ -3338,7 +3594,8 @@
    "Was?",
    "Wann?"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Die Mengenplanung klärt, welche Stückzahl beschafft werden soll. Was gekauft wird, regelt dagegen die Sortimentsplanung."
  },
  {
   "id": "t06a-21",
@@ -3351,7 +3608,8 @@
    "tägliche Lieferung",
    "Lieferung ohne Bestellung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Bei der Einzelbeschaffung wird erst bestellt, wenn ein konkreter Kundenauftrag vorliegt, zum Beispiel bei einem Maßanzug."
  },
  {
   "id": "t06a-23",
@@ -3364,7 +3622,8 @@
    "wird nie bestellt",
    "wird nur bei Nullbestand bestellt"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Beim Bestellrhythmusverfahren bestellt man zu festen Terminen, zum Beispiel jeden Montag, und füllt dabei bis zum Höchstbestand auf. Die Menge passt sich dem Verbrauch an."
  },
  {
   "id": "t06a-24",
@@ -3377,7 +3636,8 @@
    "keine Bestellung",
    "die Einzelbeschaffung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Das Bestellpunktverfahren reagiert auf den tatsächlichen Verbrauch und löst die Bestellung erst beim Erreichen des Meldebestands aus. Das passt besser zu unregelmäßigem Bedarf als feste Bestelltermine."
  },
  {
   "id": "t06a-25",
@@ -3390,7 +3650,8 @@
    "Was?",
    "Warum?"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Die Zeitplanung legt den passenden Bestellzeitpunkt fest, abhängig von Lieferzeit und Verbrauch."
  },
  {
   "id": "t06a-26",
@@ -3403,7 +3664,8 @@
    "Banken",
    "Versicherungen"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "PPS steht für Produktionsplanung und -steuerung. Solche Systeme planen Fertigungsaufträge und Materialbedarf, deshalb sind sie vor allem in Industriebetrieben wichtig, nicht in Handelsbetrieben wie Webshops."
  },
  {
   "id": "t06a-27",
@@ -3416,7 +3678,8 @@
    "niemand hat Zugriff",
    "es läuft nur offline"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Geschlossen bedeutet hier, dass jede Warenbewegung lückenlos und artikelgenau im System erfasst wird, nicht dass das System keine Schnittstellen hat."
  },
  {
   "id": "t06a-29",
@@ -3429,7 +3692,8 @@
    "Wann?",
    "Was?"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Die Bezugsquellenermittlung sucht passende Lieferanten und klärt damit, wo eingekauft werden soll."
  },
  {
   "id": "t06a-32",
@@ -3442,7 +3706,8 @@
    "JPEG, PNG",
    "HTML, CSS"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "SAP und Microsoft Dynamics sind bekannte ERP-Systeme, die alle Geschäftsprozesse eines Unternehmens abbilden."
  },
  {
   "id": "t06a-33",
@@ -3455,7 +3720,8 @@
    "Textverarbeitung",
    "Videoschnitt"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Das Bestellwesen gehört zu den typischen WWS-Modulen, weil es den Einkaufsprozess der Ware abbildet."
  },
  {
   "id": "t06b-01",
@@ -3468,7 +3734,8 @@
    "die Preisgestaltung",
    "die Lagerplanung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Bei der Bezugsquellenermittlung sammelt man Informationen über mögliche Lieferanten, bevor man eine Anfrage stellt."
  },
  {
   "id": "t06b-03",
@@ -3481,7 +3748,8 @@
    "Branchenbuch",
    "Herstellerkatalog"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Der Lieferantenstamm im Warenwirtschaftssystem enthält die eigenen, bereits bekannten Lieferanten und ist damit eine interne Quelle."
  },
  {
   "id": "t06b-04",
@@ -3494,7 +3762,8 @@
    "einen Kaufvertrag",
    "eine Rechnung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Eine allgemeine Anfrage bittet nur um Kataloge und Preislisten, ohne einen konkreten Artikel zu nennen."
  },
  {
   "id": "t06b-05",
@@ -3507,7 +3776,8 @@
    "das Impressum",
    "die Bilanz"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Für neue, bisher unbekannte Lieferanten eignen sich externe Quellen wie Messen und Adressverzeichnisse, weil dort noch keine eigenen Kontakte bestehen."
  },
  {
   "id": "t06b-07",
@@ -3520,7 +3790,8 @@
    "dem Impressum",
    "der Markenanmeldung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Ein Einkaufsverband bündelt die Nachfrage mehrerer Unternehmen und erzielt dadurch bessere Preise und Konditionen bei Lieferanten."
  },
  {
   "id": "t06b-08",
@@ -3533,7 +3804,8 @@
    "den Jahresabschluss",
    "das Impressum"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Eine bestimmte Anfrage nennt bereits Menge und Qualität der gewünschten Ware, im Unterschied zur allgemeinen Anfrage."
  },
  {
   "id": "t06b-10",
@@ -3546,7 +3818,8 @@
    "ein Kaufvertrag",
    "eine Bestellung"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Die Anfrage bindet rechtlich nicht. Sie ist nur der erste Schritt, um Informationen zu bekommen, bevor ein Vertrag zustande kommt."
  },
  {
   "id": "t06b-11",
@@ -3559,7 +3832,8 @@
    "Alter des Geschäftsführers",
    "Anzahl der Follower"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Lieferzuverlässigkeit, also Termintreue und Liefermenge, ist ein klassisches Bewertungskriterium für Lieferanten."
  },
  {
   "id": "t06b-13",
@@ -3572,7 +3846,8 @@
    "Lieferzeit",
    "Verpackung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Das Lieferkettengesetz verpflichtet Unternehmen zu fairen Arbeitsbedingungen und Umweltschutz bei ihren Lieferanten, also zu Nachhaltigkeit und Ethik."
  },
  {
   "id": "t06b-16",
@@ -3585,7 +3860,8 @@
    "nur Hallo lauten",
    "die Rechnungsnummer enthalten"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Ein klarer Betreff mit konkretem Bedarf hilft dem Lieferanten, die Anfrage sofort richtig einzuordnen und zu beantworten."
  },
  {
   "id": "t06b-17",
@@ -3598,7 +3874,8 @@
    "Fachzeitschriften",
    "Preissuchmaschinen"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Bei bestehenden Lieferanten greift man auf die eigene Bezugsquellenkartei beziehungsweise Lieferantendatei zurück, statt neu zu suchen."
  },
  {
   "id": "t06b-18",
@@ -3611,7 +3888,8 @@
    "Zahlungsarten",
    "Lagerarten"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "B2B-Marktplätze und Lieferantenportale liegen außerhalb des eigenen Unternehmens und zählen deshalb zu den externen Quellen."
  },
  {
   "id": "t06b-19",
@@ -3624,7 +3902,8 @@
    "Privatadresse des Einkäufers",
    "Gewinn des Vorjahres"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Eine Anfrage muss Menge und Qualität der gewünschten Ware nennen, damit der Lieferant ein passendes Angebot erstellen kann."
  },
  {
   "id": "t06b-21",
@@ -3637,7 +3916,8 @@
    "in der Mahnung",
    "im Lieferschein"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Muster und Referenzen fordert man schon in der Anfrage an, um die Ware vor einer Bestellung prüfen zu können."
  },
  {
   "id": "t06b-22",
@@ -3650,7 +3930,8 @@
    "nur notariell",
    "nur über den Anwalt"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Für eine Anfrage ist keine bestimmte Form vorgeschrieben. Sie kann schriftlich per E-Mail oder Brief, aber auch mündlich am Telefon erfolgen."
  },
  {
   "id": "t06b-23",
@@ -3663,7 +3944,8 @@
    "eine Rechnung",
    "eine Mahnung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Der Lieferant antwortet auf eine Anfrage normalerweise mit einem Angebot, das die gewünschten Informationen zu Preis und Lieferbedingungen enthält."
  },
  {
   "id": "t06b-26",
@@ -3676,7 +3958,8 @@
    "die Steuererklärung",
    "das Passwort des WWS"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Eine Antwortfrist gibt dem Lieferanten eine klare Zeitvorgabe für die Rückmeldung und beschleunigt den Beschaffungsprozess."
  },
  {
   "id": "t06b-27",
@@ -3689,7 +3972,8 @@
    "Standort",
    "Service"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Die Reklamationsquote zeigt, wie oft Lieferungen eines Lieferanten wegen Mängeln beanstandet werden. Sie sagt etwas über die Qualität seiner Ware aus."
  },
  {
   "id": "t06b-28",
@@ -3702,7 +3986,8 @@
    "Inventur",
    "Skontoberechnung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Bei der Nutzwertanalyse vergibt man Punkte für mehrere Kriterien und gewichtet sie, um Lieferanten objektiv vergleichen zu können."
  },
  {
   "id": "t06b-29",
@@ -3715,7 +4000,8 @@
    "zur Abnahme von Mustern",
    "zur Zahlung einer Gebühr"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Die Anfrage ist keine Willenserklärung, deshalb entsteht daraus keine Verpflichtung zum Kauf oder zu sonstigen Leistungen."
  },
  {
   "id": "t06b-30",
@@ -3728,7 +4014,8 @@
    "Service",
    "Verpackung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Die Bonität zeigt die Zahlungsfähigkeit des Lieferanten und gehört damit zum Kriterium wirtschaftliche Sicherheit."
  },
  {
   "id": "t06b-31",
@@ -3741,7 +4028,8 @@
    "Auswertung bisheriger Bestellungen",
    "Erfahrungen der Lagerkollegen"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Eine Datenbankrecherche findet außerhalb des eigenen Unternehmens statt und ist deshalb eine externe Quelle."
  },
  {
   "id": "t06b-34",
@@ -3754,7 +4042,8 @@
    "dem Marketing",
    "dem Impressum"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Auch bestehende Lieferanten sollten regelmäßig geprüft werden, damit Preis, Qualität und Zuverlässigkeit weiterhin stimmen und kein günstigerer Anbieter übersehen wird."
  },
  {
   "id": "t06b-35",
@@ -3767,7 +4056,8 @@
    "Nachhaltigkeit",
    "Standort"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Termintreue bedeutet, dass die Ware pünktlich ankommt, und gehört deshalb zur Lieferzuverlässigkeit."
  },
  {
   "id": "t06b-36",
@@ -3780,7 +4070,8 @@
    "Nachhaltigkeit",
    "Logistik"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Zahlungsziel, also wie lange der Käufer Zeit zum Zahlen hat, und Skonto, der Nachlass bei schneller Zahlung, zählen zu Preis und Konditionen."
  },
  {
   "id": "t07a-02",
@@ -3793,7 +4084,8 @@
    "mündlich erfolgt",
    "nach der Bestellung erfolgt"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Ein Angebot bindet den Verkäufer, sobald es beim Empfänger ankommt. Deshalb muss der Widerruf vorher oder zur gleichen Zeit zugehen, sonst ist das Angebot schon wirksam geworden."
  },
  {
   "id": "t07a-03",
@@ -3806,7 +4098,8 @@
    "vom Spediteur bezahlt",
    "nicht geliefert"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Ohne eigene Absprache gilt die gesetzliche Regel: Der Verkäufer berechnet die Verpackung zum Selbstkostenpreis, also zu den tatsächlichen Kosten ohne Gewinnaufschlag."
  },
  {
   "id": "t07a-05",
@@ -3819,7 +4112,8 @@
    "eine Preisbindung",
    "nichts"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Die Klausel freibleibend ist eine Freizeichnungsklausel. Sie macht aus einem verbindlichen Angebot eine unverbindliche Anpreisung, der Anbieter kann also noch zurücktreten."
  },
  {
   "id": "t07a-06",
@@ -3832,7 +4126,8 @@
    "die Kosten werden geteilt",
    "es gibt keine Lieferung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Frei Haus bedeutet, die Ware kommt beim Kunden an, ohne dass ihm Versandkosten entstehen. Der Verkäufer übernimmt also alle Kosten bis zur Haustür."
  },
  {
   "id": "t07a-07",
@@ -3845,7 +4140,8 @@
    "die Inventur",
    "den Grundpreis"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Beim qualitativen Vergleich zählen Kriterien wie Qualität, Lieferzeit und Service, nicht nur der Preis. Die Nutzwertanalyse gewichtet diese Kriterien und vergibt Punkte je Angebot."
  },
  {
   "id": "t07a-08",
@@ -3858,7 +4154,8 @@
    "900,00 Euro",
    "882,00 Euro"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Rechnung: 1.000 Euro minus 10 % Rabatt (100 Euro) = 900 Euro Zieleinkaufspreis. Minus 2 % Skonto (18 Euro) = 882 Euro Bareinkaufspreis. Plus 50 Euro Bezugskosten = 932,00 Euro Einstandspreis."
  },
  {
   "id": "t07a-10",
@@ -3871,7 +4168,8 @@
    "Bestellungen",
    "Verträge"
   ],
-  "richtig": 1
+  "richtig": 1,
+  "erklaerung": "Kataloge und Preislisten binden den Anbieter nicht. Sie fordern den Kunden nur auf, selbst ein Angebot abzugeben, deshalb sind sie unverbindliche Anpreisungen."
  },
  {
   "id": "t07a-11",
@@ -3884,7 +4182,8 @@
    "ist unwirksam",
    "bindet den Verkäufer"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Weicht die Bestellung vom Angebot ab, zum Beispiel bei Menge oder Lieferzeit, lehnt der Käufer das Angebot damit ab und macht stattdessen ein eigenes neues Angebot."
  },
  {
   "id": "t07a-12",
@@ -3897,7 +4196,8 @@
    "nichts",
    "die Kosten am Empfangsort"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Bei unfrei trägt der Verkäufer nur die Kosten bis zur Versandstation am Abgangsort. Die restlichen Versandkosten ab dort zahlt der Käufer."
  },
  {
   "id": "t07a-13",
@@ -3910,7 +4210,8 @@
    "eine Anfrage",
    "eine Rechnung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Ein Angebot ist eine Willenserklärung des Verkäufers nach § 145 BGB. Er ist daran gebunden, der Käufer kann es durch Annahme zum Vertrag machen."
  },
  {
   "id": "t07a-14",
@@ -3923,7 +4224,8 @@
    "Listenpreis",
    "Bezugskosten"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Vom Zieleinkaufspreis, also dem Preis nach Rabatt, zieht man noch den Skonto ab. Das Ergebnis ist der Bareinkaufspreis."
  },
  {
   "id": "t07a-15",
@@ -3936,7 +4238,8 @@
    "frei Haus",
    "frachtfrei"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Ab Werk bedeutet, der Käufer holt die Ware quasi am Lagertor ab. Alle Versandkosten von dort bis zu ihm trägt deshalb der Käufer."
  },
  {
   "id": "t07a-17",
@@ -3949,7 +4252,8 @@
    "nur die Verpackung",
    "die Entladekosten am Empfangsort"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Frachtfrei heißt, der Verkäufer übernimmt die Kosten bis zur Empfangsstation am Zielort, zum Beispiel den Bahnhof beim Kunden. Entladen und Hausfracht dort zahlt der Käufer."
  },
  {
   "id": "t07a-18",
@@ -3962,7 +4266,8 @@
    "Einstandspreis",
    "Verkaufspreis"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Der Listeneinkaufspreis ist der Preis aus dem Angebot. Zieht man den Rabatt ab, erhält man den Zieleinkaufspreis, also den Preis bei Zahlung auf Ziel."
  },
  {
   "id": "t07a-20",
@@ -3975,7 +4280,8 @@
    "ein Skonto",
    "eine Frachtkostenübernahme"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Ein Naturalrabatt wird in Ware statt in Geld gewährt. Bei der Draufgabe bekommt der Käufer zusätzliche Stücke gratis dazu, bei der Dreingabe zahlt er für die gelieferte Menge weniger Stücke."
  },
  {
   "id": "t07a-21",
@@ -3988,7 +4294,8 @@
    "schriftlich angenommen werden",
    "nie angenommen werden"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Bei einem unbefristeten Angebot unter Anwesenden, etwa am Telefon oder auf der Messe, erwartet der Verkäufer sofort eine Antwort. Ohne sofortige Annahme erlischt die Bindung direkt."
  },
  {
   "id": "t07a-22",
@@ -4001,7 +4308,8 @@
    "Layout",
    "Markenrecht"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Beim quantitativen Vergleich geht es nur um Zahlen. Der Einstandspreis je Stück zeigt, welches Angebot rein preislich am günstigsten ist."
  },
  {
   "id": "t07a-24",
@@ -4014,7 +4322,8 @@
    "gar nicht",
    "nur eine Stunde"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Bei einem befristeten Angebot legt der Verkäufer selbst einen Termin fest. Bis zu diesem Termin ist er an sein Angebot gebunden, danach nicht mehr."
  },
  {
   "id": "t07a-25",
@@ -4027,7 +4336,8 @@
    "der Spediteur",
    "niemand"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Ohne Vereinbarung gilt die gesetzliche Regel: Der Käufer trägt die Versandkosten ab dem Versandort. Andere Regelungen wie frei Haus müssen ausdrücklich vereinbart werden."
  },
  {
   "id": "t07a-28",
@@ -4040,7 +4350,8 @@
    "bei schneller Zahlung",
    "für Verpackung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Ein Bonus ist eine nachträgliche Gutschrift. Der Käufer erhält ihn erst am Ende einer Periode, wenn er einen vereinbarten Mindestumsatz erreicht hat."
  },
  {
   "id": "t07a-29",
@@ -4053,7 +4364,8 @@
    "nicht liefern",
    "nach Zahlung liefern"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Fehlt eine Absprache zur Lieferzeit, gilt die gesetzliche Regel: Der Verkäufer muss ohne schuldhaftes Zögern, also unverzüglich, liefern."
  },
  {
   "id": "t07a-31",
@@ -4066,7 +4378,8 @@
    "Listenpreis",
    "Selbstkosten"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Zum Bareinkaufspreis addiert man die Bezugskosten wie Fracht, Verpackung, Versicherung und Zoll. So entsteht der Einstandspreis, also der tatsächliche Preis der Ware beim Käufer."
  },
  {
   "id": "t07a-32",
@@ -4079,7 +4392,8 @@
    "die schlechteste Qualität",
    "keine Ware"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Fehlt eine genaue Angabe zur Qualität, muss bei einer Gattungsschuld Ware mittlerer Art und Güte geliefert werden, also durchschnittliche Qualität, nicht die beste oder schlechteste."
  },
  {
   "id": "t07a-33",
@@ -4092,7 +4406,8 @@
    "Lohnkosten des Lagers",
    "Miete des Shops"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Zu den Bezugskosten zählen alle Kosten, die bei der Beschaffung der Ware zusätzlich zum Einkaufspreis anfallen: Fracht, Verpackung, Versicherung und Zoll."
  },
  {
   "id": "t07a-34",
@@ -4105,7 +4420,8 @@
    "nach 14 Tagen",
    "nach Jahresende"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Ohne Vereinbarung gilt die gesetzliche Zahlungsregel: Der Käufer muss sofort bei Lieferung der Ware zahlen, nicht erst später."
  },
  {
   "id": "t07b-01",
@@ -4118,7 +4434,8 @@
    "European Delivery Index",
    "Einkauf Digital International"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "EDI steht für Electronic Data Interchange, also den elektronischen Austausch von Geschäftsdaten direkt zwischen den Computersystemen der Geschäftspartner."
  },
  {
   "id": "t07b-02",
@@ -4131,7 +4448,8 @@
    "eine Anfrage",
    "eine Anpreisung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Hier gab es kein Angebot und keine Bestätigung, nur eine Bestellung und dann die Lieferung. Durch das Liefern zeigt der Verkäufer sein Einverständnis, das ist Annahme durch schlüssiges Handeln."
  },
  {
   "id": "t07b-03",
@@ -4144,7 +4462,8 @@
    "mehr Fehler",
    "langsamere Abwicklung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Mit EDI läuft die Bestellung automatisch direkt in das System des Lieferanten. Er muss nichts händisch abtippen, das spart Zeit und vermeidet Erfassungsfehler."
  },
  {
   "id": "t07b-04",
@@ -4157,7 +4476,8 @@
    "ein Lagersystem",
    "ein Zahlungssystem"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Ein elektronischer Marktplatz ist eine gemeinsame Internetplattform, auf der mehrere verschiedene Anbieter ihre Waren und Dienstleistungen präsentieren, zum Beispiel ein Beschaffungsportal mit vielen Lieferanten."
  },
  {
   "id": "t07b-05",
@@ -4170,7 +4490,8 @@
    "der Käufer bezahlt hat",
    "der Verkäufer eine Anfrage erhielt"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Eine Bestellungsannahme, also eine Auftragsbestätigung, ist nötig, sobald die Bestellung nicht genau dem Angebot entspricht. Dann ist die Bestellung ein neues Angebot, das der Verkäufer erst annehmen muss."
  },
  {
   "id": "t07b-09",
@@ -4183,7 +4504,8 @@
    "längere Lieferzeit",
    "mehr Papier"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Elektronische Bestellungen laufen direkt von System zu System. Dadurch entfällt das Abtippen von Papier oder Fax, es gibt also weniger Erfassungsfehler und keine Medienbrüche."
  },
  {
   "id": "t07b-11",
@@ -4196,7 +4518,8 @@
    "ist verboten",
    "ersetzt die Rechnung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Unter Kaufleuten gilt eine Besonderheit: Wer auf ein kaufmännisches Bestätigungsschreiben nicht widerspricht, stimmt dem Inhalt damit stillschweigend zu."
  },
  {
   "id": "t07b-13",
@@ -4209,7 +4532,8 @@
    "Rücksendung der Bestellung",
    "eine Anfrage"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Eine Annahme muss nicht ausdrücklich erklärt werden. Liefert der Verkäufer die bestellte Ware einfach, zeigt er damit durch sein Handeln, dass er annimmt."
  },
  {
   "id": "t07b-14",
@@ -4222,7 +4546,8 @@
    "keine Menge nennen",
    "keinen Liefertermin nennen"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Eine gute Bestellung übernimmt möglichst alle Angaben aus dem Angebot, zum Beispiel Art, Menge, Preis und Lieferzeit. So vermeidet man Missverständnisse und Abweichungen."
  },
  {
   "id": "t07b-15",
@@ -4235,7 +4560,8 @@
    "Fax",
    "Postkarte"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Ist das Warenwirtschaftssystem per EDI direkt mit dem Lieferanten verbunden, kann es beim Erreichen des Meldebestands automatisch und ohne Mitarbeiter eine Bestellung auslösen."
  },
  {
   "id": "t07b-16",
@@ -4248,7 +4574,8 @@
    "ist eine Rechnung",
    "ist eine Mahnung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Fehlt ein vorheriges Angebot, hat der Käufer mit seiner Bestellung selbst das erste Angebot gemacht. Ein Vertrag entsteht erst, wenn der Verkäufer annimmt."
  },
  {
   "id": "t07b-19",
@@ -4261,7 +4588,8 @@
    "eine Rechnung",
    "eine Mahnung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Die automatische Eingangsbestätigung im Webshop sagt nur, dass die Bestellung angekommen ist. Sie ist noch keine Zusage, die Ware auch zu liefern, also noch keine Annahme."
  },
  {
   "id": "t07b-20",
@@ -4274,7 +4602,8 @@
    "ist unwirksam",
    "braucht eine Auftragsbestätigung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Entspricht die Bestellung genau dem verbindlichen Angebot und kommt rechtzeitig an, nimmt der Käufer das Angebot damit wirksam an. Der Kaufvertrag ist sofort geschlossen."
  },
  {
   "id": "t07b-21",
@@ -4287,7 +4616,8 @@
    "nur die Menge",
    "nur die Unterschrift"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Damit der Verkäufer richtig liefern kann, muss eine Bestellung mindestens Art, Menge, Preis, Lieferzeit, Lieferort und Zahlungsbedingungen nennen."
  },
  {
   "id": "t07b-22",
@@ -4300,7 +4630,8 @@
    "ein Angebot des Verkäufers",
    "eine Rechnung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Mit der Bestellung erklärt der Käufer seinen Willen, die Ware zu kaufen. Sie ist deshalb eine Willenserklärung des Käufers, nicht des Verkäufers."
  },
  {
   "id": "t07b-23",
@@ -4313,7 +4644,8 @@
    "Verkauf an Verbraucher",
    "ein Lagersystem"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "EDI bedeutet, dass Geschäftsdaten wie Bestellungen oder Rechnungen in einheitlicher Struktur direkt zwischen den Computersystemen der Partner ausgetauscht werden, ohne manuelle Eingabe."
  },
  {
   "id": "t07b-24",
@@ -4326,7 +4658,8 @@
    "unwirksam",
    "eine Anfrage"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "War das Angebot freibleibend, hat sich der Verkäufer nicht gebunden. Die Bestellung des Käufers ist deshalb selbst nur ein Angebot, das der Verkäufer noch annehmen muss."
  },
  {
   "id": "t07b-25",
@@ -4339,7 +4672,8 @@
    "ein Katalog",
    "ein Messestand"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "EDI funktioniert nur, wenn die Systeme beider Partner technisch zueinander passen und beide sich vorher auf Abläufe und Datenformate geeinigt haben."
  },
  {
   "id": "t07b-28",
@@ -4352,7 +4686,8 @@
    "JPEG",
    "PAngV"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "EDIFACT ist ein weltweit genutzter Standard, der festlegt, wie Geschäftsdaten wie Bestellungen beim elektronischen Austausch per EDI aufgebaut sind."
  },
  {
   "id": "t07b-29",
@@ -4365,7 +4700,8 @@
    "nur notariell wirksam",
    "nur per Fax wirksam"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Für eine Bestellung schreibt das Gesetz keine bestimmte Form vor. Sie kann mündlich, elektronisch oder schriftlich erfolgen, ist also formfrei."
  },
  {
   "id": "t07b-30",
@@ -4378,7 +4714,8 @@
    "ist unwirksam",
    "ist ein Widerruf"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Ändert der Käufer die Menge gegenüber dem ursprünglichen Angebot, weicht die Bestellung davon ab. Das gilt als Ablehnung und als neues Angebot des Käufers."
  },
  {
   "id": "t07b-31",
@@ -4391,7 +4728,8 @@
    "die Steuernummer des Kunden",
    "das Passwort"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Eine Bestellung sollte sich klar auf das vorherige Angebot beziehen, am besten mit dessen Datum. So ist eindeutig, auf welche Konditionen sie sich stützt."
  },
  {
   "id": "t07b-32",
@@ -4404,7 +4742,8 @@
    "Lieferschein",
    "Mängelrüge"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Nimmt der Verkäufer die Bestellung an, bestätigt er den Auftrag. Diese Bestellungsannahme wird deshalb auch Auftragsbestätigung genannt."
  },
  {
   "id": "t07b-34",
@@ -4417,7 +4756,8 @@
    "ein Marktplatz mit vielen Anbietern",
    "eine Suchmaschine"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Ein B2B-Onlineshop richtet sich nicht an Privatkunden, sondern an andere Unternehmen. Ein Unternehmen bietet dort seine Waren oder Leistungen im Internet an andere Firmen an."
  },
  {
   "id": "t07b-35",
@@ -4430,7 +4770,8 @@
    "gar nicht erfolgen",
    "nur telefonisch erfolgen"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Mündliche Absprachen lassen sich im Streitfall schwer beweisen. Deshalb sollte eine Bestellung aus Beweisgründen schriftlich erfolgen, auch wenn das Gesetz keine Form vorschreibt."
  },
  {
   "id": "t08a-01",
@@ -4443,7 +4784,8 @@
    "die Bilanz",
    "den Grundpreis"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Die Mängelrüge muss genau beschreiben, was falsch ist, sich auf die Bestellung beziehen und eine klare Forderung enthalten, zum Beispiel Nachlieferung oder Minderung. Nur so kann der Lieferant reagieren und die Rechte des Käufers bleiben gewahrt."
  },
  {
   "id": "t08a-02",
@@ -4456,7 +4798,8 @@
    "die Bilanz",
    "das Impressum des Lieferanten"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Zuerst kommt die Identitätskontrolle: Lieferung, Bestellung und Lieferschein müssen übereinstimmen. Erst danach folgen Mengen- und Qualitätskontrolle."
  },
  {
   "id": "t08a-03",
@@ -4469,7 +4812,8 @@
    "nicht prüfen",
    "nur bei Verdacht prüfen"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "§ 377 HGB gilt für den Handelskauf zwischen Kaufleuten. Der Käufer muss die Ware sofort nach Erhalt prüfen und Mängel ohne schuldhaftes Zögern melden, sonst verliert er seine Rechte."
  },
  {
   "id": "t08a-04",
@@ -4482,7 +4826,8 @@
    "erhält der Käufer Skonto",
    "wird der Vertrag nichtig"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Meldet der Käufer einen offenen, also sichtbaren Mangel nicht unverzüglich, gilt die Ware nach § 377 HGB als genehmigt. Er verliert dann Ansprüche wie Nachlieferung oder Minderung."
  },
  {
   "id": "t08a-05",
@@ -4495,7 +4840,8 @@
    "ein Kühllager",
    "ein Silo"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Ein Fremdlager gehört nicht dem eigenen Unternehmen, sondern einem externen Logistikdienstleister, zum Beispiel einem Fulfillment-Anbieter. Das Gegenteil ist das Eigenlager im eigenen Betrieb."
  },
  {
   "id": "t08a-08",
@@ -4508,7 +4854,8 @@
    "Preisgestaltung",
    "Markenrecherche"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Das Warenwirtschaftssystem zeigt vor der Lieferung die offenen Bestellungen und erfasst bei der Annahme nur die Abweichungen zur Bestellung. Das spart Zeit und vermeidet Fehler."
  },
  {
   "id": "t08a-09",
@@ -4521,7 +4868,8 @@
    "Berechnung der Umsatzsteuer",
    "Markenanmeldung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Ein Lager sorgt dafür, dass immer genug Ware vorrätig ist, damit Kunden schnell beliefert werden können. Das ist die wichtigste Lageraufgabe neben Zeitüberbrückung und Preisvorteilen."
  },
  {
   "id": "t08a-11",
@@ -4534,7 +4882,8 @@
    "innerhalb einer Stunde nach Lieferung",
    "nur schriftlich per Einschreiben"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Versteckte Mängel sieht man bei der Annahme nicht sofort. Deshalb beginnt die Rügepflicht erst, wenn der Käufer den Mangel tatsächlich entdeckt, und dann muss er unverzüglich handeln."
  },
  {
   "id": "t08a-12",
@@ -4547,7 +4896,8 @@
    "der Markenanmeldung",
    "der Werbung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Mit Datum, Fotos, Zeugen und Unterschriften hält die Tatbestandsaufnahme fest, was bei der Lieferung schiefgelaufen ist. So kann der Käufer später beweisen, dass der Mangel wirklich vorlag."
  },
  {
   "id": "t08a-13",
@@ -4560,7 +4910,8 @@
    "ein Zahlungssystem",
    "eine Marke"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Das Lager ist ganz einfach der Platz, an dem Waren bis zum Verkauf oder zur Weiterverarbeitung aufbewahrt werden. Von dort aus unterstützt es Einkauf und Verkauf."
  },
  {
   "id": "t08a-14",
@@ -4573,7 +4924,8 @@
    "Aufgabe",
    "Ort"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Das Hochregallager beschreibt, wie das Lager gebaut ist, nämlich mit hohen Regalen. Deshalb gehört es zur Gliederung nach Bauform, nicht nach Aufgabe oder Wirtschaftszweig."
  },
  {
   "id": "t08a-15",
@@ -4586,7 +4938,8 @@
    "Änderung des Impressums",
    "Verlängerung der Markenschutzdauer"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Eine Mängelrüge kann zum Beispiel Nachlieferung, Ersatzlieferung, Minderung des Preises oder Rücktritt fordern. Nachlieferung oder Minderung gehören zu den klassischen Gewährleistungsrechten."
  },
  {
   "id": "t08a-16",
@@ -4599,7 +4952,8 @@
    "niemand findet die Ware",
    "die Ware liegt auf dem Boden"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Trotz des Namens ist chaotische Lagerhaltung geordnet: Ware kommt auf jeden freien Platz, und das WWS speichert genau, wo sie liegt. So wird der Platz optimal genutzt."
  },
  {
   "id": "t08a-17",
@@ -4612,7 +4966,8 @@
    "Lagerung nach Lieferant",
    "Lagerung nach Farbe"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Artgemäße Lagerung bedeutet, Ware so zu lagern, wie es ihre Beschaffenheit verlangt, zum Beispiel kühl, trocken oder dunkel. So bleibt die Qualität erhalten."
  },
  {
   "id": "t08a-18",
@@ -4625,7 +4980,8 @@
    "Inventur",
    "Rechnungsprüfung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Beim Fulfillment übernimmt ein externer Dienstleister Lagerung, Verpackung und Versand der Ware. Der Shop konzentriert sich dafür auf sein Kerngeschäft."
  },
  {
   "id": "t08a-20",
@@ -4638,7 +4994,8 @@
    "ignoriert werden",
    "nur dem Kunden gemeldet werden"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Nur ein sofortiger Vermerk auf dem Frachtpapier sichert Beweise gegenüber dem Frachtführer. Später lässt sich ein Transportschaden kaum noch nachweisen."
  },
  {
   "id": "t08a-21",
@@ -4651,7 +5008,8 @@
    "die Ware wird verkauft",
    "die Ware wird gezählt"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Bei der Veredelung verändert sich die Ware während der Lagerzeit positiv, wie reifender Käse oder Wein. Das ist eine eigene Lageraufgabe neben der reinen Aufbewahrung."
  },
  {
   "id": "t08a-22",
@@ -4664,7 +5022,8 @@
    "Nachfragen beim Kunden",
    "Lesen der Rechnung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Bei der Mengenkontrolle wird je nach Ware gezählt, gewogen oder gemessen, um die gelieferte Menge mit der Bestellung zu vergleichen. Schätzen reicht dafür nicht aus."
  },
  {
   "id": "t08a-23",
@@ -4677,7 +5036,8 @@
    "ein Flachlager",
    "ein Freilager"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Für Gefahrstoffe schreibt der Gesetzgeber besondere Lagerbedingungen vor, zum Beispiel aus Sicherheits- und Umweltschutzgründen. Deshalb ist das Gefahrstofflager ein Sonderlager durch gesetzliche Vorgaben."
  },
  {
   "id": "t08a-24",
@@ -4690,7 +5050,8 @@
    "innerhalb eines Jahres",
    "nach Belieben"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Unverzüglich heißt nicht sofort in derselben Sekunde, sondern ohne schuldhaftes Zögern. In der Praxis bleibt dafür ein kurzer Zeitraum von wenigen Tagen."
  },
  {
   "id": "t08a-25",
@@ -4703,7 +5064,8 @@
    "Preisbindung",
    "Markenschutz"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Ein Lager muss übersichtlich sein, damit Ware schnell gefunden wird, egal ob mit festen oder chaotischen Lagerplätzen. Werbung oder Markenschutz gehören nicht zu den Lageranforderungen."
  },
  {
   "id": "t08a-27",
@@ -4716,7 +5078,8 @@
    "kein Lager",
    "ein Kühllager"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Dezentral bedeutet verteilt. Ein Unternehmen hat dann mehrere Lager an unterschiedlichen Orten, oft näher an den Kunden, statt nur ein zentrales Lager."
  },
  {
   "id": "t08a-28",
@@ -4729,7 +5092,8 @@
    "Verlängerung der Öffnungszeiten",
    "Wartezeit im Kundenservice"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Das Lager gleicht aus, dass Einkauf und Verkauf nicht zeitgleich stattfinden, etwa bei Saisonware, die früh eingekauft und erst später verkauft wird."
  },
  {
   "id": "t08a-29",
@@ -4742,7 +5106,8 @@
    "Wirtschaftszweig",
    "Ort"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Das Umschlagslager beschreibt, wofür das Lager genutzt wird, nämlich zum kurzen Umschlagen der Ware. Deshalb zählt es zur Gliederung nach Aufgabe, so wie auch Vorrats- und Verteilungslager."
  },
  {
   "id": "t08a-30",
@@ -4755,7 +5120,8 @@
    "Kassen",
    "Umkleiden"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Online-Lager brauchen zusätzliche Bereiche zum Zusammenstellen und Verpacken von Bestellungen sowie für Rücksendungen. Das unterscheidet sie vom klassischen Ladengeschäft."
  },
  {
   "id": "t08b-01",
@@ -4768,7 +5134,8 @@
    "die Rechnung",
    "die Bestellung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Der Istbestand ist die tatsächlich vorhandene Menge. Sie wird körperlich durch Zählen, Messen oder Wiegen festgestellt, nicht nur aus dem System abgelesen."
  },
  {
   "id": "t08b-03",
@@ -4781,7 +5148,8 @@
    "einen Katalog",
    "eine Marke"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Nur wenn Online-Shop und Warenwirtschaftssystem miteinander verbunden sind, kann der Shop den aktuellen Lagerbestand sofort anzeigen. Ohne diese Anbindung wären die Angaben veraltet."
  },
  {
   "id": "t08b-04",
@@ -4794,7 +5162,8 @@
    "bleibt der Meldebestand gleich",
    "sinkt der Mindestbestand"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Der Meldebestand ergibt sich aus Tagesverbrauch mal Lieferzeit plus Mindestbestand. Eine längere Lieferzeit erhöht deshalb direkt den Meldebestand, damit keine Fehlverkäufe entstehen."
  },
  {
   "id": "t08b-05",
@@ -4807,7 +5176,8 @@
    "Inventur gemacht",
    "der Preis erhöht"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Der Verkauf läuft auch während der Lieferzeit weiter. Deshalb muss schon beim Meldebestand bestellt werden, damit die Ware rechtzeitig vor dem Erreichen des Mindestbestands eintrifft."
  },
  {
   "id": "t08b-06",
@@ -4820,7 +5190,8 @@
    "Mindestbestand mal 2",
    "Jahresverbrauch geteilt durch 12"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Diese Formel berechnet, wie viel während der Lieferzeit voraussichtlich verkauft wird, zuzüglich der Reserve aus dem Mindestbestand. So weiß man, wann man nachbestellen muss."
  },
  {
   "id": "t08b-07",
@@ -4833,7 +5204,8 @@
    "wird die Ware verkauft",
    "wird Inventur gemacht"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Der Meldebestand ist der Bestellpunkt. Wird er erreicht, löst das WWS automatisch einen Bestellvorschlag aus, damit die Lieferzeit bis zum Mindestbestand überbrückt wird."
  },
  {
   "id": "t08b-09",
@@ -4846,7 +5218,8 @@
    "Tagesverbrauch mal 360",
    "Bestellmenge minus Mindestbestand"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Diese Formel zeigt, wie groß der Lagerbestand direkt nach einer Lieferung höchstens ist. Beispiel aus dem Unterricht: 150 plus 600 ergibt 750 Stück."
  },
  {
   "id": "t08b-10",
@@ -4859,7 +5232,8 @@
    "Eilbestellungen",
    "Kundenverlust wegen Nichtlieferung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Zu viel Lagerware bedeutet, dass viel Geld im Vorrat steckt und nicht für andere Zwecke zur Verfügung steht. Das verursacht zusätzlich Zinskosten."
  },
  {
   "id": "t08b-12",
@@ -4872,7 +5246,8 @@
    "der kleinstmögliche Vorrat",
    "immer null"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Der optimale Bestand ist ein Kompromiss zwischen Lagerkosten und Fehlmengenkosten, also weder zu hoch noch zu niedrig, sondern wirtschaftlich am sinnvollsten."
  },
  {
   "id": "t08b-13",
@@ -4885,7 +5260,8 @@
    "Zinskosten",
    "Werbekosten"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Fehlt Ware, entstehen Kosten durch entgangenen Umsatz, verlorene Kunden oder teure Eilbestellungen. Das ist das Gegenstück zu den Lagerkosten bei zu hohem Bestand."
  },
  {
   "id": "t08b-14",
@@ -4898,7 +5274,8 @@
    "Markenanmeldung",
    "das Impressum"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Der Buchbestand im WWS stimmt nicht immer mit der tatsächlich vorhandenen Menge überein. Ursachen sind zum Beispiel Schwund, Diebstahl oder falsche Buchungen."
  },
  {
   "id": "t08b-15",
@@ -4911,7 +5288,8 @@
    "der Höchstbestand",
    "der Meldebestand"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Der Buchbestand entsteht, weil jede Warenbewegung im Warenwirtschaftssystem gebucht wird. Er ist der rechnerische Wert, nicht der tatsächlich gezählte Bestand."
  },
  {
   "id": "t08b-16",
@@ -4924,7 +5302,8 @@
    "Geld wird verschenkt",
    "Geld wird verliehen"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Geld, das in Lagerware steckt, kann nicht gleichzeitig für Investitionen oder andere Ausgaben genutzt werden. Deshalb verursacht hohe Kapitalbindung auch Zinskosten."
  },
  {
   "id": "t08b-17",
@@ -4937,7 +5316,8 @@
    "600",
    "900"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Höchstbestand = Mindestbestand plus Bestellmenge, also 150 plus 600 gleich 750 Stück."
  },
  {
   "id": "t08b-18",
@@ -4950,7 +5330,8 @@
    "den Preis",
    "die Conversion Rate"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Die Kurve sinkt durch den täglichen Verkauf stetig und springt bei jeder neuen Lieferung wieder nach oben. Dieses Auf und Ab sieht aus wie Sägezähne."
  },
  {
   "id": "t08b-19",
@@ -4963,7 +5344,8 @@
    "Meldebestand",
    "Buchbestand"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Der Mindestbestand heißt auch eiserner Bestand, weil er eine feste Reserve ist, die normalerweise nicht angegriffen wird."
  },
  {
   "id": "t08b-20",
@@ -4976,7 +5358,8 @@
    "als Obergrenze",
    "der Inventur"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Der Mindestbestand ist ein Sicherheitspuffer, zum Beispiel für plötzlich höhere Nachfrage oder Lieferverzögerungen. Er wird im Normalfall nicht angetastet."
  },
  {
   "id": "t08b-23",
@@ -4989,7 +5372,8 @@
    "Markenanmeldung",
    "Impressum"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Zu den Lagerkosten zählen alle Kosten für die Lagerung selbst, also Raum, Personal, Versicherung und Zinsen für das gebundene Kapital."
  },
  {
   "id": "t08b-24",
@@ -5002,7 +5386,8 @@
    "bei der Inventur",
    "beim Verkauf jedes Artikels"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Sobald der Lagerbestand auf den Meldebestand sinkt, erkennt das WWS automatisch den Bestellzeitpunkt und schlägt eine Nachbestellung vor."
  },
  {
   "id": "t08b-26",
@@ -5015,7 +5400,8 @@
    "Veralterung",
    "Schwund"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Ist zu wenig Ware vorhanden, können Bestellungen nicht erfüllt werden. Kunden wandern dann oft zur Konkurrenz ab."
  },
  {
   "id": "t08b-29",
@@ -5028,7 +5414,8 @@
    "60",
    "300"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Meldebestand = Tagesverbrauch mal Lieferzeit plus Mindestbestand, also 12 mal 15 plus 60 gleich 180 plus 60 gleich 240 Stück."
  },
  {
   "id": "t08b-30",
@@ -5041,7 +5428,8 @@
    "dass bestellt wird",
    "dass Inventur gemacht wird"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Der Höchstbestand ist die Obergrenze für den Lagerbestand. Er verhindert, dass zu viel Ware eingelagert wird und dadurch unnötige Kosten entstehen."
  },
  {
   "id": "t08b-33",
@@ -5054,7 +5442,8 @@
    "mehr Schwund",
    "längere Lieferzeit"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Weniger Vorräte bedeuten weniger gebundenes Kapital. Das freigewordene Geld steht dem Unternehmen dann für andere Zwecke zur Verfügung, zum Beispiel Investitionen."
  },
  {
   "id": "t08b-34",
@@ -5067,7 +5456,8 @@
    "das Impressum",
    "die Marke"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Die Inventurliste vergleicht für jeden Artikel den Buchbestand (Soll) mit dem gezählten Bestand (Ist) und zeigt die Differenz, um Abweichungen zu klären."
  },
  {
   "id": "t08b-36",
@@ -5080,7 +5470,8 @@
    "150",
    "600"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Meldebestand = Tagesverbrauch mal Lieferzeit plus Mindestbestand, also 10 mal 30 plus 150 gleich 300 plus 150 gleich 450 Stück. Genau dieses Beispiel steht im Unterrichtsmaterial."
  },
  {
   "id": "t09a-01",
@@ -5093,7 +5484,8 @@
    "Wareneinsatz mal 2",
    "Endbestand minus Anfangsbestand"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Der durchschnittliche Lagerbestand lässt sich vereinfacht aus Anfangs- und Endbestand berechnen. Man addiert beide Werte und teilt die Summe durch zwei. So entsteht ein guter Näherungswert ohne die zwölf Monatsendbestände."
  },
  {
   "id": "t09a-02",
@@ -5106,7 +5498,8 @@
    "36 Tage",
    "30 Tage"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Die Lagerdauer zeigt, wie viele Tage ein Artikel im Schnitt im Lager bleibt. Man berechnet sie mit 360 Tage geteilt durch die Umschlagshäufigkeit. Bei einer LUH von 6 ergibt das 360 durch 6 gleich 60 Tage."
  },
  {
   "id": "t09a-03",
@@ -5119,7 +5512,8 @@
    "1.400 Euro",
    "2.800 Euro"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Der durchschnittliche Lagerbestand ergibt sich aus Anfangsbestand plus Endbestand, geteilt durch zwei. Hier sind das 4.200 Euro plus 2.800 Euro, geteilt durch zwei, also 3.500 Euro gebundenes Kapital."
  },
  {
   "id": "t09a-06",
@@ -5132,7 +5526,8 @@
    "Jahreszinssatz mal LUH",
    "360 geteilt durch Jahreszinssatz"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Der Lagerzinssatz zeigt die Zinskosten für das im Lager gebundene Kapital. Er wird berechnet, indem man den Jahreszinssatz durch die Umschlagshäufigkeit teilt. Je öfter der Bestand umgesetzt wird, desto niedriger ist der Lagerzinssatz."
  },
  {
   "id": "t09a-08",
@@ -5145,7 +5540,8 @@
    "0,5",
    "100"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Lebensmittel verderben schnell und müssen oft neu bestellt werden. Deshalb liegt ihre Umschlagshäufigkeit mit etwa 14 pro Jahr sehr hoch. Schuhe dagegen liegen viel länger im Regal und haben eine niedrigere Umschlagshäufigkeit."
  },
  {
   "id": "t09a-09",
@@ -5158,7 +5554,8 @@
    "192,60 Euro",
    "14.400 Euro"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Die Lagerzinsen berechnet man mit DLB mal Lagerzinssatz, geteilt durch 100. Hier ergibt 180.000 Euro mal 1,07 geteilt durch 100 genau 1.926 Euro Zinskosten für das gebundene Kapital."
  },
  {
   "id": "t09a-10",
@@ -5171,7 +5568,8 @@
    "höhere Kapitalbindung",
    "mehr Lagerkosten"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Eine höhere Umschlagshäufigkeit bedeutet, dass der Bestand öfter im Jahr erneuert wird. Dadurch bleibt die Ware kürzer im Lager, die Lagerdauer sinkt also. Weniger Kapital bleibt gebunden."
  },
  {
   "id": "t09a-11",
@@ -5184,7 +5582,8 @@
    "LUH mal Lagerzinssatz",
    "DLD mal Zinssatz"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Die Lagerzinsen zeigen die Zinskosten des gebundenen Kapitals in Euro. Sie werden berechnet mit durchschnittlichem Lagerbestand mal Lagerzinssatz, geteilt durch 100. Die anderen Optionen nutzen falsche Kennziffern für diese Rechnung."
  },
  {
   "id": "t09a-12",
@@ -5197,7 +5596,8 @@
    "0,125",
    "29"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Die Umschlagshäufigkeit ergibt sich aus verkaufter Menge geteilt durch den durchschnittlichen Lagerbestand. Hier sind das 2.320 Stück geteilt durch 290 Stück, also 8. Der Bestand wurde achtmal im Jahr umgesetzt."
  },
  {
   "id": "t09a-13",
@@ -5210,7 +5610,8 @@
    "24 Tage",
    "7,5 Tage"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Die durchschnittliche Lagerdauer berechnet man mit 360 Tage geteilt durch die Umschlagshäufigkeit. Bei einer LUH von 7,5 ergibt das 360 durch 7,5 gleich 48 Tage, die ein Artikel im Schnitt im Lager liegt."
  },
  {
   "id": "t09a-14",
@@ -5223,7 +5624,8 @@
    "360 geteilt durch LUH",
    "Wareneinsatz mal LUH"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Der durchschnittliche Lagerbestand lässt sich auch umgekehrt aus der Umschlagshäufigkeit berechnen. Dazu teilt man den Wareneinsatz durch die Umschlagshäufigkeit. Das ist nützlich, wenn der Lagerbestand selbst nicht direkt bekannt ist."
  },
  {
   "id": "t09a-15",
@@ -5236,7 +5638,8 @@
    "0,94 %",
    "8 %"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Der Lagerzinssatz ergibt sich aus Jahreszinssatz geteilt durch Umschlagshäufigkeit. Hier sind das 8 Prozent geteilt durch 7,5, also rund 1,07 Prozent. So hoch sind die Zinskosten bezogen auf den Bestand."
  },
  {
   "id": "t09a-16",
@@ -5249,7 +5652,8 @@
    "ohne Bedeutung",
    "ein Zeichen für mehr Umsatz"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Eine steigende Lagerdauer bedeutet, dass die Ware länger im Lager bleibt. Das bindet mehr Kapital und verursacht höhere Lagerkosten. Steigt die Lagerdauer von 45 auf 50 Tage, hat sich die Situation also verschlechtert."
  },
  {
   "id": "t09a-17",
@@ -5262,7 +5666,8 @@
    "60",
    "7,5"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Die Umschlagshäufigkeit berechnet man mit Wareneinsatz geteilt durch durchschnittlichen Lagerbestand. Hier sind das 450.000 Euro geteilt durch 75.000 Euro, also 6. Der Lagerbestand wurde im Jahr sechsmal umgesetzt."
  },
  {
   "id": "t09a-19",
@@ -5275,7 +5680,8 @@
    "die Umsatzsteuer",
    "den Rabatt"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Lagerware bindet Geld, für das Zinsen anfallen oder entgehen. Der Lagerzinssatz zeigt diese Zinskosten in Prozent, bezogen auf die Lagerdauer. Er ist also nicht der Jahreszins der Bank, sondern wird daraus berechnet."
  },
  {
   "id": "t09a-23",
@@ -5288,7 +5694,8 @@
    "wie hoch der Umsatz ist",
    "wie viele Lieferanten es gibt"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Die Umschlagshäufigkeit gibt an, wie oft der Lagerbestand im Laufe eines Jahres komplett verkauft und neu aufgefüllt wird. Eine hohe Zahl bedeutet schnellen Verkauf und wenig gebundenes Kapital."
  },
  {
   "id": "t09a-25",
@@ -5301,7 +5708,8 @@
    "anderen Filialen",
    "anderen Warengruppen"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Beim überbetrieblichen Vergleich schaut man über das eigene Unternehmen hinaus. Die eigenen Kennziffern werden mit Branchenwerten verglichen, also mit Durchschnittswerten anderer Firmen derselben Branche. So erkennt man, ob die eigenen Werte gut oder schlecht sind."
  },
  {
   "id": "t09a-26",
@@ -5314,7 +5722,8 @@
    "30",
    "0,1"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Schuhe werden oft nach Größe und Saison vorrätig gehalten und verkaufen sich langsamer als Lebensmittel. Deshalb liegt ihre typische Umschlagshäufigkeit nur bei etwa 2 pro Jahr, deutlich niedriger als bei schnell drehender Ware."
  },
  {
   "id": "t09a-27",
@@ -5327,7 +5736,8 @@
    "0,67 %",
    "24 %"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Der Lagerzinssatz lässt sich auch mit Jahreszinssatz mal Lagerdauer geteilt durch 360 berechnen. Hier sind das 6 Prozent mal 90 Tage geteilt durch 360, also 1,5 Prozent."
  },
  {
   "id": "t09a-28",
@@ -5340,7 +5750,8 @@
    "höhere Preise",
    "mehr Lagerfläche"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Bleibt Ware zu lange im Lager, sollte das Sortiment bereinigt werden, also Ladenhüter aussortieren. Zusätzlich helfen Sonderangebote, um die Ware schneller zu verkaufen und das gebundene Kapital zu senken."
  },
  {
   "id": "t09a-29",
@@ -5353,7 +5764,8 @@
    "360 geteilt durch DLB",
    "Wareneinsatz mal DLB"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Die Umschlagshäufigkeit zeigt, wie oft der Lagerbestand im Jahr durch Verkäufe ersetzt wird. Berechnet wird sie mit Wareneinsatz geteilt durch durchschnittlichen Lagerbestand, beide Werte zu Einstandspreisen."
  },
  {
   "id": "t09a-30",
@@ -5366,7 +5778,8 @@
    "280 Stück",
    "400 Stück"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Der durchschnittliche Lagerbestand ergibt sich aus Anfangsbestand plus Endbestand, geteilt durch zwei. Hier sind das 520 Stück plus 800 Stück, geteilt durch zwei, also 660 Stück."
  },
  {
   "id": "t09a-31",
@@ -5379,7 +5792,8 @@
    "wie hoch der Preis ist",
    "wie viele Kunden kaufen"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Der durchschnittliche Lagerbestand zeigt, wie viel Ware eines Artikels im Jahresverlauf im Schnitt vorrätig ist. Er sagt nichts über Bestellhäufigkeit, Preis oder Kundenzahl aus, sondern nur über die Vorratsmenge."
  },
  {
   "id": "t09a-32",
@@ -5392,7 +5806,8 @@
    "Wareneinsatz geteilt durch 12",
    "Summe der Monatsbestände mal 13"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Für die genaue Berechnung nutzt man nicht nur Anfang und Ende des Jahres. Man addiert den Jahresanfangsbestand und alle zwölf Monatsendbestände und teilt die Summe durch 13, also durch 13 Werte."
  },
  {
   "id": "t09a-34",
@@ -5405,7 +5820,8 @@
    "DLB geteilt durch 360",
    "360 mal LUH"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Die durchschnittliche Lagerdauer zeigt, wie viele Tage ein Artikel im Schnitt im Lager bleibt. Sie wird berechnet, indem man 360 Tage durch die Umschlagshäufigkeit teilt. Je höher die Umschlagshäufigkeit, desto kürzer die Lagerdauer."
  },
  {
   "id": "t09b-01",
@@ -5418,7 +5834,8 @@
    "Mängelrüge",
    "Bestellung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "10 Stück mal 5 Euro ergeben richtig 50 Euro, nicht 55 Euro. Solche Rechenfehler bei Multiplikation, Rabatt oder Summen deckt die rechnerische Prüfung auf. Die sachliche Prüfung vergleicht dagegen nur mit Bestellung und Wareneingang."
  },
  {
   "id": "t09b-02",
@@ -5431,7 +5848,8 @@
    "nur für Verbraucher",
    "freiwillig ohne Frist"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Seit 2025 müssen Unternehmen im B2B-Geschäft elektronische Rechnungen empfangen können. Das ist in Deutschland verpflichtend, nicht nur freiwillig. Verbraucher sind davon aktuell noch nicht betroffen."
  },
  {
   "id": "t09b-05",
@@ -5444,7 +5862,8 @@
    "Inventur",
    "Preisangabe"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Die Rechnung berechnet 450 Stück, geliefert wurden aber nur 430 Stück. Ob Rechnung, Bestellung und tatsächliche Lieferung übereinstimmen, prüft die sachliche Rechnungsprüfung, nicht die rechnerische."
  },
  {
   "id": "t09b-06",
@@ -5457,7 +5876,8 @@
    "an die Filiale",
    "an den Hersteller"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Beim Dropshipping lagert der Webshop die Ware nicht selbst. Der Lieferant verschickt sie neutral, also ohne eigenen Absenderhinweis, direkt an den Kunden des Webshops. So merkt der Kunde nicht, dass ein anderer Partner liefert."
  },
  {
   "id": "t09b-07",
@@ -5470,7 +5890,8 @@
    "hohe Kapitalbindung",
    "großer Lagerbedarf"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Beim Dropshipping verdient der Webshop oft weniger Marge, weil der Lieferant einen Teil des Gewinns behält. Außerdem ist der Webshop vom Lieferanten abhängig, zum Beispiel bei Lieferzeit und Verfügbarkeit der Ware."
  },
  {
   "id": "t09b-08",
@@ -5483,7 +5904,8 @@
    "nur der Nettobetrag",
    "keine Steuerangaben"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Eine Rechnung muss nach § 14 UStG den Steuersatz und den Steuerbetrag ausweisen. Nur der Brutto- oder nur der Nettobetrag reicht nicht aus. So kann der Käufer die enthaltene Umsatzsteuer nachvollziehen."
  },
  {
   "id": "t09b-10",
@@ -5496,7 +5918,8 @@
    "volle Kontrolle über den Versand",
    "kurze Lieferzeiten garantiert"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Beim Dropshipping hat der Webshop keine eigene Ware auf Lager. Er muss deshalb kein Kapital in Vorräte stecken und trägt kein Risiko für unverkaufte Ware. Die volle Versandkontrolle und garantierte Lieferzeiten hat er trotzdem nicht."
  },
  {
   "id": "t09b-11",
@@ -5509,7 +5932,8 @@
    "die Kundenbewertung",
    "das Passwort"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Der Prüfvermerk zeigt, dass die Rechnung kontrolliert wurde. Er enthält die Angaben sachlich richtig und rechnerisch richtig sowie Datum und Handzeichen der prüfenden Person. So ist die Prüfung nachvollziehbar dokumentiert."
  },
  {
   "id": "t09b-12",
@@ -5522,7 +5946,8 @@
    "nur mündlich mitgeteilt werden",
    "im Impressum stehen"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Wurden Rabatt oder Skonto vereinbart, müssen diese Preisminderungen auf der Rechnung stehen. Das gehört zu den Pflichtangaben nach § 14 UStG. Eine nur mündliche Mitteilung reicht dafür nicht aus."
  },
  {
   "id": "t09b-14",
@@ -5535,7 +5960,8 @@
    "wird sie ignoriert",
    "wird eine Mängelrüge geschrieben"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Stimmt die Rechnung mit Bestellung und Wareneingang überein und sind die Beträge rechnerisch richtig, gilt sie als korrekt. Dann wird sie gebucht und fristgerecht bezahlt, am besten innerhalb der Skontofrist."
  },
  {
   "id": "t09b-15",
@@ -5548,7 +5974,8 @@
    "ein Ladengeschäft",
    "ein Katalog"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Beim Dropshipping hat der Webshop keine eigene Ware vorrätig. Er muss deshalb laufend prüfen, ob der Lieferant die bestellte Ware überhaupt liefern kann. Ohne diese Abstimmung könnte der Webshop Bestellungen annehmen, die nicht lieferbar sind."
  },
  {
   "id": "t09b-16",
@@ -5561,7 +5988,8 @@
    "Gewinn des Lieferanten",
    "Name des Lagermitarbeiters"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Nach § 14 UStG muss eine Rechnung die Steuernummer oder die USt-IdNr. des Lieferanten enthalten. Damit kann das Finanzamt die Rechnung dem richtigen Unternehmen zuordnen. Interne Angaben wie Gewinn oder Mitarbeiternamen gehören nicht auf die Rechnung."
  },
  {
   "id": "t09b-20",
@@ -5574,7 +6002,8 @@
    "Additionen",
    "die Steuerberechnung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Die sachliche Rechnungsprüfung vergleicht die Rechnung mit der Bestellung und der tatsächlich gelieferten Ware. Stimmen Menge, Qualität und Konditionen überein? Rechenfehler wie Multiplikation oder Steuerberechnung prüft dagegen die rechnerische Prüfung."
  },
  {
   "id": "t09b-21",
@@ -5587,7 +6016,8 @@
    "der Paketdienst",
    "niemand"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Der Kunde kauft beim Webshop, nicht beim Lieferanten. Deshalb bleibt der Webshop der Vertragspartner und haftet dem Kunden gegenüber, zum Beispiel bei Mängeln oder Widerruf, selbst wenn der Lieferant die Ware verschickt hat."
  },
  {
   "id": "t09b-25",
@@ -5600,7 +6030,8 @@
    "das Impressum",
    "die Bilanz"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Nachdem der Lieferant die Ware direkt an den Kunden verschickt hat, schickt er dem Webshop seine Rechnung und die Sendungsnummer. Damit kann der Webshop die Lieferung verfolgen und die Rechnung prüfen."
  },
  {
   "id": "t09b-26",
@@ -5613,7 +6044,8 @@
    "kein Kaufvertrag",
    "drei Kaufverträge mit dem Paketdienst"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Beim Dropshipping gibt es zwei getrennte Kaufverträge. Der Kunde schließt einen Vertrag mit dem Webshop, und der Webshop schließt einen eigenen Vertrag mit dem Lieferanten. Der Kunde hat keinen direkten Vertrag mit dem Lieferanten."
  },
  {
   "id": "t09b-27",
@@ -5626,7 +6058,8 @@
    "die Pflichtangaben",
    "die Lieferbedingungen"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Die rechnerische Rechnungsprüfung kontrolliert Zahlen: Menge mal Preis, Rabatt- und Skontoabzüge, die Steuerberechnung und alle Summen. Ob die Ware wirklich geliefert wurde, prüft stattdessen die sachliche Rechnungsprüfung."
  },
  {
   "id": "t09b-28",
@@ -5639,7 +6072,8 @@
    "fehlen",
    "identisch mit der Bestellnummer sein"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Jede Rechnungsnummer darf nur einmal vergeben werden und muss einer fortlaufenden Reihe folgen. So lässt sich jede Rechnung eindeutig zuordnen, und doppelte Nummern fallen auf."
  },
  {
   "id": "t09b-31",
@@ -5652,7 +6086,8 @@
    "kauft der Kunde direkt beim Lieferanten",
    "gibt es keinen Lieferanten"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Beim Dropshipping hat der Webshop die angebotene Ware nicht selbst im Lager. Stattdessen bestellt er sie beim Lieferanten, der die Ware dann direkt und neutral an den Kunden des Webshops versendet."
  },
  {
   "id": "t09b-32",
@@ -5665,7 +6100,8 @@
    "nie",
    "vor der Prüfung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Wird ein Skonto vereinbart, gibt es bei schneller Zahlung einen Preisnachlass. Zahlt man innerhalb der Skontofrist, spart man diesen Betrag. Deshalb sollte die Zahlung rechtzeitig innerhalb dieser Frist erfolgen."
  },
  {
   "id": "t09b-33",
@@ -5678,7 +6114,8 @@
    "der Marke",
    "dem Grundpreis"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Bei der sachlichen Prüfung wird die Eingangsrechnung mit der Bestellung und der Wareneingangsmeldung abgeglichen. So erkennt man, ob Menge, Preise und Konditionen zusammenpassen."
  },
  {
   "id": "t09b-34",
@@ -5691,7 +6128,8 @@
    "wird der Vertrag nichtig",
    "wird die Ware zurückgeschickt"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Ist eine Rechnung fehlerhaft, wird sie nicht einfach bezahlt. Der Lieferant muss eine korrigierte Rechnung ausstellen. Diese neue Rechnung wird dann erneut sachlich und rechnerisch geprüft, bevor sie gebucht wird."
  },
  {
   "id": "t09b-35",
@@ -5704,7 +6142,8 @@
    "das Impressum des Lieferanten",
    "die Farbe der Verpackung"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Da der Webshop beim Dropshipping keine eigene Ware vorrätig hat, muss er ständig kontrollieren, ob der Lieferant die Artikel noch liefern kann. Sonst könnte er Bestellungen annehmen, die gar nicht lieferbar sind."
  },
  {
   "id": "t09b-37",
@@ -5717,7 +6156,8 @@
    "beim Paketdienst",
    "bei der Bank"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Beim Dropshipping läuft der komplette Einkauf über den Webshop. Der Kunde bestellt dort und bezahlt dort, auch wenn die Ware später direkt vom Lieferanten verschickt wird."
  },
  {
   "id": "t09b-38",
@@ -5730,6 +6170,7 @@
    "die Bilanzsumme",
    "die Farbe des Logos"
   ],
-  "richtig": 0
+  "richtig": 0,
+  "erklaerung": "Nach § 14 UStG gehört auch der Zeitpunkt der Lieferung zu den Pflichtangaben einer Rechnung. So ist nachvollziehbar, wann die Ware tatsächlich geliefert wurde. Interne Werte wie Einkaufspreis oder Bilanzsumme gehören nicht auf die Rechnung."
  }
 ]
