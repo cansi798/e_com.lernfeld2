@@ -291,6 +291,11 @@ function buildCard(q, i) {
 
 function answer(i, o) {
   if (state.mode === 'practice' && state.answers[i] !== null) return;
+  // Nach dem Aufwachen aus dem Standby kann die Zeit abgelaufen sein, bevor der nächste Tick läuft.
+  if (state.mode === 'exam' && remainingSeconds(state.startedAt, Date.now(), EXAM_SECONDS) === 0) {
+    finishExam();
+    return;
+  }
   state.answers[i] = o;
   paintCard(i);
   updateStatus();
